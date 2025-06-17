@@ -1,0 +1,501 @@
+timestamp,type,user,action,description
+2025-05-26 09:00:21,MAIL,muhannad.almasri,LOGIN_SUCCESS,Téléchargement d’une archive mail pour archivage: IP 10.10.12.125
+2025-05-26 09:00:52,MAIL,zayd.abdelrahim,ACCOUNT_REACTIVATED,Lecture d’un email d’alerte sécurité
+2025-05-26 09:02:05,MAIL,salwa.hamdi,UNAUTHORIZED_ACCESS_ATTEMPT,Signalement d’un phishing à l’équipe sécurité
+2025-05-26 09:01:39,MAIL,nabil.ayoub,EMAIL_RULE_TRIGGERED,Téléchargement d’une archive mail pour archivage
+2025-05-26 09:04:28,MAIL,zahra.mahdi,EMAIL_SEARCH,Téléchargement d’un fichier CSV utilisateur: Recherche 'Contact support sécurité'
+2025-05-26 09:05:02,MAIL,nidaa.farouk,EMAIL_FORWARDED_EXTERNAL,Multiples connexions simultanées détectées
+2025-05-26 09:05:34,MAIL,rashid.nour,UPLOAD_ATTACHMENT,Tentative d’accès à un email protégé par MFA
+2025-05-26 09:04:20,MAIL,fadi.kassem,ACCOUNT_REACTIVATED,Envoi d’un email au support informatique
+2025-05-26 09:04:30,MAIL,basim.zahran,SECURITY_ALERT_ACKNOWLEDGED,Réception d’un email avec instructions de déploiement
+2025-05-26 09:04:49,MAIL,yasin.abdelrahman,EMAIL_RULE_CREATED,Téléchargement d’un rapport de vulnérabilité réseau
+2025-05-26 09:08:51,MAIL,ibrahim.hamed,EMAIL_RELEASED_FROM_QUARANTINE,Suppression d’un email suspect signalé par FW
+2025-05-26 09:05:45,MAIL,yara.khaled,SECURITY_ALERT_ACKNOWLEDGED,Accès à la messagerie via VPN sécurisé
+2025-05-26 09:07:36,MAIL,ahmed.alhaj,EMAIL_UNTAGGED,Consultation d’un email avec pièce jointe malveillante
+2025-05-26 09:12:04,MAIL,dina.rashid,LOGIN_SUCCESS,Transfert d’un email à un client externe: IP 10.10.12.84
+2025-05-26 09:08:41,MAIL,tariq.mansour,EMAIL_ENCRYPTED,Envoi d’un email de validation pour action urgente
+2025-05-26 09:13:28,MAIL,mohamed.hassan,EMAIL_FLAGGED,Consultation d’un email de support technique
+2025-05-26 09:13:03,MAIL,shatha.abdallah,ACCOUNT_SUSPENDED,Partage d’un document critique via lien sécurisé
+2025-05-26 09:15:00,MAIL,laila.badran,ACCOUNT_UNLOCK,Consultation d’un email avec informations stratégiques
+2025-05-26 09:13:50,MAIL,zayd.abdelrahim,SECURITY_QUESTION_SET,Téléchargement d’une archive mail pour archivage
+2025-05-26 09:13:08,MAIL,fatima.alami,MARK_SPAM,Lecture d’un email interne confidentiel
+2025-05-26 09:18:21,MAIL,nawal.ibrahim,EMAIL_AUTO_DELETED,Suppression d’un email suite à demande de sécurité
+2025-05-26 09:11:02,MAIL,yara.khaled,SECURITY_QUESTION_CHANGED,Suppression d’un email confidentiel
+2025-05-26 09:17:48,MAIL,karim.faraj,PASSWORD_CHANGE,Signalement d’un phishing à l’équipe sécurité
+2025-05-26 09:12:30,MAIL,ahmed.alsayed,SPAM_FILTER_UPDATED,Lecture d’un email important concernant la réunion UM6P
+2025-05-26 09:15:09,MAIL,shatha.abdallah,MULTIPLE_LOGIN_LOCATIONS,Blocage d’un lien malveillant intégré dans un email
+2025-05-26 09:15:50,MAIL,ali.mostafa,EMAIL_FLAGGED,Téléchargement d’un manuel d’accès VPN
+2025-05-26 09:23:33,MAIL,maysa.abdelrahman,SPAM_FILTER_UPDATED,Envoi d’un email avec des informations financières
+2025-05-26 09:26:49,MAIL,hala.sharif,DOWNLOAD_ATTACHMENT,Blocage automatique du compte suite à alertes AD: Fichier 'schema_reseau_um6p.vsd'
+2025-05-26 09:27:41,MAIL,yasir.khalaf,EMAIL_TAGGED,Recherche d’emails contenant des mots-clés sensibles
+2025-05-26 09:22:40,MAIL,rana.azzam,EMAIL_UNFLAGGED,Téléchargement d’une liste de contacts sécurisée
+2025-05-26 09:17:23,MAIL,mustafa.alraqi,ACCOUNT_LOCK,Téléchargement d’une pièce jointe confidentielle: Compte mustafa.alraqi
+2025-05-26 09:30:59,MAIL,kareem.jamal,EMAIL_UNTAGGED,Récupération d’emails archivés pour audit
+2025-05-26 09:31:26,MAIL,ahmed.alsayed,READ_EMAIL,Accès à la messagerie via VPN sécurisé: Sujet 'Demande d’accès temporaire au système'
+2025-05-26 09:20:37,MAIL,amina.talal,EMAIL_ENCRYPTION_ENABLED,Envoi d’email de rappel pour réunion
+2025-05-26 09:34:03,MAIL,mona.abdul,AUTO_REPLY_DISABLED,Téléchargement d’un document d’audit sécurité
+2025-05-26 09:17:37,MAIL,rana.azzam,EMAIL_ENCRYPTION_DISABLED,Accès à la messagerie via VPN sécurisé
+2025-05-26 09:20:53,MAIL,farid.shaheen,EMAIL_UNTAGGED,Récupération d’emails archivés pour audit
+2025-05-26 09:35:23,MAIL,rashid.nour,SPAM_FILTER_UPDATED,Échec de connexion suite à tentative non autorisée
+2025-05-26 09:35:42,MAIL,reem.taleb,MULTIPLE_LOGIN_LOCATIONS,Téléchargement d’une liste de contacts sécurisée
+2025-05-26 09:30:19,MAIL,salma.hamdan,EMAIL_SEARCH,Connexion au webmail via IP validée par AD: Recherche 'Pièces jointes sensibles'
+2025-05-26 09:26:11,MAIL,firas.abbas,EMAIL_SEARCH,Envoi d’un email de confirmation d’action IT: Recherche 'Accès Webmail externe'
+2025-05-26 09:30:23,MAIL,jamal.alfaraj,MULTIPLE_LOGIN_LOCATIONS,Lecture d’un email interne confidentiel
+2025-05-26 09:31:00,MAIL,ali.mostafa,ATTACHMENT_DOWNLOAD,Signalement d’un phishing à l’équipe sécurité: Fichier 'fichier_backup_db.sql'
+2025-05-26 09:32:46,MAIL,firas.abbas,MARK_SPAM,Suppression de plusieurs emails en masse
+2025-05-26 09:27:04,MAIL,yasmin.abdulrahman,SEND_EMAIL,"Notification d’une nouvelle règle de sécurité mail: Destinataire 'ahmed.alhaj@um6p.ma', Sujet 'Suivi des incidents de sécurité récents'"
+2025-05-26 09:27:08,MAIL,tariq.mansour,EMAIL_DECRYPTED,Lecture d’un email interne confidentiel
+2025-05-26 09:43:47,MAIL,marwan.alhaj,SEND_EMAIL,"Réception d’un email contenant des instructions critiques: Destinataire 'lamia.bader@um6p.ma', Sujet 'Compte rendu du séminaire UM6P'"
+2025-05-26 09:31:10,MAIL,rana.azzam,AUTO_REPLY_DISABLED,Envoi d’un email de confirmation d’action IT
+2025-05-26 09:47:30,MAIL,zaina.karim,SPAM_FILTER_UPDATED,Consultation d’un email avec pièce jointe sensible
+2025-05-26 09:44:26,MAIL,tariq.mansour,EMAIL_RULE_CREATED,Blocage d’un lien malveillant intégré dans un email
+2025-05-26 09:45:00,MAIL,muna.rashid,MARK_SPAM,Tentative d’accès à un email protégé par MFA
+2025-05-26 09:46:56,MAIL,shimaa.hassan,SEND_EMAIL,"Accès refusé suite à politique de sécurité renforcée: Destinataire 'yasin.abdelrahman@um6p.ma', Sujet 'Nouvelle procédure d’authentification'"
+2025-05-26 09:47:35,MAIL,laila.badran,EMAIL_ENCRYPTION_DISABLED,Lecture d’un email d’alerte sécurité
+2025-05-26 09:44:05,MAIL,muna.rashid,ALERT_TRIGGERED,Demande d’aide pour récupération de mot de passe
+2025-05-26 09:46:17,MAIL,noor.jalal,EMAIL_DELETION,Nouvelle connexion détectée depuis un appareil inconnu: Sujet 'Communication officielle UM6P'
+2025-05-26 09:54:36,MAIL,hala.karim,EMAIL_MARKED_UNREAD,Téléchargement d’un formulaire officiel
+2025-05-26 09:40:57,MAIL,samir.shaheen,UNAUTHORIZED_ACCESS_ATTEMPT,Blocage d’un lien malveillant intégré dans un email
+2025-05-26 09:51:56,MAIL,hibah.yusuf,API_ACCESS_GRANTED,Téléchargement d’un rapport de vulnérabilité réseau
+2025-05-26 09:43:40,MAIL,firas.abbas,EMAIL_RULE_CREATED,Signalement d’un email spam suspect
+2025-05-26 09:34:43,MAIL,raihan.abdul,FORWARD_EMAIL,"Envoi d’email de rappel pour réunion: Destinataire 'fatima.zahra@yahoo.com', Sujet 'Mise en place du filtrage des emails'"
+2025-05-26 09:47:52,MAIL,kalil.hakim,MARK_SPAM,Réception d’un email contenant des instructions critiques
+2025-05-26 09:30:49,MAIL,yasmeen.salim,EMAIL_DELETION,Lecture d’un email urgent sur le budget IT: Sujet 'Statistiques d’utilisation VPN'
+2025-05-26 09:35:10,MAIL,farouk.karim,EMAIL_ENCRYPTED,Blocage d’un lien malveillant intégré dans un email
+2025-05-26 09:40:45,MAIL,marwan.alhaj,EMAIL_SEARCH,Téléchargement d’un manuel d’accès VPN: Recherche 'Protocoles sécurité messagerie'
+2025-05-26 09:45:16,MAIL,ibraheem.shaar,EMAIL_UNTAGGED,Récupération d’emails archivés pour audit
+2025-05-26 09:34:52,MAIL,samir.alhassan,FORWARD_EMAIL,"Signalement d’un phishing à l’équipe sécurité: Destinataire 'hazem.younis@um6p.ma', Sujet 'Information importante: mise à jour logicielle'"
+2025-05-26 10:01:33,MAIL,khalifa.mahmoud,SUSPICIOUS_ACTIVITY_DETECTED,Envoi d’un rapport PDF à une adresse externe
+2025-05-26 09:59:13,MAIL,samir.shaheen,EMAIL_ENCRYPTED,Accès au webmail via un nouveau navigateur
+2025-05-26 09:50:35,MAIL,noura.salem,EMAIL_ENCRYPTED,Échec de connexion suite à tentative non autorisée
+2025-05-26 09:43:14,MAIL,dania.kassem,LOGIN_SUCCESS,Suppression d’un email confidentiel: IP 10.10.12.119
+2025-05-26 10:09:04,MAIL,tarik.makki,LOGIN_SUCCESS,Signalement d’un phishing à l’équipe sécurité: IP 10.10.12.113
+2025-05-26 09:46:52,MAIL,muna.bakr,ACCOUNT_REACTIVATED,Téléchargement d’un document d’audit sécurité
+2025-05-26 09:59:44,MAIL,wael.abdulrahim,CLICKED_LINK,Connexion à la messagerie via un appareil mobile: Lien 'http://admin.um6p-portal-login.com'
+2025-05-26 10:11:20,MAIL,fadi.kassem,EMAIL_RECEIVED_EXTERNAL,Signalement d’un email spam suspect
+2025-05-26 09:52:53,MAIL,nader.shams,FORWARD_EMAIL,"Lecture d’un email important concernant la réunion UM6P: Destinataire 'lina.hadi@um6p.ma', Sujet 'Notification de changement de politique IT'"
+2025-05-26 10:03:29,MAIL,sara.abdelkarim,ATTACHMENT_DOWNLOAD,Partage d’un rapport financier avec l’équipe: Fichier 'formulaire_demande_acces_reseau.pdf'
+2025-05-26 10:00:02,MAIL,reem.ali,EMAIL_MARKED_UNREAD,Demande d’aide pour récupération de mot de passe
+2025-05-26 09:51:34,MAIL,kamilah.mohamed,EMAIL_ENCRYPTION_ENABLED,Réception d’un email avec instructions de déploiement
+2025-05-26 09:55:02,MAIL,omar.fahad,AUTO_REPLY_SET,Accès à la boîte mail bloqué par l’administrateur
+2025-05-26 10:02:44,MAIL,khaled.nasser,MARK_SPAM,Lecture d’un email interne confidentiel
+2025-05-26 10:18:10,MAIL,noor.jalal,ACCOUNT_UNLOCK,Consultation d’un email avec pièce jointe sensible
+2025-05-26 09:59:17,MAIL,manar.halabi,EMAIL_SIGNATURE_REMOVED,Téléchargement d’un fichier CSV utilisateur
+2025-05-26 09:46:15,MAIL,zaina.karim,ALERT_TRIGGERED,Téléchargement d’un manuel d’accès VPN
+2025-05-26 09:55:09,MAIL,kalil.hakim,UPLOAD_ATTACHMENT,Téléchargement d’un formulaire officiel
+2025-05-26 10:19:04,MAIL,lamia.bader,EMAIL_DELETION,Lecture d’un email interne confidentiel: Sujet 'Notification d’accès non autorisé'
+2025-05-26 10:16:36,MAIL,raed.saleh,EMAIL_RULE_TRIGGERED,Accès à plusieurs terminaux simultanés suspecté
+2025-05-26 10:17:08,MAIL,layla.abdullah,EMAIL_MOVED_FOLDER,Signalement d’un phishing à l’équipe sécurité
+2025-05-26 09:47:29,MAIL,younes.abdullah,AUTO_REPLY_SET,Partage d’un document critique via lien sécurisé
+2025-05-26 10:19:53,MAIL,khaled.rafat,EMAIL_MOVED_FOLDER,Suppression d’un email suspect signalé par FW
+2025-05-26 10:15:16,MAIL,fatima.alami,CLICKED_LINK,Consultation d’un email de support technique: Lien 'http://analytics-partners.org/um6p/data_sync'
+2025-05-26 10:01:08,MAIL,rashid.nour,CLICKED_LINK,Partage d’un document critique via lien sécurisé: Lien 'http://downloads.um6p-system.ma/archive.zip'
+2025-05-26 09:48:34,MAIL,nour.elmasri,SEND_EMAIL,"Signalement d’un phishing à l’équipe sécurité: Destinataire 'fahd.saadi@um6p.ma', Sujet 'Mise à jour des droits utilisateurs'"
+2025-05-26 10:19:11,MAIL,hamza.karim,ATTACHMENT_SENT,Envoi d’email de rappel pour réunion: Fichier 'guide_utilisation_outils_collab.pdf' envoyé à 'wahid.farhan@um6p.ma'
+2025-05-26 10:21:32,MAIL,reem.taleb,AUTO_REPLY_DISABLED,Téléchargement d’une archive mail pour archivage
+2025-05-26 10:29:08,MAIL,reem.ali,AUTO_REPLY_DISABLED,Signalement d’email frauduleux via le portail
+2025-05-26 10:06:56,MAIL,jamal.alfaraj,EMAIL_RULE_CREATED,Lecture d’un email de confirmation d’inscription
+2025-05-26 10:25:00,MAIL,tarek.bahaa,AUTO_REPLY_SET,Consultation d’un email avec pièce jointe sensible
+2025-05-26 10:08:41,MAIL,jumana.ghazi,ACCOUNT_LOCK,Changement d’adresse email associé au compte: Compte jumana.ghazi
+2025-05-26 09:55:56,MAIL,adil.azzam,MULTIPLE_LOGIN_LOCATIONS,Suppression d’un email confidentiel
+2025-05-26 10:02:34,MAIL,laila.mohsen,ALERT_TRIGGERED,Changement de mot de passe demandé par utilisateur
+2025-05-26 10:22:24,MAIL,samah.abdelfattah,DELETE_EMAIL,Lecture d’un email d’alerte sécurité
+2025-05-26 10:21:30,MAIL,bilal.abdelaziz,SUSPICIOUS_ACTIVITY_DETECTED,Lecture d’un email interne confidentiel
+2025-05-26 10:32:47,MAIL,layla.abdullah,SECURITY_LOG_REVIEWED,Lecture d’un email important concernant la réunion UM6P
+2025-05-26 10:20:39,MAIL,nour.elmasri,LOGIN_SUCCESS,Partage sécurisé d’un fichier via mail interne: IP 10.10.12.57
+2025-05-26 10:00:42,MAIL,khalifa.mahmoud,EMAIL_RELEASED_FROM_QUARANTINE,Accès à plusieurs terminaux simultanés suspecté
+2025-05-26 10:19:01,MAIL,samira.karim,ATTACHMENT_DOWNLOAD,Suppression de plusieurs emails en masse: Fichier 'notes_support_technique.txt'
+2025-05-26 10:13:11,MAIL,shaden.naqib,ATTACHMENT_DOWNLOAD,Tentative d’accès à un email protégé par MFA: Fichier 'rapport_recherche_cybermenaces.pdf'
+2025-05-26 10:08:17,MAIL,fahd.saadi,EMAIL_ENCRYPTED,Partage d’un document critique via lien sécurisé
+2025-05-26 10:15:35,MAIL,jihad.abed,LOGIN_FAILED,Téléchargement d’un formulaire officiel: IP 10.10.12.67
+2025-05-26 10:26:08,MAIL,sami.jaber,ACCOUNT_SUSPENDED,Lecture d’un email de confirmation d’inscription
+2025-05-26 10:47:08,MAIL,jafar.mohamed,SUSPICIOUS_ACTIVITY_DETECTED,Envoi d’un email de confirmation d’action IT
+2025-05-26 10:06:40,MAIL,dina.farouk,EMAIL_TAGGED,Déclenchement d’une règle UEBA pour trafic inhabituel
+2025-05-26 10:35:11,MAIL,bilal.jaber,ACCOUNT_SUSPENDED,Partage d’un document critique via lien sécurisé
+2025-05-26 10:10:51,MAIL,hibah.yusuf,EMAIL_FORWARDED_EXTERNAL,Renvoi d’un email avec données sensibles
+2025-05-26 10:27:48,MAIL,adil.najjar,AUTO_REPLY_DISABLED,Suppression d’un email suspect signalé par FW
+2025-05-26 10:39:28,MAIL,firas.mohamed,READ_EMAIL,Envoi d’un email au support informatique: Sujet 'Guide utilisateur pour le nouveau VPN'
+2025-05-26 10:30:39,MAIL,nidaa.farouk,SPAM_FILTER_UPDATED,Nouvelle connexion détectée depuis un appareil inconnu
+2025-05-26 10:22:40,MAIL,mohamed.hassan,PASSWORD_RESET,Réception d’un email contenant des instructions critiques
+2025-05-26 10:41:01,MAIL,noor.jalal,UNMARK_SPAM,Accès à plusieurs terminaux simultanés suspecté
+2025-05-26 10:31:21,MAIL,samah.fahmi,UNMARK_SPAM,"Clic sur un lien suspect détecté, possible phishing"
+2025-05-26 10:44:02,MAIL,yasmeen.salim,EMAIL_SEARCH,Téléchargement d’un rapport de vulnérabilité réseau: Recherche 'Nom d'utilisateur admin'
+2025-05-26 10:35:36,MAIL,fahd.saadi,EMAIL_ENCRYPTION_ENABLED,Signalement d’email frauduleux via le portail
+2025-05-26 10:25:30,MAIL,kamilah.mohamed,DOWNLOAD_ATTACHMENT,Partage sécurisé d’un fichier via mail interne: Fichier 'fichier_mis_en_quarantaine.zip'
+2025-05-26 10:37:16,MAIL,samir.shaheen,PASSWORD_RESET,Changement de mot de passe demandé par utilisateur
+2025-05-26 10:40:24,MAIL,mona.abdul,EMAIL_ENCRYPTION_DISABLED,Envoi d’un email avec des informations financières
+2025-05-26 10:43:52,MAIL,hazem.younis,EMAIL_SIGNATURE_ADDED,Signalement d’un email phishing par utilisateur
+2025-05-26 10:45:13,MAIL,noura.salem,SUSPICIOUS_ACTIVITY_DETECTED,Nouvelle connexion détectée depuis un appareil inconnu
+2025-05-26 10:21:04,MAIL,zubair.abdulqadir,AUTO_REPLY_DISABLED,Signalement d’une tentative de fraude bancaire
+2025-05-26 11:02:24,MAIL,jihad.abed,LOGIN_FROM_NEW_DEVICE,"Signalement d’email frauduleux via le portail: IP 10.10.12.67, Appareil 'PIXEL-6A'"
+2025-05-26 10:54:26,MAIL,amin.ghanim,EMAIL_SEARCH,Réception d’un email contenant des instructions critiques: Recherche 'Mot de passe NAS'
+2025-05-26 11:08:00,MAIL,zain.ghazal,ATTACHMENT_SENT,Téléchargement d’une liste de contacts sécurisée: Fichier 'infra_config_UM6P.pdf' envoyé à 'ahmed.nafih@um6p.ma'
+2025-05-26 10:51:37,MAIL,amin.ghanim,ACCOUNT_SUSPENDED,Téléchargement d’une pièce jointe confidentielle
+2025-05-26 10:22:27,MAIL,hassan.amir,ACCOUNT_UNLOCK,Signalement d’un email spam suspect
+2025-05-26 10:06:54,MAIL,adil.najjar,EMAIL_DELETION,Blocage d’un lien malveillant intégré dans un email: Sujet 'Conseils pour sécuriser vos accès'
+2025-05-26 10:31:49,MAIL,khalifa.mahmoud,EMAIL_RULE_DELETED,Partage sécurisé d’un fichier via mail interne
+2025-05-26 10:53:10,MAIL,khaled.rafat,REPLY_EMAIL,Accès à la boîte mail bloqué par l’administrateur
+2025-05-26 10:45:47,MAIL,reem.taleb,EMAIL_DECRYPTED,Accès à la messagerie via VPN sécurisé
+2025-05-26 10:08:49,MAIL,maysa.abdelrahman,ACCOUNT_REACTIVATED,Signalement d’un email phishing par utilisateur
+2025-05-26 10:10:24,MAIL,hala.sharif,EMAIL_SEARCH,Envoi d’un email avec des informations financières: Recherche 'Identifiants SSO'
+2025-05-26 11:16:03,MAIL,fadi.kassem,UNMARK_SPAM,Renvoi d’un email avec données sensibles
+2025-05-26 11:04:36,MAIL,rima.bashir,ACCOUNT_REACTIVATED,Consultation d’un email avec pièce jointe sensible
+2025-05-26 10:39:16,MAIL,hada.mohamed,EMAIL_MARKED_READ,Signalement d’un email phishing par utilisateur
+2025-05-26 10:56:27,MAIL,rasha.younis,LOGIN_FROM_NEW_DEVICE,"Consultation d’un email de support technique: IP 10.10.12.96, Appareil 'CLOUD-VM-03'"
+2025-05-26 10:36:40,MAIL,bilal.mansour,EMAIL_DECRYPTED,Téléchargement d’une pièce jointe confidentielle
+2025-05-26 10:21:54,MAIL,ahmed.alhaj,EMAIL_FORWARDED_EXTERNAL,Tentative de connexion détectée depuis une IP étrangère
+2025-05-26 11:14:35,MAIL,reem.ali,MULTIPLE_LOGIN_LOCATIONS,Suppression de plusieurs emails en masse
+2025-05-26 10:38:15,MAIL,jafar.mohamed,LOGIN_FAILED,Récupération d’emails archivés pour audit: IP 10.10.12.94
+2025-05-26 10:28:44,MAIL,zainab.karim,MARK_SPAM,Multiples connexions simultanées détectées
+2025-05-26 11:23:36,MAIL,rina.sharif,UNMARK_SPAM,Partage sécurisé d’un fichier via mail interne
+2025-05-26 11:18:33,MAIL,tamer.karim,ACCOUNT_REACTIVATED,Réception d’un email contenant des instructions critiques
+2025-05-26 10:20:45,MAIL,khaled.nasser,ACCOUNT_REACTIVATED,Consultation d’un email avec pièce jointe malveillante
+2025-05-26 10:46:43,MAIL,abdulrahman.karim,RULE_TRIGGERED,Signalement d’un email phishing par utilisateur
+2025-05-26 10:24:04,MAIL,sami.jaber,EMAIL_RULE_TRIGGERED,Déclenchement d’une règle UEBA pour trafic inhabituel
+2025-05-26 11:23:09,MAIL,yasir.abdullah,AUTO_REPLY_SET,Signalement d’une tentative de fraude bancaire
+2025-05-26 10:22:45,MAIL,fahd.saadi,SECURITY_POLICY_UPDATED,Réception d’un email avec instructions de déploiement
+2025-05-26 10:39:26,MAIL,nidaa.farouk,EMAIL_RULE_TRIGGERED,Envoi d’email de rappel pour réunion
+2025-05-26 11:02:45,MAIL,farah.dawoud,EMAIL_UNTAGGED,Signalement d’un email phishing par utilisateur
+2025-05-26 10:26:26,MAIL,noura.abdul,ACCOUNT_LOCK,"Clic sur un lien suspect détecté, possible phishing: Compte noura.abdul"
+2025-05-26 10:40:42,MAIL,dina.farouk,ATTACHMENT_DOWNLOAD,Suppression d’un email suite à demande de sécurité: Fichier 'fichier_backup_reseau.sql'
+2025-05-26 10:26:45,MAIL,ahmed.nafih,SECURITY_LOG_REVIEWED,Signalement d’une tentative de fraude bancaire
+2025-05-26 10:56:14,MAIL,noor.jalal,ACCOUNT_UNLOCK,Nouvelle connexion détectée depuis un appareil inconnu
+2025-05-26 11:33:15,MAIL,amin.ghanim,ACCOUNT_SUSPENDED,Partage d’un document critique via lien sécurisé
+2025-05-26 10:50:05,MAIL,hafsa.mansur,PASSWORD_RESET,Téléchargement d’un document d’audit sécurité
+2025-05-26 10:25:08,MAIL,omar.fahad,SUSPICIOUS_ACTIVITY_DETECTED,Suppression d’un email confidentiel
+2025-05-26 10:55:45,MAIL,raed.saleh,API_ACCESS_REVOKED,Recherche d’emails contenant des mots-clés sensibles
+2025-05-26 11:29:25,MAIL,maysa.abdelrahman,REPORTED_PHISHING,Partage d’un rapport financier avec l’équipe: Sujet 'Statut du projet digitalisation'
+2025-05-26 11:35:29,MAIL,omar.hakim,EMAIL_UNFLAGGED,Consultation d’un email avec pièce jointe malveillante
+2025-05-26 10:25:12,MAIL,adil.najjar,SECURITY_ALERT_ACKNOWLEDGED,Partage sécurisé d’un fichier via mail interne
+2025-05-26 11:19:27,MAIL,kareem.jamal,MULTIPLE_LOGIN_LOCATIONS,Échec de connexion suite à tentative non autorisée
+2025-05-26 11:36:42,MAIL,mariyam.farid,LOGIN_FAILED,Alerte déclenchée pour activités suspectes sur compte: IP 10.10.12.53
+2025-05-26 11:38:29,MAIL,ali.mostafa,ACCOUNT_LOCK,Envoi d’un email de validation pour action urgente: Compte ali.mostafa
+2025-05-26 10:54:10,MAIL,najwa.bassem,EMAIL_SIGNATURE_ADDED,Multiples connexions simultanées détectées
+2025-05-26 10:59:04,MAIL,samah.fahmi,ACCOUNT_SUSPENDED,Partage d’un rapport financier avec l’équipe
+2025-05-26 10:51:15,MAIL,dalia.abdulaziz,SECURITY_LOG_REVIEWED,Consultation d’un email de support technique
+2025-05-26 10:53:08,MAIL,manal.rashid,DELETE_EMAIL,Réception d’un email avec instructions de déploiement
+2025-05-26 10:30:35,MAIL,sara.farid,EMAIL_UNFLAGGED,Changement de mot de passe demandé par utilisateur
+2025-05-26 11:16:28,MAIL,farah.dawoud,EMAIL_RELEASED_FROM_QUARANTINE,Téléchargement d’un rapport de vulnérabilité réseau
+2025-05-26 11:41:32,MAIL,fatima.alami,SEND_EMAIL,"Suppression d’un email de phishing détecté: Destinataire 'lina.abdulaziz@um6p.ma', Sujet 'Plan d’action suite à incident de phishing'"
+2025-05-26 11:58:19,MAIL,tamer.karim,EMAIL_FORWARDED_EXTERNAL,Suppression d’un email suspect signalé par FW
+2025-05-26 10:30:53,MAIL,mustafa.alraqi,MULTIPLE_LOGIN_LOCATIONS,Téléchargement d’un rapport de vulnérabilité réseau
+2025-05-26 11:08:32,MAIL,hada.mohamed,AUTO_REPLY_DISABLED,Notification d’une nouvelle règle de sécurité mail
+2025-05-26 11:43:25,MAIL,nader.shams,ACCOUNT_SUSPENDED,Téléchargement d’un document d’audit sécurité
+2025-05-26 11:59:53,MAIL,amin.ghanim,ACCOUNT_UNLOCK,Téléchargement d’un document d’audit sécurité
+2025-05-26 10:52:37,MAIL,omar.hakim,LOGIN_FROM_NEW_DEVICE,"Accès à plusieurs terminaux simultanés suspecté: IP 10.10.12.28, Appareil 'SAMSUNG-TAB-A8'"
+2025-05-26 11:33:26,MAIL,maya.hussein,EMAIL_DECRYPTED,Lecture d’un email d’alerte sécurité
+2025-05-26 11:22:15,MAIL,hala.sharif,SPAM_FILTER_UPDATED,Lecture d’un email urgent sur le budget IT
+2025-05-26 10:59:06,MAIL,yasmeen.salim,PASSWORD_RESET,Réinitialisation du mot de passe par l’utilisateur
+2025-05-26 10:36:45,MAIL,manar.halabi,SECURITY_QUESTION_SET,Échec d’authentification via un nouvel appareil
+2025-05-26 10:59:17,MAIL,bilal.abdelaziz,DELETE_EMAIL,Demande d’accès temporaire pour collaborateur externe
+2025-05-26 11:17:56,MAIL,ibrahim.hamed,LOGIN_SUCCESS,Suppression d’un email de phishing détecté: IP 10.10.12.16
+2025-05-26 11:54:16,MAIL,dina.farouk,DELETE_EMAIL,Téléchargement d’un manuel d’accès VPN
+2025-05-26 11:53:08,MAIL,joud.nasser,SECURITY_ALERT_ACKNOWLEDGED,Multiples connexions simultanées détectées
+2025-05-26 10:41:50,MAIL,sami.jaber,EMAIL_RULE_DELETED,Nouvelle connexion détectée depuis un appareil inconnu
+2025-05-26 10:54:20,MAIL,zaki.bahaa,ALERT_TRIGGERED,Lecture d’un email de confirmation d’inscription
+2025-05-26 10:38:34,MAIL,mohsen.najjar,SECURITY_LOG_REVIEWED,"Clic sur un lien suspect détecté, possible phishing"
+2025-05-26 10:53:20,MAIL,ahmed.bakr,MARK_SPAM,Échec d’authentification via un nouvel appareil
+2025-05-26 11:50:07,MAIL,khaled.rafat,ACCOUNT_REACTIVATED,Téléchargement d’un rapport de vulnérabilité réseau
+2025-05-26 10:49:14,MAIL,mohamed.sharif,UNAUTHORIZED_ACCESS_ATTEMPT,Lecture d’un email de confirmation d’inscription
+2025-05-26 11:28:29,MAIL,reem.jabari,EMAIL_FLAGGED,Déclenchement d’une règle UEBA pour trafic inhabituel
+2025-05-26 12:11:32,MAIL,sara.abdelkarim,EMAIL_AUTO_DELETED,Lecture d’un email important concernant la réunion UM6P
+2025-05-26 10:46:53,MAIL,omar.salem,EMAIL_ENCRYPTION_DISABLED,Échec de connexion suite à tentative non autorisée
+2025-05-26 11:20:10,MAIL,sawsan.mansour,FORWARD_EMAIL,"Lecture d’un email d’alerte sécurité: Destinataire 'nader.alsalem@um6p.ma', Sujet 'Mise à jour des licences logiciels'"
+2025-05-26 10:48:51,MAIL,yasir.khalaf,AUTO_REPLY_SET,Envoi d’un email avec des informations financières
+2025-05-26 11:28:24,MAIL,bilal.abdelaziz,EMAIL_ENCRYPTION_ENABLED,Blocage d’un lien malveillant intégré dans un email
+2025-05-26 11:48:21,MAIL,wahid.farhan,REPORTED_PHISHING,Consultation d’un email avec pièce jointe malveillante: Sujet 'Rappel: Changement de mot de passe imminent'
+2025-05-26 11:41:13,MAIL,ali.mostafa,ALERT_TRIGGERED,Notification d’une nouvelle règle de sécurité mail
+2025-05-26 11:47:18,MAIL,wahid.farhan,EMAIL_RULE_CREATED,Consultation d’un email avec informations stratégiques
+2025-05-26 11:46:20,MAIL,adil.azzam,AUTO_REPLY_DISABLED,Demande d’aide pour récupération de mot de passe
+2025-05-26 11:25:09,MAIL,ahmed.bakr,UNMARK_SPAM,Accès refusé suite à politique de sécurité renforcée
+2025-05-26 11:56:48,MAIL,amin.ghanim,CLICKED_LINK,Tentative d’accès à un email protégé par MFA: Lien 'http://reset.um6p-web.org/security-check'
+2025-05-26 12:14:12,MAIL,mariyam.farid,CLICKED_LINK,Envoi d’un email avec des informations financières: Lien 'http://vpn-um6p.net/auth'
+2025-05-26 11:57:51,MAIL,bilal.abdelaziz,EMAIL_MARKED_UNREAD,Consultation d’un email avec informations stratégiques
+2025-05-26 12:24:31,MAIL,nisreen.jamal,EMAIL_UNTAGGED,Accès à plusieurs terminaux simultanés suspecté
+2025-05-26 12:25:12,MAIL,rima.bashir,REPORTED_PHISHING,Nouvelle connexion détectée depuis un appareil inconnu: Sujet 'Communication officielle UM6P'
+2025-05-26 10:47:36,MAIL,laila.badran,EMAIL_SIGNATURE_ADDED,Suppression de plusieurs emails en masse
+2025-05-26 11:39:00,MAIL,basim.zahran,EMAIL_FORWARDED_EXTERNAL,Renvoi d’un email avec données sensibles
+2025-05-26 12:08:41,MAIL,karim.faraj,UNMARK_SPAM,Alerte déclenchée pour activités suspectes sur compte
+2025-05-26 11:12:41,MAIL,zaina.karim,DELETE_EMAIL,Accès refusé suite à politique de sécurité renforcée
+2025-05-26 11:23:47,MAIL,ahmed.alsayed,EMAIL_MOVED_FOLDER,Tentative de connexion détectée depuis une IP étrangère
+2025-05-26 12:11:04,MAIL,yasir.abdullah,API_ACCESS_GRANTED,Envoi d’un email de validation pour action urgente
+2025-05-26 12:29:07,MAIL,rana.azzam,API_ACCESS_REVOKED,Téléchargement d’un fichier CSV utilisateur
+2025-05-26 12:24:36,MAIL,khaled.rafat,SECURITY_ALERT_ACKNOWLEDGED,Envoi d’un rapport PDF à une adresse externe
+2025-05-26 11:19:05,MAIL,zahra.mahdi,SECURITY_POLICY_UPDATED,Consultation d’un email avec informations stratégiques
+2025-05-26 11:44:20,MAIL,rasha.younis,EMAIL_DELETION,Changement de mot de passe demandé par utilisateur: Sujet 'Invitation à l’atelier de sensibilisation'
+2025-05-26 11:56:16,MAIL,firas.mohamed,UPLOAD_ATTACHMENT,Téléchargement d’une liste de contacts sécurisée
+2025-05-26 12:04:46,MAIL,jihad.abed,PASSWORD_ATTEMPT_BLOCKED,Accès à plusieurs terminaux simultanés suspecté
+2025-05-26 11:54:55,MAIL,noor.jalal,ACCOUNT_SUSPENDED,Renvoi d’un email avec données sensibles
+2025-05-26 12:39:48,MAIL,zohair.salim,ALERT_TRIGGERED,Lecture d’un email de confirmation d’inscription
+2025-05-26 11:46:30,MAIL,samir.shaheen,PASSWORD_ATTEMPT_BLOCKED,Renvoi d’un email avec données sensibles
+2025-05-26 12:07:35,MAIL,samar.ridha,AUTO_REPLY_SET,Réception d’un email contenant des instructions critiques
+2025-05-26 12:25:11,MAIL,salma.hamdan,PASSWORD_RESET,Changement d’adresse email associé au compte
+2025-05-26 11:53:19,MAIL,nisreen.jamal,EMAIL_RULE_CREATED,Mise à jour des filtres anti-spam dans la boîte mail
+2025-05-26 11:58:30,MAIL,yasir.abdullah,EMAIL_RULE_DELETED,Multiples connexions simultanées détectées
+2025-05-26 11:26:41,MAIL,rima.bashir,EMAIL_FLAGGED,Envoi d’un email avec des informations financières
+2025-05-26 11:31:40,MAIL,marwan.alhaj,EMAIL_RULE_TRIGGERED,Téléchargement d’une archive mail pour archivage
+2025-05-26 11:41:19,MAIL,yara.khaled,LOGIN_FROM_NEW_DEVICE,"Envoi d’un email de validation pour action urgente: IP 10.10.12.38, Appareil 'IPHONE-13-UM6P'"
+2025-05-26 12:35:05,MAIL,layla.abdullah,EMAIL_UNTAGGED,Suppression d’un email de phishing détecté
+2025-05-26 12:19:30,MAIL,zohair.salim,API_ACCESS_GRANTED,Signalement d’un email phishing par utilisateur
+2025-05-26 12:28:46,MAIL,khalil.abdullah,EMAIL_RULE_DELETED,Suppression d’un email suite à demande de sécurité
+2025-05-26 12:22:22,MAIL,nashit.alhadi,AUTO_REPLY_SET,Réception d’un email avec instructions de déploiement
+2025-05-26 11:32:58,MAIL,ahmed.bakr,EMAIL_RULE_CREATED,Envoi d’un email de validation pour action urgente
+2025-05-26 11:43:52,MAIL,younes.abdullah,ALERT_TRIGGERED,Échec de connexion suite à tentative non autorisée
+2025-05-26 12:07:35,MAIL,kareem.jamal,SECURITY_ALERT_ACKNOWLEDGED,Lecture d’un email interne confidentiel
+2025-05-26 11:53:51,MAIL,jamila.kamal,EMAIL_SEARCH,Envoi d’un email avec des informations financières: Recherche 'Export emails service RH'
+2025-05-26 11:16:13,MAIL,mohanna.hadi,EMAIL_DECRYPTED,Accès à la boîte mail bloqué par l’administrateur
+2025-05-26 11:41:08,MAIL,manal.rashid,FORWARD_EMAIL,"Signalement d’email frauduleux via le portail: Destinataire 'sara.karim@gmail.com', Sujet 'Nouveau règlement intérieur UM6P'"
+2025-05-26 13:02:23,MAIL,zubair.abdulqadir,EMAIL_MARKED_READ,Connexion à la messagerie via un appareil mobile
+2025-05-26 12:40:56,MAIL,samar.ridha,EMAIL_TAGGED,Connexion à la messagerie via un appareil mobile
+2025-05-26 11:12:41,MAIL,tamer.karim,API_ACCESS_REVOKED,Envoi d’email de rappel pour réunion
+2025-05-26 12:07:17,MAIL,jumana.ghazi,EMAIL_UNFLAGGED,Téléchargement d’une pièce jointe confidentielle
+2025-05-26 13:06:57,MAIL,kareem.zidan,EMAIL_DELETION,Signalement d’email frauduleux via le portail: Sujet 'Invitation au webinaire sur la sécurité'
+2025-05-26 11:35:51,MAIL,firas.mohamed,EMAIL_FORWARDED_EXTERNAL,Réception d’un email contenant des instructions critiques
+2025-05-26 12:02:49,MAIL,farah.dawoud,EMAIL_RULE_TRIGGERED,Tentative de connexion détectée depuis une IP étrangère
+2025-05-26 13:01:46,MAIL,shimaa.hassan,LOGIN_SUCCESS,Demande d’aide pour récupération de mot de passe: IP 10.10.12.52
+2025-05-26 12:38:01,MAIL,saif.alqahtani,EMAIL_RULE_CREATED,Signalement d’email frauduleux via le portail
+2025-05-26 11:55:15,MAIL,salim.hadi,EMAIL_MARKED_UNREAD,Récupération d’emails archivés pour audit
+2025-05-26 11:08:39,MAIL,zain.ghazal,EMAIL_FLAGGED,Déclenchement d’une règle UEBA pour trafic inhabituel
+2025-05-26 12:32:40,MAIL,siham.faraj,SECURITY_POLICY_UPDATED,"Clic sur un lien suspect détecté, possible phishing"
+2025-05-26 11:17:37,MAIL,mustafa.alraqi,SECURITY_QUESTION_CHANGED,Téléchargement d’un document d’audit sécurité
+2025-05-26 11:49:07,MAIL,mohamed.hassan,REPLY_EMAIL,Envoi d’un email au support informatique
+2025-05-26 12:43:02,MAIL,salim.hadi,ATTACHMENT_DOWNLOAD,Signalement d’une tentative de fraude bancaire: Fichier 'guide_securite_informatique.pdf'
+2025-05-26 13:12:31,MAIL,siham.faraj,EMAIL_MARKED_READ,Connexion à la messagerie via un appareil mobile
+2025-05-26 11:52:12,MAIL,adil.najjar,FORWARD_EMAIL,"Téléchargement d’une liste de contacts sécurisée: Destinataire 'zayd.abdelrahim@um6p.ma', Sujet 'Changement d’adresse email de contact'"
+2025-05-26 13:13:58,MAIL,dalia.abdulaziz,CLICKED_LINK,Modification des droits d’accès à un dossier partagé: Lien 'http://vpn-um6p.net/auth'
+2025-05-26 11:48:54,MAIL,mariyam.farid,PASSWORD_CHANGE,Envoi d’un email de confirmation d’action IT
+2025-05-26 12:21:05,MAIL,nour.elmasri,PASSWORD_RESET,Téléchargement d’une pièce jointe confidentielle
+2025-05-26 11:39:42,MAIL,sami.jaber,LOGIN_FROM_NEW_DEVICE,"Accès à la messagerie via VPN sécurisé: IP 10.10.12.65, Appareil 'IPAD-MINI-UM6P'"
+2025-05-26 13:09:58,MAIL,kamilah.mohamed,ACCOUNT_REACTIVATED,Accès refusé suite à politique de sécurité renforcée
+2025-05-26 11:18:18,MAIL,laila.badran,UNAUTHORIZED_ACCESS_ATTEMPT,Téléchargement d’une pièce jointe confidentielle
+2025-05-26 12:37:31,MAIL,habib.mahfouz,SECURITY_QUESTION_CHANGED,Renvoi d’un email avec données sensibles
+2025-05-26 11:22:26,MAIL,salwa.hamdi,SECURITY_QUESTION_SET,Téléchargement d’une archive mail pour archivage
+2025-05-26 13:20:31,MAIL,shatha.abdallah,EMAIL_DECRYPTED,Lecture d’un email d’alerte sécurité
+2025-05-26 11:30:43,MAIL,samir.alhassan,ACCOUNT_UNLOCK,Accès à la boîte mail bloqué par l’administrateur
+2025-05-26 11:43:01,MAIL,abdulrahman.karim,EMAIL_MARKED_UNREAD,Alerte déclenchée pour activités suspectes sur compte
+2025-05-26 12:06:25,MAIL,amina.talal,SECURITY_QUESTION_SET,Lecture d’un email urgent sur le budget IT
+2025-05-26 12:10:43,MAIL,fatma.ismail,AUTO_REPLY_SET,Changement d’adresse email associé au compte
+2025-05-26 12:02:27,MAIL,wael.abdulrahim,EMAIL_MARKED_UNREAD,Connexion à la messagerie via un appareil mobile
+2025-05-26 11:49:05,MAIL,rami.salim,DELETE_EMAIL,Signalement d’email frauduleux via le portail
+2025-05-26 11:22:26,MAIL,khalil.abdullah,EMAIL_TAGGED,Consultation d’un email avec informations stratégiques
+2025-05-26 12:24:59,MAIL,yara.khaled,PASSWORD_ATTEMPT_BLOCKED,Signalement d’un email phishing par utilisateur
+2025-05-26 11:53:28,MAIL,jamila.kamal,AUTO_REPLY_SET,Blocage automatique du compte suite à alertes AD
+2025-05-26 13:08:08,MAIL,rania.faraj,SUSPICIOUS_ACTIVITY_DETECTED,Réception d’un email de mise à jour logicielle
+2025-05-26 11:56:00,MAIL,khalil.abdullah,DELETE_EMAIL,Lecture d’un email d’alerte sécurité
+2025-05-26 13:32:35,MAIL,noura.abdul,FORWARD_EMAIL,"Envoi d’un email avec des informations financières: Destinataire 'nour.elmasri@um6p.ma', Sujet 'Validation du plan de formation IT'"
+2025-05-26 11:34:17,MAIL,nashit.alhadi,EMAIL_RECEIVED_EXTERNAL,Transfert d’un email à un client externe
+2025-05-26 12:54:50,MAIL,alaa.salem,DOWNLOAD_ATTACHMENT,Suppression d’un email de phishing détecté: Fichier 'rapport_incident_informatique.docx'
+2025-05-26 12:28:39,MAIL,rima.bashir,LOGIN_FAILED,Accès refusé suite à politique de sécurité renforcée: IP 10.10.12.142
+2025-05-26 13:41:50,MAIL,jamila.kamal,ACCOUNT_REACTIVATED,Téléchargement d’une liste de contacts sécurisée
+2025-05-26 12:00:46,MAIL,lamia.bader,EMAIL_UNFLAGGED,Tentative d’accès à un email protégé par MFA
+2025-05-26 12:16:18,MAIL,hamza.karim,ACCOUNT_REACTIVATED,Demande d’accès temporaire pour collaborateur externe
+2025-05-26 11:37:47,MAIL,jamal.alfaraj,SPAM_FILTER_UPDATED,Réception d’un email de mise à jour logicielle
+2025-05-26 12:53:00,MAIL,noura.abdul,AUTO_REPLY_SET,Signalement d’un email spam suspect
+2025-05-26 11:42:58,MAIL,fahd.saadi,LOGIN_FROM_NEW_DEVICE,"Demande d’aide pour récupération de mot de passe: IP 10.10.12.50, Appareil 'SURFACE-GO'"
+2025-05-26 11:38:52,MAIL,kamilah.mohamed,EMAIL_ENCRYPTION_DISABLED,Signalement d’une tentative de fraude bancaire
+2025-05-26 12:14:45,MAIL,hafsa.mansur,EMAIL_TAGGED,Signalement d’email frauduleux via le portail
+2025-05-26 13:28:25,MAIL,yara.khaled,ACCOUNT_SUSPENDED,Connexion au webmail via IP validée par AD
+2025-05-26 11:52:58,MAIL,hala.karim,LOGIN_FROM_NEW_DEVICE,"Accès à la messagerie via VPN sécurisé: IP 10.10.12.93, Appareil 'SAMSUNG-TAB-A8'"
+2025-05-26 13:36:13,MAIL,ahmed.alhaj,EMAIL_UNFLAGGED,Téléchargement d’un document d’audit sécurité
+2025-05-26 13:26:24,MAIL,mariyam.farid,AUTO_REPLY_SET,Téléchargement d’un rapport de vulnérabilité réseau
+2025-05-26 12:23:30,MAIL,khaled.rafat,ACCOUNT_REACTIVATED,Multiples connexions simultanées détectées
+2025-05-26 12:28:32,MAIL,zainab.karim,ACCOUNT_REACTIVATED,Connexion au webmail via IP validée par AD
+2025-05-26 11:43:58,MAIL,jamal.alfaraj,MARK_SPAM,Accès au webmail via un nouveau navigateur
+2025-05-26 13:39:19,MAIL,ali.mostafa,ACCOUNT_LOCK,Accès refusé suite à politique de sécurité renforcée: Compte ali.mostafa
+2025-05-26 13:40:05,MAIL,fahd.saadi,ACCOUNT_LOCK,Accès refusé suite à politique de sécurité renforcée: Compte fahd.saadi
+2025-05-26 12:45:31,MAIL,layla.abdullah,EMAIL_RULE_TRIGGERED,Modification des droits d’accès à un dossier partagé
+2025-05-26 12:14:52,MAIL,lina.hadi,EMAIL_DELETION,Notification d’une nouvelle règle de sécurité mail: Sujet 'Statistiques d’utilisation VPN'
+2025-05-26 12:36:47,MAIL,farid.shaheen,SECURITY_QUESTION_SET,Envoi d’un email de validation pour action urgente
+2025-05-26 13:09:54,MAIL,samar.ridha,API_ACCESS_REVOKED,Connexion au webmail via IP validée par AD
+2025-05-26 13:54:52,MAIL,nader.alsalem,REPORTED_PHISHING,Accès au webmail via un nouveau navigateur: Sujet 'Mise à jour des droits d’accès'
+2025-05-26 12:40:49,MAIL,alaa.salem,PASSWORD_CHANGE,Renvoi d’un email avec données sensibles
+2025-05-26 12:19:42,MAIL,maya.hussein,EMAIL_RULE_TRIGGERED,Récupération d’emails archivés pour audit
+2025-05-26 13:51:26,MAIL,mohanna.hadi,SECURITY_LOG_REVIEWED,Envoi d’un email de confirmation d’action IT
+2025-05-26 11:46:56,MAIL,samar.ridha,EMAIL_DELETION,Envoi d’un email avec des informations financières: Sujet 'Avis de maintenance réseau'
+2025-05-26 12:25:06,MAIL,mohamed.sharif,EMAIL_MARKED_UNREAD,Partage d’un rapport financier avec l’équipe
+2025-05-26 11:53:54,MAIL,dania.kassem,SECURITY_QUESTION_SET,Téléchargement d’un formulaire officiel
+2025-05-26 12:30:22,MAIL,zohair.salim,SECURITY_QUESTION_SET,Téléchargement d’une pièce jointe confidentielle
+2025-05-26 13:47:58,MAIL,lina.abdulaziz,EMAIL_RULE_TRIGGERED,Lecture d’un email urgent sur le budget IT
+2025-05-26 13:09:31,MAIL,laila.badran,CLICKED_LINK,Téléchargement d’un document d’audit sécurité: Lien 'http://um6p-storage.com/public/HR_policy.pdf'
+2025-05-26 12:52:19,MAIL,reem.jabari,LOGIN_FAILED,Envoi d’un email de confirmation d’action IT: IP 10.10.12.15
+2025-05-26 12:19:48,MAIL,mona.abdul,EMAIL_DELETION,Renvoi d’un email avec données sensibles: Sujet 'Rapport d’analyse des logs réseau'
+2025-05-26 12:59:54,MAIL,samira.karim,EMAIL_ENCRYPTION_ENABLED,Blocage automatique du compte suite à alertes AD
+2025-05-26 12:23:03,MAIL,marwan.alhaj,ATTACHMENT_DOWNLOAD,Accès à plusieurs terminaux simultanés suspecté: Fichier 'dossier_mediation_clients.pdf'
+2025-05-26 13:58:30,MAIL,farouk.karim,PASSWORD_ATTEMPT_BLOCKED,Lecture d’un email d’alerte sécurité
+2025-05-26 13:07:53,MAIL,dalia.abdulaziz,EMAIL_MARKED_READ,Partage sécurisé d’un fichier via mail interne
+2025-05-26 11:54:01,MAIL,najwa.bassem,API_ACCESS_GRANTED,Consultation d’un email avec informations stratégiques
+2025-05-26 14:09:20,MAIL,nour.elmasri,UNAUTHORIZED_ACCESS_ATTEMPT,Téléchargement d’une pièce jointe confidentielle
+2025-05-26 13:45:41,MAIL,dina.farouk,SECURITY_POLICY_UPDATED,Tentative de connexion détectée depuis une IP étrangère
+2025-05-26 14:13:42,MAIL,ali.mostafa,ATTACHMENT_SENT,Accès au webmail via un nouveau navigateur: Fichier 'dossier_risques_informatiques.pdf' envoyé à 'samir.elghazali@mail.com'
+2025-05-26 13:16:24,MAIL,younes.abdullah,REPORTED_PHISHING,Renvoi d’un email avec données sensibles: Sujet 'Mise à jour des droits d’accès'
+2025-05-26 12:07:24,MAIL,hibah.yusuf,UNAUTHORIZED_ACCESS_ATTEMPT,Signalement d’un email phishing par utilisateur
+2025-05-26 13:50:45,MAIL,yasmeen.salim,EMAIL_AUTO_DELETED,Suppression d’un email confidentiel
+2025-05-26 12:59:34,MAIL,amin.ghanim,SPAM_FILTER_UPDATED,Blocage automatique du compte suite à alertes AD
+2025-05-26 14:20:03,MAIL,shimaa.hassan,EMAIL_SIGNATURE_REMOVED,Signalement d’un phishing à l’équipe sécurité
+2025-05-26 13:36:21,MAIL,salim.hadi,SUSPICIOUS_ACTIVITY_DETECTED,Accès à la boîte mail bloqué par l’administrateur
+2025-05-26 12:05:10,MAIL,adil.azzam,EMAIL_UNFLAGGED,Réinitialisation du mot de passe par l’utilisateur
+2025-05-26 14:02:24,MAIL,sara.farid,SECURITY_POLICY_UPDATED,Consultation d’un email avec pièce jointe sensible
+2025-05-26 14:10:05,MAIL,muna.rashid,LOGIN_FAILED,Accès à la boîte mail bloqué par l’administrateur: IP 10.10.12.130
+2025-05-26 13:09:27,MAIL,zayd.abdelrahim,PASSWORD_CHANGE,Suppression d’un email confidentiel
+2025-05-26 11:51:34,MAIL,nabil.ayoub,UPLOAD_ATTACHMENT,Téléchargement d’un rapport de vulnérabilité réseau
+2025-05-26 14:27:03,MAIL,omar.salem,EMAIL_RULE_DELETED,Lecture d’un email interne confidentiel
+2025-05-26 12:59:49,MAIL,kamilah.mohamed,EMAIL_MARKED_READ,Tentative d’accès à un email protégé par MFA
+2025-05-26 12:55:12,MAIL,omar.salem,SECURITY_QUESTION_SET,Lecture d’un email d’alerte sécurité
+2025-05-26 13:21:01,MAIL,najwa.bassem,EMAIL_DELETION,Suppression de plusieurs emails en masse: Sujet 'Rappel: Changement de mot de passe imminent'
+2025-05-26 14:23:57,MAIL,zubair.abdulqadir,EMAIL_RULE_TRIGGERED,Accès refusé suite à politique de sécurité renforcée
+2025-05-26 13:01:53,MAIL,rania.faraj,EMAIL_MARKED_UNREAD,Téléchargement d’une archive mail pour archivage
+2025-05-26 13:08:44,MAIL,mohamed.sharif,CLICKED_LINK,Mise à jour des filtres anti-spam dans la boîte mail: Lien 'http://um6p-docs-support.com/login'
+2025-05-26 12:15:30,MAIL,alaa.salem,MARK_SPAM,Multiples connexions simultanées détectées
+2025-05-26 13:37:49,MAIL,jumana.ghazi,EMAIL_FORWARDED_EXTERNAL,Recherche d’emails contenant des mots-clés sensibles
+2025-05-26 13:58:00,MAIL,najwa.bassem,ATTACHMENT_DOWNLOAD,Envoi d’un email avec des informations financières: Fichier 'plan_deploiement_applications.pdf'
+2025-05-26 13:33:12,MAIL,yara.khaled,PASSWORD_CHANGE,Envoi d’un email de confirmation d’action IT
+2025-05-26 12:27:44,MAIL,dina.farouk,MARK_SPAM,Blocage d’un lien malveillant intégré dans un email
+2025-05-26 13:59:15,MAIL,noura.salem,SUSPICIOUS_ACTIVITY_DETECTED,Réinitialisation du mot de passe par l’utilisateur
+2025-05-26 13:23:02,MAIL,sabir.jarrah,EMAIL_FORWARDED_EXTERNAL,Signalement d’un email spam suspect
+2025-05-26 14:18:32,MAIL,rashid.nour,FORWARD_EMAIL,"Échec de connexion suite à tentative non autorisée: Destinataire 'rashid.nour@um6p.ma', Sujet 'Notification d’accès non autorisé'"
+2025-05-26 14:47:23,MAIL,basil.salama,API_ACCESS_REVOKED,Recherche d’emails contenant des mots-clés sensibles
+2025-05-26 14:00:05,MAIL,aya.zahra,PASSWORD_RESET,Partage d’un document critique via lien sécurisé
+2025-05-26 12:27:58,MAIL,mona.abdul,ALERT_TRIGGERED,Signalement d’un email phishing par utilisateur
+2025-05-26 13:11:47,MAIL,tamer.karim,AUTO_REPLY_DISABLED,Renvoi d’un email avec données sensibles
+2025-05-26 12:28:16,MAIL,najat.omar,EMAIL_RECEIVED_EXTERNAL,Téléchargement d’une pièce jointe confidentielle
+2025-05-26 14:08:21,MAIL,farid.shaheen,EMAIL_UNFLAGGED,Signalement d’une tentative de fraude bancaire
+2025-05-26 13:19:57,MAIL,hala.sharif,EMAIL_SEARCH,Multiples connexions simultanées détectées: Recherche 'Identifiants base de données'
+2025-05-26 12:07:09,MAIL,dalia.abdulaziz,EMAIL_AUTO_DELETED,Lecture d’un email d’alerte sécurité
+2025-05-26 12:40:43,MAIL,rasha.younis,EMAIL_RELEASED_FROM_QUARANTINE,Signalement d’un phishing à l’équipe sécurité
+2025-05-26 12:30:51,MAIL,shimaa.hassan,EMAIL_RULE_CREATED,Envoi d’email de rappel pour réunion
+2025-05-26 12:59:23,MAIL,zainab.karim,UNAUTHORIZED_ACCESS_ATTEMPT,Partage d’un rapport financier avec l’équipe
+2025-05-26 13:47:25,MAIL,tamer.karim,MARK_SPAM,Partage d’un rapport financier avec l’équipe
+2025-05-26 13:08:36,MAIL,reem.ali,EMAIL_RECEIVED_EXTERNAL,Suppression d’un email suite à demande de sécurité
+2025-05-26 12:14:41,MAIL,dania.kassem,EMAIL_UNTAGGED,Téléchargement d’un rapport de vulnérabilité réseau
+2025-05-26 12:46:57,MAIL,asmaa.rahman,SECURITY_QUESTION_SET,Téléchargement d’une pièce jointe confidentielle
+2025-05-26 12:37:10,MAIL,amina.talal,ATTACHMENT_DOWNLOAD,Accès au webmail via un nouveau navigateur: Fichier 'plan_continuite_activite_2025.xlsx'
+2025-05-26 13:21:32,MAIL,fatima.alami,SPAM_FILTER_UPDATED,Signalement d’une tentative de fraude bancaire
+2025-05-26 12:09:52,MAIL,nader.alsalem,ALERT_TRIGGERED,Signalement d’un email phishing par utilisateur
+2025-05-26 14:17:14,MAIL,dalia.karim,EMAIL_MARKED_READ,Lecture d’un email d’alerte sécurité
+2025-05-26 14:44:21,MAIL,samir.shaheen,ATTACHMENT_DOWNLOAD,Téléchargement d’un fichier CSV utilisateur: Fichier 'notes_support_technique.txt'
+2025-05-26 14:00:03,MAIL,zubair.abdulqadir,READ_EMAIL,Téléchargement d’une archive mail pour archivage: Sujet 'Modification des règles d’accès réseau'
+2025-05-26 12:52:22,MAIL,layla.abdullah,PASSWORD_RESET,Blocage automatique du compte suite à alertes AD
+2025-05-26 13:24:36,MAIL,nabil.ayoub,EMAIL_RULE_TRIGGERED,Tentative d’accès à un email protégé par MFA
+2025-05-26 14:14:25,MAIL,yara.khaled,EMAIL_ENCRYPTION_DISABLED,Accès à la messagerie via VPN sécurisé
+2025-05-26 13:53:09,MAIL,asmaa.rahman,REPORTED_PHISHING,Blocage automatique du compte suite à alertes AD: Sujet 'Demande d’accès temporaire au système'
+2025-05-26 12:59:04,MAIL,yara.khaled,CLICKED_LINK,Consultation d’un email avec pièce jointe sensible: Lien 'http://admin.um6p-portal-login.com'
+2025-05-26 13:34:57,MAIL,kareem.jamal,PASSWORD_ATTEMPT_BLOCKED,Envoi d’un email avec des informations financières
+2025-05-26 14:50:09,MAIL,muna.bakr,LOGIN_SUCCESS,Lecture d’un email de confirmation d’inscription: IP 10.10.12.23
+2025-05-26 12:36:05,MAIL,lina.hadi,EMAIL_SEARCH,Changement de mot de passe demandé par utilisateur: Recherche 'Planning formations sécurité'
+2025-05-26 15:21:48,MAIL,dina.farouk,ACCOUNT_LOCK,Signalement d’une tentative de fraude bancaire: Compte dina.farouk
+2025-05-26 13:30:31,MAIL,khalil.abdullah,EMAIL_ENCRYPTION_ENABLED,Envoi d’un email avec des informations financières
+2025-05-26 14:35:50,MAIL,zayd.abdelrahim,EMAIL_RULE_CREATED,Accès refusé suite à politique de sécurité renforcée
+2025-05-26 15:12:10,MAIL,amin.ghanim,SECURITY_POLICY_UPDATED,Demande d’aide pour récupération de mot de passe
+2025-05-26 15:18:41,MAIL,laila.badran,SECURITY_ALERT_ACKNOWLEDGED,Réception d’un email avec instructions de déploiement
+2025-05-26 13:14:40,MAIL,mohanna.hadi,ACCOUNT_UNLOCK,Signalement d’email frauduleux via le portail
+2025-05-26 14:29:03,MAIL,mariyam.farid,MARK_SPAM,Consultation d’un email avec pièce jointe sensible
+2025-05-26 14:11:56,MAIL,marwan.alhaj,REPLY_EMAIL,Changement d’adresse email associé au compte
+2025-05-26 12:55:47,MAIL,yasir.abdullah,SECURITY_QUESTION_CHANGED,Changement de mot de passe demandé par utilisateur
+2025-05-26 13:21:23,MAIL,najat.omar,REPORTED_PHISHING,Connexion à la messagerie via un appareil mobile: Sujet 'Modification des règles d’accès réseau'
+2025-05-26 12:36:32,MAIL,thamer.najjar,UNMARK_SPAM,Téléchargement d’un fichier CSV utilisateur
+2025-05-26 14:17:11,MAIL,raed.saleh,EMAIL_RULE_DELETED,Connexion à la messagerie via un appareil mobile
+2025-05-26 12:38:26,MAIL,tarek.bahaa,SEND_EMAIL,"Envoi d’un email au support informatique: Destinataire 'adil.elfassi@um6p.ma', Sujet 'Suivi des incidents de phishing détectés'"
+2025-05-26 12:57:53,MAIL,lina.hadi,AUTO_REPLY_SET,Signalement d’un phishing à l’équipe sécurité
+2025-05-26 14:45:14,MAIL,wajih.alhassan,ALERT_TRIGGERED,Changement d’adresse email associé au compte
+2025-05-26 13:04:01,MAIL,amina.talal,API_ACCESS_GRANTED,Accès à la boîte mail bloqué par l’administrateur
+2025-05-26 15:17:29,MAIL,dina.farouk,ACCOUNT_LOCK,Téléchargement d’une archive mail pour archivage: Compte dina.farouk
+2025-05-26 14:38:18,MAIL,najwa.bassem,CLICKED_LINK,Changement de mot de passe demandé par utilisateur: Lien 'http://vpnaccess-service.com/um6p'
+2025-05-26 13:40:16,MAIL,samah.abdelfattah,MARK_SPAM,Changement d’adresse email associé au compte
+2025-05-26 13:45:03,MAIL,mariyam.farid,PASSWORD_CHANGE,Envoi d’un rapport PDF à une adresse externe
+2025-05-26 12:24:55,MAIL,raed.khaled,READ_EMAIL,Envoi d’un email avec des informations financières: Sujet 'Conseils pour sécuriser vos accès'
+2025-05-26 13:22:35,MAIL,samir.shaheen,PASSWORD_CHANGE,Déclenchement d’une règle UEBA pour trafic inhabituel
+2025-05-26 15:01:13,MAIL,sawsan.mansour,EMAIL_ENCRYPTION_DISABLED,Blocage automatique du compte suite à alertes AD
+2025-05-26 13:17:34,MAIL,bilal.jaber,ACCOUNT_REACTIVATED,Accès à plusieurs terminaux simultanés suspecté
+2025-05-26 13:27:48,MAIL,reem.taleb,EMAIL_AUTO_DELETED,Renvoi d’un email avec données sensibles
+2025-05-26 13:55:05,MAIL,tarek.bahaa,SEND_EMAIL,"Accès à la messagerie via VPN sécurisé: Destinataire 'yasir.khalaf@um6p.ma', Sujet 'Rapport d’analyse des vulnérabilités'"
+2025-05-26 14:44:37,MAIL,yasir.khalaf,LOGIN_SUCCESS,Partage d’un rapport financier avec l’équipe: IP 10.10.12.151
+2025-05-26 13:33:38,MAIL,jamila.kamal,SECURITY_LOG_REVIEWED,Transfert d’un email à un client externe
+2025-05-26 14:58:59,MAIL,salma.hamdan,UNAUTHORIZED_ACCESS_ATTEMPT,Lecture d’un email d’alerte sécurité
+2025-05-26 14:51:22,MAIL,kareem.jamal,EMAIL_UNFLAGGED,Signalement d’email frauduleux via le portail
+2025-05-26 15:41:13,MAIL,asmaa.rahman,ACCOUNT_UNLOCK,Téléchargement d’un rapport de vulnérabilité réseau
+2025-05-26 14:08:20,MAIL,tarek.bahaa,EMAIL_DELETION,Transfert d’un email à un client externe: Sujet 'Compte rendu réunion sécurité informatique'
+2025-05-26 12:49:22,MAIL,nadia.abdel,ATTACHMENT_DOWNLOAD,Téléchargement d’un fichier CSV utilisateur: Fichier 'schema_reseau_um6p.vsd'
+2025-05-26 13:00:20,MAIL,hafsa.mansur,LOGIN_SUCCESS,Accès refusé suite à politique de sécurité renforcée: IP 10.10.12.128
+2025-05-26 13:47:26,MAIL,sara.farid,EMAIL_DELETION,Changement d’adresse email associé au compte: Sujet 'Validation du plan de formation IT'
+2025-05-26 14:04:14,MAIL,najat.omar,EMAIL_QUARANTINED,Téléchargement d’un formulaire officiel
+2025-05-26 14:14:34,MAIL,samah.fahmi,EMAIL_ENCRYPTED,Téléchargement d’une pièce jointe confidentielle
+2025-05-26 13:39:19,MAIL,samira.karim,EMAIL_SIGNATURE_ADDED,Blocage d’un lien malveillant intégré dans un email
+2025-05-26 15:07:33,MAIL,lamia.bader,AUTO_REPLY_SET,Suppression d’un email confidentiel
+2025-05-26 15:04:19,MAIL,salim.hadi,ACCOUNT_SUSPENDED,Demande d’aide pour récupération de mot de passe
+2025-05-26 13:59:01,MAIL,shatha.abdallah,DELETE_EMAIL,Suppression de plusieurs emails en masse
+2025-05-26 13:46:07,MAIL,mahmoud.najjar,PASSWORD_CHANGE,Téléchargement d’une pièce jointe confidentielle
+2025-05-26 12:47:08,MAIL,omar.fahad,SECURITY_LOG_REVIEWED,Signalement d’un phishing à l’équipe sécurité
+2025-05-26 12:55:26,MAIL,alaa.salem,SECURITY_QUESTION_CHANGED,Signalement d’email frauduleux via le portail
+2025-05-26 12:47:11,MAIL,manal.rashid,EMAIL_DECRYPTED,Blocage d’un lien malveillant intégré dans un email
+2025-05-26 13:49:03,MAIL,hamza.zaki,MARK_SPAM,Déclenchement d’une règle UEBA pour trafic inhabituel
+2025-05-26 13:23:38,MAIL,yasmeen.salim,REPLY_EMAIL,Partage d’un document critique via lien sécurisé
+2025-05-26 14:55:54,MAIL,reem.jabari,EMAIL_MARKED_UNREAD,Suppression de plusieurs emails en masse
+2025-05-26 15:51:28,MAIL,tamer.karim,EMAIL_MARKED_UNREAD,Blocage d’un lien malveillant intégré dans un email
+2025-05-26 13:02:29,MAIL,fahd.saadi,ACCOUNT_SUSPENDED,Demande d’accès temporaire pour collaborateur externe
+2025-05-26 13:47:22,MAIL,lina.hadi,PASSWORD_CHANGE,Suppression d’un email suite à demande de sécurité
+2025-05-26 15:29:36,MAIL,fadi.kassem,EMAIL_UNTAGGED,Envoi d’email de rappel pour réunion
+2025-05-26 15:17:39,MAIL,samir.shaheen,SECURITY_LOG_REVIEWED,Téléchargement d’un formulaire officiel
+2025-05-26 15:03:47,MAIL,kareem.jamal,LOGIN_SUCCESS,Multiples connexions simultanées détectées: IP 10.10.12.39
+2025-05-26 13:59:54,MAIL,zahra.mahdi,EMAIL_MARKED_UNREAD,Lecture d’un email urgent sur le budget IT
+2025-05-26 13:29:04,MAIL,kalil.hakim,RULE_TRIGGERED,Transfert d’un email à un client externe
+2025-05-26 12:44:01,MAIL,hibah.yusuf,RULE_TRIGGERED,Envoi d’un email au support informatique
+2025-05-26 13:23:55,MAIL,salwa.hamdi,SECURITY_POLICY_UPDATED,Réception d’un email contenant des instructions critiques
+2025-05-26 13:52:04,MAIL,zayd.abdelrahim,EMAIL_ENCRYPTION_DISABLED,Lecture d’un email d’alerte sécurité
+2025-05-26 16:21:02,MAIL,dalia.abdulaziz,RULE_TRIGGERED,Envoi d’un email avec des informations financières
+2025-05-26 13:11:54,MAIL,muna.rashid,FORWARD_EMAIL,"Échec d’authentification via un nouvel appareil: Destinataire 'hala.sharif@um6p.ma', Sujet 'Confirmation de participation à la formation'"
+2025-05-26 13:51:37,MAIL,salma.hamdan,EMAIL_RELEASED_FROM_QUARANTINE,Envoi d’un email au support informatique
+2025-05-26 15:15:56,MAIL,hibah.yusuf,ATTACHMENT_DOWNLOAD,Suppression de plusieurs emails en masse: Fichier 'archive_logs_authentification.zip'
+2025-05-26 14:35:52,MAIL,zubair.abdulqadir,EMAIL_MOVED_FOLDER,Changement d’adresse email associé au compte
+2025-05-26 15:31:48,MAIL,marwan.alhaj,SUSPICIOUS_ACTIVITY_DETECTED,Renvoi d’un email avec données sensibles
+2025-05-26 16:11:58,MAIL,asmaa.rahman,PASSWORD_CHANGE,Consultation d’un email avec informations stratégiques
+2025-05-26 13:25:24,MAIL,hala.sharif,EMAIL_SIGNATURE_REMOVED,Connexion à la messagerie via un appareil mobile
+2025-05-26 14:52:21,MAIL,noor.jalal,PASSWORD_RESET,Échec d’authentification via un nouvel appareil
+2025-05-26 15:17:21,MAIL,maya.hussein,EMAIL_DECRYPTED,Consultation d’un email avec pièce jointe malveillante
+2025-05-26 13:26:55,MAIL,ali.mostafa,UNAUTHORIZED_ACCESS_ATTEMPT,Modification des droits d’accès à un dossier partagé
+2025-05-26 14:04:53,MAIL,jamila.kamal,SECURITY_POLICY_UPDATED,Partage d’un rapport financier avec l’équipe
+2025-05-26 14:52:56,MAIL,youssef.khalil,SECURITY_POLICY_UPDATED,Envoi d’email de rappel pour réunion
+2025-05-26 13:39:51,MAIL,wael.abdulrahim,API_ACCESS_REVOKED,Signalement d’email frauduleux via le portail
+2025-05-26 13:34:28,MAIL,maysa.abdelrahman,EMAIL_SEARCH,Consultation d’un email avec pièce jointe malveillante: Recherche 'Mot de passe NAS'
+2025-05-26 14:49:11,MAIL,zohair.salim,DOWNLOAD_ATTACHMENT,Recherche d’emails contenant des mots-clés sensibles: Fichier 'plan_sauvegarde_donnees.xlsx'
+2025-05-26 13:21:48,MAIL,nidaa.farouk,SECURITY_ALERT_ACKNOWLEDGED,Signalement d’un phishing à l’équipe sécurité
+2025-05-26 13:51:57,MAIL,wael.abdulrahim,EMAIL_MOVED_FOLDER,Accès à la boîte mail bloqué par l’administrateur
+2025-05-26 15:31:30,MAIL,wael.abdulrahim,SEND_EMAIL,"Consultation d’un email avec pièce jointe malveillante: Destinataire 'kalil.hakim@um6p.ma', Sujet 'Suivi des demandes IT'"
+2025-05-26 15:14:22,MAIL,hazem.younis,EMAIL_UNFLAGGED,Suppression d’un email suite à demande de sécurité
+2025-05-26 14:47:56,MAIL,rina.sharif,EMAIL_RELEASED_FROM_QUARANTINE,Consultation d’un email avec informations stratégiques
+2025-05-26 13:31:37,MAIL,dalia.abdulaziz,EMAIL_DECRYPTED,Partage d’un rapport financier avec l’équipe
+2025-05-26 16:42:49,MAIL,fadi.kassem,EMAIL_ENCRYPTION_ENABLED,Envoi d’email de rappel pour réunion
+2025-05-26 14:01:43,MAIL,rasha.younis,EMAIL_RELEASED_FROM_QUARANTINE,Envoi d’un email de confirmation d’action IT
+2025-05-26 16:05:00,MAIL,jamila.kamal,ATTACHMENT_DOWNLOAD,Envoi d’email de rappel pour réunion: Fichier 'dossier_mediation_clients.pdf'
+2025-05-26 16:25:29,MAIL,mustafa.alraqi,EMAIL_UNFLAGGED,Envoi d’email de rappel pour réunion
+2025-05-26 15:21:25,MAIL,yasmin.abdulrahman,EMAIL_MARKED_READ,Lecture d’un email d’alerte sécurité
+2025-05-26 14:47:57,MAIL,abdulrahman.karim,PASSWORD_RESET,Lecture d’un email important concernant la réunion UM6P
+2025-05-26 15:39:35,MAIL,nader.alsalem,EMAIL_RULE_CREATED,Envoi d’un rapport PDF à une adresse externe
+2025-05-26 13:08:10,MAIL,manar.halabi,ACCOUNT_UNLOCK,Lecture d’un email de confirmation d’inscription
+2025-05-26 16:49:53,MAIL,dania.kassem,EMAIL_RULE_CREATED,Accès refusé suite à politique de sécurité renforcée
+2025-05-26 16:43:00,MAIL,amina.talal,PASSWORD_RESET,Blocage automatique du compte suite à alertes AD
+2025-05-26 15:52:54,MAIL,rina.sharif,API_ACCESS_GRANTED,Suppression d’un email suite à demande de sécurité
+2025-05-26 15:38:07,MAIL,hassan.amir,EMAIL_QUARANTINED,Envoi d’un email avec des informations financières
+2025-05-26 14:17:27,MAIL,mohamed.hassan,READ_EMAIL,Accès au webmail via un nouveau navigateur: Sujet 'Rapport d’activité mensuel'
+2025-05-26 15:17:52,MAIL,hada.mohamed,SEND_EMAIL,"Téléchargement d’un manuel d’accès VPN: Destinataire 'sawsan.mansour@um6p.ma', Sujet 'Notification d’accès non autorisé'"
+2025-05-26 13:35:04,MAIL,raed.khaled,REPLY_EMAIL,Téléchargement d’une archive mail pour archivage
+2025-05-26 15:28:45,MAIL,farah.dawoud,EMAIL_TAGGED,Renvoi d’un email avec données sensibles
+2025-05-26 16:21:19,MAIL,hazem.younis,ATTACHMENT_SENT,Accès au webmail via un nouveau navigateur: Fichier 'rapport_bilan_trimestriel.pdf' envoyé à 'omar.hakim@um6p.ma'
+2025-05-26 15:25:45,MAIL,ahmed.alsayed,ACCOUNT_REACTIVATED,Demande d’aide pour récupération de mot de passe
+2025-05-26 16:06:32,MAIL,samah.fahmi,AUTO_REPLY_DISABLED,Blocage d’un lien malveillant intégré dans un email
+2025-05-26 16:32:20,MAIL,rima.bashir,DELETE_EMAIL,Envoi d’email de rappel pour réunion
+2025-05-26 13:45:12,MAIL,muhannad.almasri,SECURITY_ALERT_ACKNOWLEDGED,Téléchargement d’un fichier CSV utilisateur
+2025-05-26 14:54:37,MAIL,laila.badran,EMAIL_DECRYPTED,Échec d’authentification via un nouvel appareil
+2025-05-26 13:18:23,MAIL,khalil.abdullah,SECURITY_QUESTION_SET,Téléchargement d’un rapport de vulnérabilité réseau
+2025-05-26 15:02:13,MAIL,younes.abdullah,SECURITY_QUESTION_SET,Déclenchement d’une règle UEBA pour trafic inhabituel
+2025-05-26 13:29:59,MAIL,nashit.alhadi,SECURITY_POLICY_UPDATED,Suppression d’un email suite à demande de sécurité
+2025-05-26 16:44:35,MAIL,salwa.hamdi,EMAIL_UNFLAGGED,Notification d’une nouvelle règle de sécurité mail
+2025-05-26 14:18:10,MAIL,samah.abdelfattah,EMAIL_FORWARDED_EXTERNAL,Téléchargement d’un fichier CSV utilisateur
+2025-05-26 15:11:11,MAIL,fadi.kassem,LOGIN_SUCCESS,Téléchargement d’une pièce jointe confidentielle: IP 10.10.12.31
+2025-05-26 14:03:50,MAIL,omar.fahad,SUSPICIOUS_ACTIVITY_DETECTED,Renvoi d’un email avec données sensibles
+2025-05-26 16:41:02,MAIL,zayd.abdelrahim,EMAIL_FLAGGED,Réception d’un email contenant des instructions critiques
+2025-05-26 14:08:56,MAIL,reem.ali,PASSWORD_RESET,Connexion au webmail via IP validée par AD
+2025-05-26 16:00:42,MAIL,muna.rashid,CLICKED_LINK,Demande d’accès temporaire pour collaborateur externe: Lien 'http://um6p-docs-support.com/login'
+2025-05-26 15:47:08,MAIL,raihan.abdul,EMAIL_RECEIVED_EXTERNAL,Téléchargement d’un document d’audit sécurité
+2025-05-26 14:02:16,MAIL,dina.farouk,UNMARK_SPAM,Consultation d’un email avec informations stratégiques
+2025-05-26 15:44:14,MAIL,ibraheem.shaar,FORWARD_EMAIL,"Modification des droits d’accès à un dossier partagé: Destinataire 'jafar.mohamed@um6p.ma', Sujet 'Rapport d’enquête interne'"
+2025-05-26 13:47:16,MAIL,hazem.younis,EMAIL_ENCRYPTION_DISABLED,Consultation d’un email de support technique

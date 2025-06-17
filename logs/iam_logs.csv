@@ -1,0 +1,301 @@
+timestamp,user,action,resource,resource_type,source_ip,method,component,description
+2025-05-26 09:00:30,alaa.salem,user_disabled,,,,,IAM,User alaa.salem account disabled
+2025-05-26 09:02:30,siham.faraj,mfa_challenge,,,,,IAM,MFA challenge triggered for user siham.faraj
+2025-05-26 09:03:33,fatma.ismail,session_terminated,,,,,IAM,Session terminated for user fatma.ismail
+2025-05-26 09:05:06,bilal.jaber,access_denied,jira_projects,,,,IAM,Access denied to jira_projects for user bilal.jaber
+2025-05-26 09:06:18,rami.salim,access_request,user_roles,,,,IAM,User rami.salim requested access to user_roles
+2025-05-26 09:08:17,noura.salem,user_disabled,,,,,IAM,User noura.salem account disabled
+2025-05-26 09:09:09,sara.abdelkarim,session_terminated,,,,,IAM,Session terminated for user sara.abdelkarim
+2025-05-26 09:09:56,tarek.bahaa,access_granted,ci_cd_pipeline,,,,IAM,Access granted to ci_cd_pipeline for user tarek.bahaa
+2025-05-26 09:11:24,hafsa.mansur,policy_violation_detected,,,,,IAM,Policy violation detected for user hafsa.mansur
+2025-05-26 09:12:56,adil.azzam,resource_unshared,,,,,IAM,User adil.azzam stopped sharing 
+2025-05-26 09:13:51,karim.faraj,mfa_fail,,,,,IAM,MFA verification failed for user karim.faraj
+2025-05-26 09:14:34,hala.sharif,account_locked,,,,,IAM,Account for user hala.sharif locked due to suspicious activity
+2025-05-26 09:16:04,farid.shaheen,api_key_deleted,,,,,IAM,API key deleted for user farid.shaheen
+2025-05-26 09:16:34,ali.mostafa,api_key_created,,,,,IAM,API key created for user ali.mostafa
+2025-05-26 09:18:11,zubair.abdulqadir,mfa_enrolled,,,,,IAM,User zubair.abdulqadir enrolled in MFA
+2025-05-26 09:18:50,ghassan.sharif,permission_escalation_attempt,,,,,IAM,User ghassan.sharif attempted to escalate permissions
+2025-05-26 09:19:50,noura.salem,resource_unshared,,,,,IAM,User noura.salem stopped sharing 
+2025-05-26 09:21:44,nawal.ibrahim,user_disabled,,,,,IAM,User nawal.ibrahim account disabled
+2025-05-26 09:22:45,reem.taleb,session_terminated,,,,,IAM,Session terminated for user reem.taleb
+2025-05-26 09:24:20,fadi.kassem,session_terminated,,,,,IAM,Session terminated for user fadi.kassem
+2025-05-26 09:25:05,mohanna.hadi,password_change,,,,,IAM,User mohanna.hadi changed their password
+2025-05-26 09:26:59,khaled.rafat,session_created,,,,,IAM,New session created for user khaled.rafat
+2025-05-26 09:28:16,shimaa.hassan,token_generated,,,,,IAM,Authentication token generated for user shimaa.hassan
+2025-05-26 09:29:52,rashid.nour,resource_unshared,,,,,IAM,User rashid.nour stopped sharing 
+2025-05-26 09:31:16,sami.jaber,resource_unshared,,,,,IAM,User sami.jaber stopped sharing 
+2025-05-26 09:32:11,manar.halabi,group_joined,,,,,IAM,User manar.halabi joined group 
+2025-05-26 09:32:55,adil.azzam,group_joined,,,,,IAM,User adil.azzam joined group 
+2025-05-26 09:33:55,samira.karim,policy_violation_detected,,,,,IAM,Policy violation detected for user samira.karim
+2025-05-26 09:35:40,muna.rashid,mfa_challenge,,,,,IAM,MFA challenge triggered for user muna.rashid
+2025-05-26 09:36:17,raed.saleh,token_generated,,,,,IAM,Authentication token generated for user raed.saleh
+2025-05-26 09:37:48,muhannad.almasri,password_change,,,,,IAM,User muhannad.almasri changed their password
+2025-05-26 09:38:32,sara.farid,mfa_enrolled,,,,,IAM,User sara.farid enrolled in MFA
+2025-05-26 09:39:38,sami.jaber,account_unlocked,,,,,IAM,Account for user sami.jaber was unlocked by admin
+2025-05-26 09:41:06,wahid.farhan,logout,,,,,IAM,User wahid.farhan logged out successfully
+2025-05-26 09:42:29,sara.farid,mfa_challenge,,,,,IAM,MFA challenge triggered for user sara.farid
+2025-05-26 09:43:21,shimaa.hassan,group_joined,,,,,IAM,User shimaa.hassan joined group 
+2025-05-26 09:44:34,wael.abdulrahim,policy_applied,,,,,IAM,New IAM policy applied to user wael.abdulrahim
+2025-05-26 09:46:12,fatima.alami,mfa_enrolled,,,,,IAM,User fatima.alami enrolled in MFA
+2025-05-26 09:47:15,lina.abdulaziz,access_denied,hr_records,,,,IAM,Access denied to hr_records for user lina.abdulaziz
+2025-05-26 09:47:46,kareem.zidan,role_revoked,,,,,IAM,Role  revoked from user kareem.zidan
+2025-05-26 09:49:30,farouk.karim,role_assigned,,,,,IAM,User farouk.karim assigned role 
+2025-05-26 09:50:35,jumana.ghazi,token_revoked,,,,,IAM,Authentication token revoked for user jumana.ghazi
+2025-05-26 09:51:10,ibrahim.hamed,user_disabled,,,,,IAM,User ibrahim.hamed account disabled
+2025-05-26 09:51:59,khaled.rafat,user_disabled,,,,,IAM,User khaled.rafat account disabled
+2025-05-26 09:52:48,karim.faraj,session_created,,,,,IAM,New session created for user karim.faraj
+2025-05-26 09:53:47,sawsan.mansour,policy_applied,,,,,IAM,New IAM policy applied to user sawsan.mansour
+2025-05-26 09:54:18,zayd.abdelrahim,resource_unshared,,,,,IAM,User zayd.abdelrahim stopped sharing 
+2025-05-26 09:55:47,manal.rashid,permission_escalation_attempt,,,,,IAM,User manal.rashid attempted to escalate permissions
+2025-05-26 09:57:34,raed.khaled,token_generated,,,,,IAM,Authentication token generated for user raed.khaled
+2025-05-26 09:59:07,reem.ali,user_created,,,,,IAM,New user reem.ali account created
+2025-05-26 10:00:39,marwan.alhaj,access_granted,dns_manager,,,,IAM,Access granted to dns_manager for user marwan.alhaj
+2025-05-26 10:01:43,mahmoud.najjar,policy_violation_detected,,,,,IAM,Policy violation detected for user mahmoud.najjar
+2025-05-26 10:03:40,bilal.mansour,mfa_enrolled,,,,,IAM,User bilal.mansour enrolled in MFA
+2025-05-26 10:05:09,yasin.abdelrahman,login_fail,,,192.168.242.220,kerberos,IAM,Failed login attempt for user yasin.abdelrahman
+2025-05-26 10:06:33,samar.ridha,role_assigned,,,,,IAM,User samar.ridha assigned role 
+2025-05-26 10:07:29,amina.talal,group_left,,,,,IAM,User amina.talal left group 
+2025-05-26 10:08:28,kalil.hakim,policy_applied,,,,,IAM,New IAM policy applied to user kalil.hakim
+2025-05-26 10:10:21,samir.alhassan,policy_applied,,,,,IAM,New IAM policy applied to user samir.alhassan
+2025-05-26 10:11:52,maysa.abdelrahman,group_left,,,,,IAM,User maysa.abdelrahman left group 
+2025-05-26 10:13:11,ibraheem.shaar,resource_unshared,,,,,IAM,User ibraheem.shaar stopped sharing 
+2025-05-26 10:14:31,muna.rashid,mfa_success,,,,,IAM,User muna.rashid passed MFA challenge
+2025-05-26 10:16:08,kalil.hakim,login_fail,,,192.168.89.41,otp,IAM,Failed login attempt for user kalil.hakim
+2025-05-26 10:17:56,hamza.zaki,password_change,,,,,IAM,User hamza.zaki changed their password
+2025-05-26 10:19:50,rima.bashir,account_locked,,,,,IAM,Account for user rima.bashir locked due to suspicious activity
+2025-05-26 10:20:40,joud.nasser,role_revoked,,,,,IAM,Role  revoked from user joud.nasser
+2025-05-26 10:21:45,farouk.karim,resource_unshared,,,,,IAM,User farouk.karim stopped sharing 
+2025-05-26 10:22:25,basil.salama,group_left,,,,,IAM,User basil.salama left group 
+2025-05-26 10:23:03,omar.salem,login_fail,,,192.168.16.139,federated_login,IAM,Failed login attempt for user omar.salem
+2025-05-26 10:24:37,reem.ali,account_unlocked,,,,,IAM,Account for user reem.ali was unlocked by admin
+2025-05-26 10:25:13,mustafa.alraqi,user_created,,,,,IAM,New user mustafa.alraqi account created
+2025-05-26 10:26:14,bilal.mansour,mfa_challenge,,,,,IAM,MFA challenge triggered for user bilal.mansour
+2025-05-26 10:27:34,rasha.younis,user_enabled,,,,,IAM,User rasha.younis account re-enabled
+2025-05-26 10:29:09,nidaa.farouk,token_generated,,,,,IAM,Authentication token generated for user nidaa.farouk
+2025-05-26 10:31:05,layla.abdullah,mfa_fail,,,,,IAM,MFA verification failed for user layla.abdullah
+2025-05-26 10:31:37,jumana.ghazi,session_timeout,,,,,IAM,Session timed out due to inactivity for user jumana.ghazi
+2025-05-26 10:32:17,reem.ali,group_left,,,,,IAM,User reem.ali left group 
+2025-05-26 10:33:14,ahmed.bakr,access_granted,confidential_docs,,,,IAM,Access granted to confidential_docs for user ahmed.bakr
+2025-05-26 10:33:48,ahmed.bakr,api_key_created,,,,,IAM,API key created for user ahmed.bakr
+2025-05-26 10:35:23,youssef.khalil,role_assigned,,,,,IAM,User youssef.khalil assigned role 
+2025-05-26 10:37:23,hamza.zaki,user_disabled,,,,,IAM,User hamza.zaki account disabled
+2025-05-26 10:39:22,nashit.alhadi,mfa_fail,,,,,IAM,MFA verification failed for user nashit.alhadi
+2025-05-26 10:40:09,hamza.zaki,account_locked,,,,,IAM,Account for user hamza.zaki locked due to suspicious activity
+2025-05-26 10:40:46,manar.halabi,token_generated,,,,,IAM,Authentication token generated for user manar.halabi
+2025-05-26 10:41:47,jihad.abed,mfa_challenge,,,,,IAM,MFA challenge triggered for user jihad.abed
+2025-05-26 10:42:48,amin.ghanim,mfa_fail,,,,,IAM,MFA verification failed for user amin.ghanim
+2025-05-26 10:43:20,wael.abdulrahim,permission_escalation_attempt,,,,,IAM,User wael.abdulrahim attempted to escalate permissions
+2025-05-26 10:44:13,zahra.mahdi,policy_violation_detected,,,,,IAM,Policy violation detected for user zahra.mahdi
+2025-05-26 10:45:44,hassan.amir,password_reset,,,,,IAM,Password reset initiated for user hassan.amir
+2025-05-26 10:46:57,jihad.abed,user_created,,,,,IAM,New user jihad.abed account created
+2025-05-26 10:48:03,hafsa.mansur,access_granted,cloud_console,,,,IAM,Access granted to cloud_console for user hafsa.mansur
+2025-05-26 10:49:47,habib.mahfouz,login_success,,,192.168.29.19,voice_recognition,IAM,User habib.mahfouz successfully authenticated
+2025-05-26 10:51:38,sabir.jarrah,resource_shared,,,,,IAM,User sabir.jarrah shared  with others
+2025-05-26 10:53:04,mustafa.alraqi,resource_shared,,,,,IAM,User mustafa.alraqi shared  with others
+2025-05-26 10:54:58,habib.mahfouz,access_denied,ci_cd_pipeline,,,,IAM,Access denied to ci_cd_pipeline for user habib.mahfouz
+2025-05-26 10:56:41,tarek.bahaa,access_granted,s3_bucket,,,,IAM,Access granted to s3_bucket for user tarek.bahaa
+2025-05-26 10:58:17,omar.fahad,user_enabled,,,,,IAM,User omar.fahad account re-enabled
+2025-05-26 11:00:09,dalia.abdulaziz,resource_unshared,,,,,IAM,User dalia.abdulaziz stopped sharing 
+2025-05-26 11:00:43,manar.halabi,permission_escalation_attempt,,,,,IAM,User manar.halabi attempted to escalate permissions
+2025-05-26 11:02:23,adil.azzam,logout,,,,,IAM,User adil.azzam logged out successfully
+2025-05-26 11:04:15,sawsan.mansour,resource_unshared,,,,,IAM,User sawsan.mansour stopped sharing 
+2025-05-26 11:04:50,kamilah.mohamed,user_enabled,,,,,IAM,User kamilah.mohamed account re-enabled
+2025-05-26 11:05:36,tarik.makki,mfa_success,,,,,IAM,User tarik.makki passed MFA challenge
+2025-05-26 11:06:39,youssef.khalil,mfa_enrolled,,,,,IAM,User youssef.khalil enrolled in MFA
+2025-05-26 11:07:38,reem.ali,policy_applied,,,,,IAM,New IAM policy applied to user reem.ali
+2025-05-26 11:08:38,dina.rashid,policy_applied,,,,,IAM,New IAM policy applied to user dina.rashid
+2025-05-26 11:10:00,wahid.farhan,session_created,,,,,IAM,New session created for user wahid.farhan
+2025-05-26 11:10:52,manal.rashid,access_request,prod_server,,,,IAM,User manal.rashid requested access to prod_server
+2025-05-26 11:12:34,samira.karim,password_reset,,,,,IAM,Password reset initiated for user samira.karim
+2025-05-26 11:14:12,noor.jalal,password_expired,,,,,IAM,"Password expired for user noor.jalal, requires update"
+2025-05-26 11:15:16,asmaa.rahman,api_key_deleted,,,,,IAM,API key deleted for user asmaa.rahman
+2025-05-26 11:16:30,rima.bashir,session_terminated,,,,,IAM,Session terminated for user rima.bashir
+2025-05-26 11:17:36,farid.shaheen,session_created,,,,,IAM,New session created for user farid.shaheen
+2025-05-26 11:18:40,mohamed.hassan,access_denied,slack_workspace,,,,IAM,Access denied to slack_workspace for user mohamed.hassan
+2025-05-26 11:19:28,ghassan.sharif,account_unlocked,,,,,IAM,Account for user ghassan.sharif was unlocked by admin
+2025-05-26 11:21:08,yasin.abdelrahman,session_terminated,,,,,IAM,Session terminated for user yasin.abdelrahman
+2025-05-26 11:22:07,omar.salem,mfa_fail,,,,,IAM,MFA verification failed for user omar.salem
+2025-05-26 11:23:15,fatma.ismail,user_disabled,,,,,IAM,User fatma.ismail account disabled
+2025-05-26 11:23:53,muna.rashid,mfa_enrolled,,,,,IAM,User muna.rashid enrolled in MFA
+2025-05-26 11:25:28,mohamed.sharif,role_revoked,,,,,IAM,Role  revoked from user mohamed.sharif
+2025-05-26 11:27:15,reem.taleb,access_granted,firewall_config,,,,IAM,Access granted to firewall_config for user reem.taleb
+2025-05-26 11:29:08,ahmed.alhaj,api_key_deleted,,,,,IAM,API key deleted for user ahmed.alhaj
+2025-05-26 11:29:53,nour.elmasri,login_attempt,,,,,IAM,Login attempt detected for user nour.elmasri
+2025-05-26 11:30:30,tamer.karim,account_unlocked,,,,,IAM,Account for user tamer.karim was unlocked by admin
+2025-05-26 11:32:00,dina.farouk,role_revoked,,,,,IAM,Role  revoked from user dina.farouk
+2025-05-26 11:33:51,lina.abdulaziz,group_left,,,,,IAM,User lina.abdulaziz left group 
+2025-05-26 11:34:23,tarek.bahaa,user_disabled,,,,,IAM,User tarek.bahaa account disabled
+2025-05-26 11:35:31,nawal.ibrahim,password_expired,,,,,IAM,"Password expired for user nawal.ibrahim, requires update"
+2025-05-26 11:36:27,rima.bashir,token_revoked,,,,,IAM,Authentication token revoked for user rima.bashir
+2025-05-26 11:38:21,hala.karim,permission_escalation_attempt,,,,,IAM,User hala.karim attempted to escalate permissions
+2025-05-26 11:40:11,ibraheem.shaar,resource_shared,,,,,IAM,User ibraheem.shaar shared  with others
+2025-05-26 11:41:25,maya.hussein,group_left,,,,,IAM,User maya.hussein left group 
+2025-05-26 11:42:19,nawal.ibrahim,password_reset,,,,,IAM,Password reset initiated for user nawal.ibrahim
+2025-05-26 11:43:24,ghassan.sharif,group_joined,,,,,IAM,User ghassan.sharif joined group 
+2025-05-26 11:44:08,najat.omar,api_key_created,,,,,IAM,API key created for user najat.omar
+2025-05-26 11:45:52,samir.shaheen,token_revoked,,,,,IAM,Authentication token revoked for user samir.shaheen
+2025-05-26 11:46:57,raihan.abdul,access_granted,slack_workspace,,,,IAM,Access granted to slack_workspace for user raihan.abdul
+2025-05-26 11:48:08,muhannad.almasri,access_request,project_files,,,,IAM,User muhannad.almasri requested access to project_files
+2025-05-26 11:48:58,fahim.aljaber,user_disabled,,,,,IAM,User fahim.aljaber account disabled
+2025-05-26 11:49:52,farah.dawoud,account_locked,,,,,IAM,Account for user farah.dawoud locked due to suspicious activity
+2025-05-26 11:50:51,reem.ali,permission_escalation_attempt,,,,,IAM,User reem.ali attempted to escalate permissions
+2025-05-26 11:51:51,thamer.najjar,user_created,,,,,IAM,New user thamer.najjar account created
+2025-05-26 11:52:27,zainab.karim,policy_applied,,,,,IAM,New IAM policy applied to user zainab.karim
+2025-05-26 11:53:24,karim.faraj,access_request,jira_projects,,,,IAM,User karim.faraj requested access to jira_projects
+2025-05-26 11:55:03,jamal.alfaraj,session_timeout,,,,,IAM,Session timed out due to inactivity for user jamal.alfaraj
+2025-05-26 11:55:52,joud.nasser,group_joined,,,,,IAM,User joud.nasser joined group 
+2025-05-26 11:57:18,mohamed.sharif,session_terminated,,,,,IAM,Session terminated for user mohamed.sharif
+2025-05-26 11:58:09,wahid.farhan,resource_unshared,,,,,IAM,User wahid.farhan stopped sharing 
+2025-05-26 11:58:56,laila.mohsen,api_key_created,,,,,IAM,API key created for user laila.mohsen
+2025-05-26 12:00:29,khaled.nasser,password_expired,,,,,IAM,"Password expired for user khaled.nasser, requires update"
+2025-05-26 12:01:12,rania.faraj,mfa_fail,,,,,IAM,MFA verification failed for user rania.faraj
+2025-05-26 12:02:30,kareem.jamal,permission_change,,,,,IAM,Permissions changed for user kareem.jamal
+2025-05-26 12:03:35,yara.khaled,session_created,,,,,IAM,New session created for user yara.khaled
+2025-05-26 12:05:25,salma.hamdan,mfa_fail,,,,,IAM,MFA verification failed for user salma.hamdan
+2025-05-26 12:06:01,sara.farid,password_change,,,,,IAM,User sara.farid changed their password
+2025-05-26 12:07:53,abdulrahman.karim,access_denied,grafana_dashboard,,,,IAM,Access denied to grafana_dashboard for user abdulrahman.karim
+2025-05-26 12:08:23,omar.fahad,password_change,,,,,IAM,User omar.fahad changed their password
+2025-05-26 12:09:27,raed.khaled,token_generated,,,,,IAM,Authentication token generated for user raed.khaled
+2025-05-26 12:10:45,mohamed.hassan,user_disabled,,,,,IAM,User mohamed.hassan account disabled
+2025-05-26 12:12:17,ghassan.sharif,login_success,,,192.168.23.245,device_fingerprint,IAM,User ghassan.sharif successfully authenticated
+2025-05-26 12:13:14,fatma.ismail,resource_unshared,,,,,IAM,User fatma.ismail stopped sharing 
+2025-05-26 12:14:02,nader.shams,login_success,,,192.168.186.117,device_fingerprint,IAM,User nader.shams successfully authenticated
+2025-05-26 12:15:30,zaina.karim,logout,,,,,IAM,User zaina.karim logged out successfully
+2025-05-26 12:16:43,siham.faraj,resource_unshared,,,,,IAM,User siham.faraj stopped sharing 
+2025-05-26 12:17:50,samah.fahmi,permission_escalation_attempt,,,,,IAM,User samah.fahmi attempted to escalate permissions
+2025-05-26 12:19:26,dina.rashid,access_granted,backup_bucket,,,,IAM,Access granted to backup_bucket for user dina.rashid
+2025-05-26 12:21:05,zain.ghazal,mfa_challenge,,,,,IAM,MFA challenge triggered for user zain.ghazal
+2025-05-26 12:22:06,salim.hadi,user_created,,,,,IAM,New user salim.hadi account created
+2025-05-26 12:23:11,alaa.salem,login_success,,,192.168.172.216,password,IAM,User alaa.salem successfully authenticated
+2025-05-26 12:23:43,yasmin.abdulrahman,user_created,,,,,IAM,New user yasmin.abdulrahman account created
+2025-05-26 12:24:16,basil.salama,user_created,,,,,IAM,New user basil.salama account created
+2025-05-26 12:25:59,hamza.karim,login_success,,,192.168.83.67,magic_link,IAM,User hamza.karim successfully authenticated
+2025-05-26 12:26:56,manal.rashid,login_success,,,192.168.14.61,smartcard,IAM,User manal.rashid successfully authenticated
+2025-05-26 12:28:15,rina.sharif,mfa_fail,,,,,IAM,MFA verification failed for user rina.sharif
+2025-05-26 12:28:55,najat.omar,permission_change,,,,,IAM,Permissions changed for user najat.omar
+2025-05-26 12:29:56,laila.badran,permission_change,,,,,IAM,Permissions changed for user laila.badran
+2025-05-26 12:31:38,hamza.zaki,access_granted,grafana_dashboard,,,,IAM,Access granted to grafana_dashboard for user hamza.zaki
+2025-05-26 12:33:32,ahmed.alsayed,permission_escalation_attempt,,,,,IAM,User ahmed.alsayed attempted to escalate permissions
+2025-05-26 12:34:49,tariq.mansour,password_reset,,,,,IAM,Password reset initiated for user tariq.mansour
+2025-05-26 12:35:48,nour.elmasri,policy_violation_detected,,,,,IAM,Policy violation detected for user nour.elmasri
+2025-05-26 12:37:32,hamza.karim,user_enabled,,,,,IAM,User hamza.karim account re-enabled
+2025-05-26 12:39:18,fadi.kassem,token_revoked,,,,,IAM,Authentication token revoked for user fadi.kassem
+2025-05-26 12:41:08,hassan.amir,user_enabled,,,,,IAM,User hassan.amir account re-enabled
+2025-05-26 12:42:01,hamza.karim,login_success,,,192.168.69.214,openid_connect,IAM,User hamza.karim successfully authenticated
+2025-05-26 12:42:40,shaden.naqib,access_denied,user_dashboard,,,,IAM,Access denied to user_dashboard for user shaden.naqib
+2025-05-26 12:43:36,bilal.abdelaziz,group_joined,,,,,IAM,User bilal.abdelaziz joined group 
+2025-05-26 12:44:15,dina.rashid,login_fail,,,192.168.148.29,biometric,IAM,Failed login attempt for user dina.rashid
+2025-05-26 12:45:04,sami.jaber,access_granted,prod_server,,,,IAM,Access granted to prod_server for user sami.jaber
+2025-05-26 12:46:28,kareem.jamal,token_generated,,,,,IAM,Authentication token generated for user kareem.jamal
+2025-05-26 12:47:43,farouk.karim,session_timeout,,,,,IAM,Session timed out due to inactivity for user farouk.karim
+2025-05-26 12:48:38,shimaa.hassan,password_reset,,,,,IAM,Password reset initiated for user shimaa.hassan
+2025-05-26 12:50:27,ghassan.sharif,role_revoked,,,,,IAM,Role  revoked from user ghassan.sharif
+2025-05-26 12:51:25,tariq.mansour,session_timeout,,,,,IAM,Session timed out due to inactivity for user tariq.mansour
+2025-05-26 12:52:45,hala.karim,session_created,,,,,IAM,New session created for user hala.karim
+2025-05-26 12:53:49,siham.faraj,resource_unshared,,,,,IAM,User siham.faraj stopped sharing 
+2025-05-26 12:54:33,maya.hussein,access_denied,mfa_devices,,,,IAM,Access denied to mfa_devices for user maya.hussein
+2025-05-26 12:56:17,ghassan.sharif,session_terminated,,,,,IAM,Session terminated for user ghassan.sharif
+2025-05-26 12:58:10,yasir.abdullah,mfa_fail,,,,,IAM,MFA verification failed for user yasir.abdullah
+2025-05-26 12:59:19,basim.zahran,resource_shared,,,,,IAM,User basim.zahran shared  with others
+2025-05-26 13:01:12,nour.elmasri,token_revoked,,,,,IAM,Authentication token revoked for user nour.elmasri
+2025-05-26 13:02:33,muna.bakr,password_change,,,,,IAM,User muna.bakr changed their password
+2025-05-26 13:04:00,jamal.alfaraj,permission_change,,,,,IAM,Permissions changed for user jamal.alfaraj
+2025-05-26 13:04:45,wahid.farhan,token_generated,,,,,IAM,Authentication token generated for user wahid.farhan
+2025-05-26 13:05:43,najwa.bassem,login_success,,,192.168.136.149,email_link,IAM,User najwa.bassem successfully authenticated
+2025-05-26 13:07:12,mariyam.farid,password_reset,,,,,IAM,Password reset initiated for user mariyam.farid
+2025-05-26 13:08:11,siham.faraj,policy_violation_detected,,,,,IAM,Policy violation detected for user siham.faraj
+2025-05-26 13:08:49,maysa.abdelrahman,login_attempt,,,,,IAM,Login attempt detected for user maysa.abdelrahman
+2025-05-26 13:10:26,jamal.alfaraj,password_reset,,,,,IAM,Password reset initiated for user jamal.alfaraj
+2025-05-26 13:11:50,mahmoud.najjar,api_key_deleted,,,,,IAM,API key deleted for user mahmoud.najjar
+2025-05-26 13:13:17,manar.halabi,role_assigned,,,,,IAM,User manar.halabi assigned role 
+2025-05-26 13:14:44,farouk.karim,user_enabled,,,,,IAM,User farouk.karim account re-enabled
+2025-05-26 13:16:39,fatima.alami,token_revoked,,,,,IAM,Authentication token revoked for user fatima.alami
+2025-05-26 13:17:27,thamer.najjar,permission_change,,,,,IAM,Permissions changed for user thamer.najjar
+2025-05-26 13:18:43,mohamed.sharif,password_change,,,,,IAM,User mohamed.sharif changed their password
+2025-05-26 13:19:50,rasha.younis,mfa_fail,,,,,IAM,MFA verification failed for user rasha.younis
+2025-05-26 13:20:59,raihan.abdul,user_deleted,,,,,IAM,User raihan.abdul account deleted
+2025-05-26 13:22:04,firas.abbas,policy_applied,,,,,IAM,New IAM policy applied to user firas.abbas
+2025-05-26 13:22:50,dalia.karim,password_reset,,,,,IAM,Password reset initiated for user dalia.karim
+2025-05-26 13:24:39,lina.hadi,role_assigned,,,,,IAM,User lina.hadi assigned role 
+2025-05-26 13:25:25,khalifa.mahmoud,user_deleted,,,,,IAM,User khalifa.mahmoud account deleted
+2025-05-26 13:25:55,fadi.kassem,permission_change,,,,,IAM,Permissions changed for user fadi.kassem
+2025-05-26 13:27:38,zaki.bahaa,token_generated,,,,,IAM,Authentication token generated for user zaki.bahaa
+2025-05-26 13:29:01,younes.abdullah,group_left,,,,,IAM,User younes.abdullah left group 
+2025-05-26 13:30:43,hada.mohamed,user_created,,,,,IAM,New user hada.mohamed account created
+2025-05-26 13:32:08,nabil.ayoub,mfa_success,,,,,IAM,User nabil.ayoub passed MFA challenge
+2025-05-26 13:33:54,zayd.abdelrahim,user_disabled,,,,,IAM,User zayd.abdelrahim account disabled
+2025-05-26 13:34:27,dina.farouk,permission_change,,,,,IAM,Permissions changed for user dina.farouk
+2025-05-26 13:35:53,hala.sharif,access_denied,mfa_devices,,,,IAM,Access denied to mfa_devices for user hala.sharif
+2025-05-26 13:36:41,ibraheem.shaar,role_assigned,,,,,IAM,User ibraheem.shaar assigned role 
+2025-05-26 13:37:13,raed.khaled,policy_applied,,,,,IAM,New IAM policy applied to user raed.khaled
+2025-05-26 13:38:47,dalia.abdulaziz,user_created,,,,,IAM,New user dalia.abdulaziz account created
+2025-05-26 13:40:21,layla.abdullah,user_deleted,,,,,IAM,User layla.abdullah account deleted
+2025-05-26 13:41:47,farouk.karim,account_unlocked,,,,,IAM,Account for user farouk.karim was unlocked by admin
+2025-05-26 13:42:52,ibraheem.shaar,group_left,,,,,IAM,User ibraheem.shaar left group 
+2025-05-26 13:43:33,aya.zahra,token_revoked,,,,,IAM,Authentication token revoked for user aya.zahra
+2025-05-26 13:44:37,nader.shams,permission_escalation_attempt,,,,,IAM,User nader.shams attempted to escalate permissions
+2025-05-26 13:46:28,jamila.kamal,api_key_deleted,,,,,IAM,API key deleted for user jamila.kamal
+2025-05-26 13:47:13,lamia.bader,access_granted,jira_projects,,,,IAM,Access granted to jira_projects for user lamia.bader
+2025-05-26 13:49:04,karim.faraj,login_attempt,,,,,IAM,Login attempt detected for user karim.faraj
+2025-05-26 13:50:42,shaden.naqib,api_key_deleted,,,,,IAM,API key deleted for user shaden.naqib
+2025-05-26 13:51:35,farouk.karim,api_key_deleted,,,,,IAM,API key deleted for user farouk.karim
+2025-05-26 13:52:25,reem.taleb,account_unlocked,,,,,IAM,Account for user reem.taleb was unlocked by admin
+2025-05-26 13:53:07,fatima.alami,logout,,,,,IAM,User fatima.alami logged out successfully
+2025-05-26 13:53:56,dalia.karim,token_revoked,,,,,IAM,Authentication token revoked for user dalia.karim
+2025-05-26 13:55:07,rania.faraj,role_revoked,,,,,IAM,Role  revoked from user rania.faraj
+2025-05-26 13:56:07,najwa.bassem,password_change,,,,,IAM,User najwa.bassem changed their password
+2025-05-26 13:56:47,dalia.abdulaziz,access_denied,jira_projects,,,,IAM,Access denied to jira_projects for user dalia.abdulaziz
+2025-05-26 13:58:29,nidaa.farouk,token_generated,,,,,IAM,Authentication token generated for user nidaa.farouk
+2025-05-26 14:00:07,raed.saleh,resource_shared,,,,,IAM,User raed.saleh shared  with others
+2025-05-26 14:01:02,zain.ghazal,user_enabled,,,,,IAM,User zain.ghazal account re-enabled
+2025-05-26 14:02:23,ahmed.alhaj,login_attempt,,,,,IAM,Login attempt detected for user ahmed.alhaj
+2025-05-26 14:03:11,ibraheem.shaar,group_left,,,,,IAM,User ibraheem.shaar left group 
+2025-05-26 14:04:25,mustafa.alraqi,mfa_challenge,,,,,IAM,MFA challenge triggered for user mustafa.alraqi
+2025-05-26 14:05:24,yasmeen.salim,role_assigned,,,,,IAM,User yasmeen.salim assigned role 
+2025-05-26 14:06:22,zahra.mahdi,policy_applied,,,,,IAM,New IAM policy applied to user zahra.mahdi
+2025-05-26 14:07:54,zain.ghazal,user_deleted,,,,,IAM,User zain.ghazal account deleted
+2025-05-26 14:09:52,manar.halabi,session_timeout,,,,,IAM,Session timed out due to inactivity for user manar.halabi
+2025-05-26 14:11:41,sara.abdelkarim,logout,,,,,IAM,User sara.abdelkarim logged out successfully
+2025-05-26 14:13:08,reem.ali,login_attempt,,,,,IAM,Login attempt detected for user reem.ali
+2025-05-26 14:14:03,amina.talal,user_created,,,,,IAM,New user amina.talal account created
+2025-05-26 14:16:01,najwa.bassem,permission_change,,,,,IAM,Permissions changed for user najwa.bassem
+2025-05-26 14:17:29,najat.omar,access_granted,vault_secrets,,,,IAM,Access granted to vault_secrets for user najat.omar
+2025-05-26 14:19:19,joud.nasser,access_request,api_keys,,,,IAM,User joud.nasser requested access to api_keys
+2025-05-26 14:19:56,rana.azzam,api_key_deleted,,,,,IAM,API key deleted for user rana.azzam
+2025-05-26 14:20:57,joud.nasser,mfa_fail,,,,,IAM,MFA verification failed for user joud.nasser
+2025-05-26 14:22:15,ahmed.bakr,mfa_challenge,,,,,IAM,MFA challenge triggered for user ahmed.bakr
+2025-05-26 14:22:53,younes.abdullah,mfa_challenge,,,,,IAM,MFA challenge triggered for user younes.abdullah
+2025-05-26 14:23:28,ahmed.alsayed,api_key_deleted,,,,,IAM,API key deleted for user ahmed.alsayed
+2025-05-26 14:24:02,najwa.bassem,user_enabled,,,,,IAM,User najwa.bassem account re-enabled
+2025-05-26 14:24:50,jafar.mohamed,access_request,profile_settings,,,,IAM,User jafar.mohamed requested access to profile_settings
+2025-05-26 14:25:25,sami.jaber,login_success,,,192.168.77.129,email_link,IAM,User sami.jaber successfully authenticated
+2025-05-26 14:27:07,khalifa.mahmoud,login_success,,,192.168.181.52,device_fingerprint,IAM,User khalifa.mahmoud successfully authenticated
+2025-05-26 14:28:21,dina.farouk,api_key_created,,,,,IAM,API key created for user dina.farouk
+2025-05-26 14:30:15,muna.rashid,policy_applied,,,,,IAM,New IAM policy applied to user muna.rashid
+2025-05-26 14:31:23,zahra.mahdi,token_generated,,,,,IAM,Authentication token generated for user zahra.mahdi
+2025-05-26 14:32:17,laila.badran,login_success,,,192.168.54.5,oauth,IAM,User laila.badran successfully authenticated
+2025-05-26 14:33:51,mustafa.alraqi,api_key_created,,,,,IAM,API key created for user mustafa.alraqi
+2025-05-26 14:34:45,zain.ghazal,mfa_challenge,,,,,IAM,MFA challenge triggered for user zain.ghazal
+2025-05-26 14:35:55,hassan.amir,group_joined,,,,,IAM,User hassan.amir joined group 
+2025-05-26 14:37:00,rashid.nour,resource_unshared,,,,,IAM,User rashid.nour stopped sharing 
+2025-05-26 14:37:35,bilal.abdelaziz,login_attempt,,,,,IAM,Login attempt detected for user bilal.abdelaziz
+2025-05-26 14:38:39,tarik.makki,group_left,,,,,IAM,User tarik.makki left group 
+2025-05-26 14:39:29,fadi.kassem,permission_escalation_attempt,,,,,IAM,User fadi.kassem attempted to escalate permissions
+2025-05-26 14:40:20,firas.abbas,group_joined,,,,,IAM,User firas.abbas joined group 
+2025-05-26 14:42:15,sami.jaber,policy_violation_detected,,,,,IAM,Policy violation detected for user sami.jaber
+2025-05-26 14:43:52,fahim.aljaber,api_key_deleted,,,,,IAM,API key deleted for user fahim.aljaber
+2025-05-26 14:44:27,rasha.younis,user_enabled,,,,,IAM,User rasha.younis account re-enabled
+2025-05-26 14:46:14,amin.ghanim,login_success,,,192.168.172.193,federated_login,IAM,User amin.ghanim successfully authenticated
+2025-05-26 14:47:48,mahmoud.najjar,access_request,dev_server,,,,IAM,User mahmoud.najjar requested access to dev_server
+2025-05-26 14:49:23,tariq.mansour,policy_violation_detected,,,,,IAM,Policy violation detected for user tariq.mansour
+2025-05-26 14:50:48,amina.talal,access_request,api_keys,,,,IAM,User amina.talal requested access to api_keys
+2025-05-26 14:52:24,nader.alsalem,account_unlocked,,,,,IAM,Account for user nader.alsalem was unlocked by admin
+2025-05-26 14:54:18,tariq.mansour,login_fail,,,192.168.160.241,sso,IAM,Failed login attempt for user tariq.mansour
+2025-05-26 14:55:54,firas.mohamed,access_granted,api_keys,,,,IAM,Access granted to api_keys for user firas.mohamed
+2025-05-26 14:56:49,tariq.mansour,resource_shared,,,,,IAM,User tariq.mansour shared  with others
+2025-05-26 14:57:58,rima.bashir,access_granted,backup_bucket,,,,IAM,Access granted to backup_bucket for user rima.bashir
+2025-05-26 14:59:38,samah.fahmi,user_enabled,,,,,IAM,User samah.fahmi account re-enabled
+2025-05-26 15:00:26,ibrahim.hamed,user_enabled,,,,,IAM,User ibrahim.hamed account re-enabled
+2025-05-26 15:01:56,sara.farid,permission_escalation_attempt,,,,,IAM,User sara.farid attempted to escalate permissions
+2025-05-26 15:03:39,nidaa.farouk,account_unlocked,,,,,IAM,Account for user nidaa.farouk was unlocked by admin
+2025-05-26 15:05:38,saif.alqahtani,mfa_fail,,,,,IAM,MFA verification failed for user saif.alqahtani
