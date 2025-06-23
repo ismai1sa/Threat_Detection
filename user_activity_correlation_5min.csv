@@ -165,14 +165,9 @@ ali.mostafa,2025-05-27 01:15:00,['user password reset by administrator'],normal
 ali.mostafa,2025-05-27 04:50:00,[],normal
 ali.mostafa,2025-06-01 10:15:00,[],normal
 ali.mostafa,2025-06-01 13:00:00,[],normal
-amin.elk,2025-05-26 09:00:00,['Multiple failed login attempts'],brute_force
-amin.elk,2025-05-26 09:10:00,['Multiple failed login attempts'],brute_force
-amin.elk,2025-05-26 09:40:00,['Multiple failed login attempts'],brute_force
-amin.elk,2025-05-26 09:45:00,['Multiple failed login attempts'],brute_force
-amin.elk,2025-05-26 10:10:00,"['Multiple failed login attempts', 'Multiple failed login attempts']",brute_force
-amin.elk,2025-05-26 10:25:00,['Multiple failed login attempts'],brute_force
-amin.elk,2025-05-26 10:35:00,['Multiple failed login attempts'],brute_force
-amin.elk,2025-05-26 10:55:00,['Multiple failed login attempts'],brute_force
+amin.elk,2025-05-26 09:15:00,"['Multiple failed login attempts', 'Multiple failed login attempts']",brute_force
+amin.elk,2025-05-26 10:10:00,['Multiple failed login attempts'],brute_force
+amin.elk,2025-05-26 10:45:00,['Multiple failed login attempts'],brute_force
 amin.ghanim,2025-05-26 09:10:00,[],normal
 amin.ghanim,2025-05-26 10:05:00,[],normal
 amin.ghanim,2025-05-26 10:40:00,['mfa verification failed for user amin.ghanim'],normal
@@ -673,8 +668,14 @@ hafsa.mansur,2025-06-01 10:25:00,[],normal
 hafsa.mansur,2025-06-01 10:50:00,[],normal
 hafsa.mansur,2025-06-01 11:45:00,[],normal
 hajar.ait,2025-05-26 09:05:00,['Multiple failed login attempts'],brute_force
-hajar.ait,2025-05-26 10:25:00,['Multiple failed login attempts'],brute_force
+hajar.ait,2025-05-26 09:20:00,['Multiple failed login attempts'],brute_force
+hajar.ait,2025-05-26 09:35:00,['Multiple failed login attempts'],brute_force
+hajar.ait,2025-05-26 09:55:00,['Multiple failed login attempts'],brute_force
+hajar.ait,2025-05-26 10:05:00,['Multiple failed login attempts'],brute_force
+hajar.ait,2025-05-26 10:15:00,['Multiple failed login attempts'],brute_force
 hajar.ait,2025-05-26 10:45:00,"['Multiple failed login attempts', 'Multiple failed login attempts']",brute_force
+hajar.ait,2025-05-26 10:50:00,['Multiple failed login attempts'],brute_force
+hajar.ait,2025-05-26 10:55:00,"['Multiple failed login attempts', 'Multiple failed login attempts']",brute_force
 hala.karim,2025-05-26 09:50:00,['téléchargement d’un formulaire officiel'],normal
 hala.karim,2025-05-26 11:30:00,['software installed successfully'],normal
 hala.karim,2025-05-26 11:35:00,['user hala.karim attempted to escalate permissions'],normal
@@ -845,11 +846,13 @@ ibrahim.hamed,2025-05-27 04:15:00,[],normal
 ibrahim.hamed,2025-06-01 11:00:00,[],normal
 ibrahim.hamed,2025-06-01 11:55:00,[],normal
 ibrahim.hamed,2025-06-01 12:10:00,[],normal
-ismail.rahimi,2025-05-26 09:00:00,['User clicked on suspicious email link'],phishing
-ismail.rahimi,2025-05-26 09:15:00,['User clicked on suspicious email link'],phishing
-ismail.rahimi,2025-05-26 10:10:00,['User clicked on suspicious email link'],phishing
-ismail.rahimi,2025-05-26 10:25:00,['User clicked on suspicious email link'],phishing
-ismail.rahimi,2025-05-26 10:35:00,['User clicked on suspicious email link'],phishing
+ismail.rahimi,2025-05-26 09:05:00,"['User clicked on suspicious email link', 'User clicked on suspicious email link']",phishing
+ismail.rahimi,2025-05-26 09:20:00,['User clicked on suspicious email link'],phishing
+ismail.rahimi,2025-05-26 09:25:00,['User clicked on suspicious email link'],phishing
+ismail.rahimi,2025-05-26 09:40:00,"['User clicked on suspicious email link', 'User clicked on suspicious email link']",phishing
+ismail.rahimi,2025-05-26 09:45:00,['User clicked on suspicious email link'],phishing
+ismail.rahimi,2025-05-26 09:55:00,['User clicked on suspicious email link'],phishing
+ismail.rahimi,2025-05-26 10:50:00,['User clicked on suspicious email link'],phishing
 jafar.mohamed,2025-05-26 10:20:00,['redirection vers site de phishing'],phishing
 jafar.mohamed,2025-05-26 10:35:00,"['récupération d’emails archivés pour audit: ip 10.10.12.94', 'redirection vers site de phishing', 'trafic redirigé vers honeypot']",phishing
 jafar.mohamed,2025-05-26 10:45:00,['envoi d’un email de confirmation d’action it'],normal
@@ -1034,12 +1037,12 @@ kareem.zidan,2025-05-27 00:20:00,[],normal
 kareem.zidan,2025-05-27 02:10:00,[],normal
 kareem.zidan,2025-05-27 02:35:00,['audit log cleared'],normal
 kareem.zidan,2025-06-01 10:35:00,[],normal
-karim.dadi,2025-05-26 09:00:00,['Suspicious internal remote login'],lateral_movement
-karim.dadi,2025-05-26 09:15:00,['Suspicious internal remote login'],lateral_movement
-karim.dadi,2025-05-26 09:30:00,['Suspicious internal remote login'],lateral_movement
 karim.dadi,2025-05-26 09:35:00,['Suspicious internal remote login'],lateral_movement
+karim.dadi,2025-05-26 09:45:00,['Suspicious internal remote login'],lateral_movement
+karim.dadi,2025-05-26 09:50:00,['Suspicious internal remote login'],lateral_movement
+karim.dadi,2025-05-26 10:05:00,['Suspicious internal remote login'],lateral_movement
 karim.dadi,2025-05-26 10:15:00,['Suspicious internal remote login'],lateral_movement
-karim.dadi,2025-05-26 10:25:00,['Suspicious internal remote login'],lateral_movement
+karim.dadi,2025-05-26 10:30:00,['Suspicious internal remote login'],lateral_movement
 karim.dadi,2025-05-26 10:55:00,['Suspicious internal remote login'],lateral_movement
 karim.faraj,2025-05-26 09:05:00,['téléchargement de script bloqué'],normal
 karim.faraj,2025-05-26 09:10:00,['mfa verification failed for user karim.faraj'],normal
@@ -1367,13 +1370,13 @@ maysa.abdelrahman,2025-06-01 09:35:00,[],normal
 maysa.abdelrahman,2025-06-01 12:05:00,[],normal
 maysa.abdelrahman,2025-06-01 12:20:00,[],normal
 mohamed.hassan,2025-05-26 09:00:00,"['bloqué, domaine inconnu']",normal
-mohamed.hassan,2025-05-26 09:10:00,"['consultation d’un email de support technique', 'Suspicious internal remote login']",lateral_movement
-mohamed.hassan,2025-05-26 09:15:00,['Suspicious internal remote login'],lateral_movement
+mohamed.hassan,2025-05-26 09:05:00,['Suspicious internal remote login'],lateral_movement
+mohamed.hassan,2025-05-26 09:10:00,['consultation d’un email de support technique'],normal
 mohamed.hassan,2025-05-26 09:55:00,['Suspicious internal remote login'],lateral_movement
 mohamed.hassan,2025-05-26 10:00:00,['Suspicious internal remote login'],lateral_movement
-mohamed.hassan,2025-05-26 10:15:00,['Suspicious internal remote login'],lateral_movement
 mohamed.hassan,2025-05-26 10:20:00,"['réception d’un email contenant des instructions critiques', 'Suspicious internal remote login']",lateral_movement
-mohamed.hassan,2025-05-26 10:25:00,['Suspicious internal remote login'],lateral_movement
+mohamed.hassan,2025-05-26 10:35:00,['Suspicious internal remote login'],lateral_movement
+mohamed.hassan,2025-05-26 10:50:00,['Suspicious internal remote login'],lateral_movement
 mohamed.hassan,2025-05-26 11:15:00,['access denied to slack_workspace for user mohamed.hassan'],normal
 mohamed.hassan,2025-05-26 11:45:00,['envoi d’un email au support informatique'],normal
 mohamed.hassan,2025-05-26 12:10:00,['user mohamed.hassan account disabled'],normal
@@ -1599,12 +1602,11 @@ nadia.abdel,2025-05-27 03:15:00,['user added to security-enabled local group'],n
 nadia.abdel,2025-05-27 03:55:00,['software installed successfully'],normal
 nadia.abdel,2025-06-01 10:45:00,[],normal
 nadia.abdel,2025-06-01 12:25:00,[],normal
-nadia.bouk,2025-05-26 09:00:00,['Suspicious internal remote login'],lateral_movement
-nadia.bouk,2025-05-26 09:05:00,['Suspicious internal remote login'],lateral_movement
-nadia.bouk,2025-05-26 09:40:00,['Suspicious internal remote login'],lateral_movement
+nadia.bouk,2025-05-26 09:10:00,['Suspicious internal remote login'],lateral_movement
+nadia.bouk,2025-05-26 09:30:00,['Suspicious internal remote login'],lateral_movement
 nadia.bouk,2025-05-26 09:55:00,['Suspicious internal remote login'],lateral_movement
+nadia.bouk,2025-05-26 10:05:00,"['Suspicious internal remote login', 'Suspicious internal remote login', 'Suspicious internal remote login']",lateral_movement
 nadia.bouk,2025-05-26 10:15:00,['Suspicious internal remote login'],lateral_movement
-nadia.bouk,2025-05-26 10:25:00,['Suspicious internal remote login'],lateral_movement
 najat.omar,2025-05-26 09:30:00,[],normal
 najat.omar,2025-05-26 10:00:00,[],normal
 najat.omar,2025-05-26 10:05:00,[],normal
@@ -1767,12 +1769,8 @@ noura.abdul,2025-05-27 03:05:00,[],normal
 noura.abdul,2025-05-27 03:15:00,[],normal
 noura.abdul,2025-06-01 09:40:00,[],normal
 noura.abdul,2025-06-01 11:55:00,[],normal
-noura.benali,2025-05-26 09:15:00,['User clicked on suspicious email link'],phishing
-noura.benali,2025-05-26 09:45:00,['User clicked on suspicious email link'],phishing
-noura.benali,2025-05-26 09:55:00,['User clicked on suspicious email link'],phishing
-noura.benali,2025-05-26 10:05:00,['User clicked on suspicious email link'],phishing
-noura.benali,2025-05-26 10:30:00,"['User clicked on suspicious email link', 'User clicked on suspicious email link', 'User clicked on suspicious email link']",phishing
-noura.benali,2025-05-26 10:40:00,['User clicked on suspicious email link'],phishing
+noura.benali,2025-05-26 09:20:00,['User clicked on suspicious email link'],phishing
+noura.benali,2025-05-26 10:10:00,"['User clicked on suspicious email link', 'User clicked on suspicious email link']",phishing
 noura.salem,2025-05-26 09:05:00,['user noura.salem account disabled'],normal
 noura.salem,2025-05-26 09:15:00,['user noura.salem stopped sharing'],normal
 noura.salem,2025-05-26 09:50:00,['échec de connexion suite à tentative non autorisée'],normal
@@ -2076,14 +2074,11 @@ sabir.jarrah,2025-05-26 17:20:00,['software installed successfully'],normal
 sabir.jarrah,2025-05-27 02:25:00,['authentication ticket renewed'],normal
 sabir.jarrah,2025-06-01 09:30:00,[],normal
 sabir.jarrah,2025-06-01 13:10:00,[],normal
-saif.alqahtani,2025-05-26 09:00:00,[],normal
-saif.alqahtani,2025-05-26 09:15:00,['Multiple failed login attempts'],brute_force
-saif.alqahtani,2025-05-26 09:25:00,['Multiple failed login attempts'],brute_force
-saif.alqahtani,2025-05-26 09:35:00,['Multiple failed login attempts'],brute_force
-saif.alqahtani,2025-05-26 10:05:00,['Multiple failed login attempts'],brute_force
-saif.alqahtani,2025-05-26 10:10:00,['Multiple failed login attempts'],brute_force
+saif.alqahtani,2025-05-26 09:00:00,['Multiple failed login attempts'],brute_force
+saif.alqahtani,2025-05-26 09:45:00,['Multiple failed login attempts'],brute_force
+saif.alqahtani,2025-05-26 09:55:00,['Multiple failed login attempts'],brute_force
 saif.alqahtani,2025-05-26 10:25:00,['Multiple failed login attempts'],brute_force
-saif.alqahtani,2025-05-26 10:40:00,['Multiple failed login attempts'],brute_force
+saif.alqahtani,2025-05-26 10:30:00,['Multiple failed login attempts'],brute_force
 saif.alqahtani,2025-05-26 11:10:00,['tentative de spoofing réseau'],normal
 saif.alqahtani,2025-05-26 11:20:00,['domaine récemment enregistré'],normal
 saif.alqahtani,2025-05-26 12:35:00,['signalement d’email frauduleux via le portail'],normal
@@ -2649,13 +2644,14 @@ yasmin.abdulrahman,2025-05-27 00:30:00,[],normal
 yasmin.abdulrahman,2025-05-27 02:35:00,[],normal
 yasmin.abdulrahman,2025-06-01 10:55:00,[],normal
 yasmin.abdulrahman,2025-06-01 12:45:00,[],normal
+yassir.ouattara,2025-05-26 09:00:00,['User clicked on suspicious email link'],phishing
 yassir.ouattara,2025-05-26 09:15:00,['User clicked on suspicious email link'],phishing
-yassir.ouattara,2025-05-26 09:25:00,['User clicked on suspicious email link'],phishing
+yassir.ouattara,2025-05-26 09:20:00,['User clicked on suspicious email link'],phishing
+yassir.ouattara,2025-05-26 09:55:00,['User clicked on suspicious email link'],phishing
 yassir.ouattara,2025-05-26 10:00:00,['User clicked on suspicious email link'],phishing
-yassir.ouattara,2025-05-26 10:05:00,['User clicked on suspicious email link'],phishing
 yassir.ouattara,2025-05-26 10:15:00,['User clicked on suspicious email link'],phishing
-yassir.ouattara,2025-05-26 10:30:00,['User clicked on suspicious email link'],phishing
-yassir.ouattara,2025-05-26 10:55:00,['User clicked on suspicious email link'],phishing
+yassir.ouattara,2025-05-26 10:35:00,['User clicked on suspicious email link'],phishing
+yassir.ouattara,2025-05-26 10:40:00,['User clicked on suspicious email link'],phishing
 younes.abdullah,2025-05-26 09:45:00,['partage d’un document critique via lien sécurisé'],normal
 younes.abdullah,2025-05-26 10:10:00,['account locked out due to too many failed logons'],brute_force
 younes.abdullah,2025-05-26 11:30:00,['téléversement interdit détecté'],normal
