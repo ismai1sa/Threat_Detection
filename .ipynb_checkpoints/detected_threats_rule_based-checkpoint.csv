@@ -1,0 +1,2909 @@
+user_account,time_bucket,events_in_5min,correlated_threat
+0,2025-05-26 09:45:00,[],normal
+0,2025-05-26 10:05:00,['demande de ressource interne depuis ip externe'],normal
+0,2025-05-26 10:30:00,[],normal
+0,2025-05-26 10:45:00,['signalement d’un email phishing par utilisateur'],phishing
+0,2025-05-26 11:40:00,['alerte déclenchée pour activités suspectes sur compte'],normal
+0,2025-05-26 12:05:00,['access denied to grafana_dashboard for user abdulrahman.karim'],normal
+0,2025-05-26 14:25:00,['special privileges assigned'],normal
+0,2025-05-26 14:45:00,['lecture d’un email important concernant la réunion um6p'],normal
+0,2025-05-26 15:10:00,['proxy chain détecté'],normal
+0,2025-05-26 15:45:00,['scan de port détecté'],normal
+0,2025-05-26 16:00:00,['domaine récemment enregistré'],normal
+0,2025-05-26 17:55:00,['software installed successfully'],normal
+0,2025-05-26 18:05:00,[],normal
+0,2025-06-01 09:50:00,[],normal
+0,2025-06-01 10:30:00,[],normal
+0,2025-06-01 12:20:00,[],normal
+0,2025-06-01 13:00:00,[],normal
+1,2025-05-26 09:10:00,"['user adil.azzam stopped sharing', 'two-factor authentication disabled']",normal
+1,2025-05-26 09:30:00,['user adil.azzam joined group'],normal
+1,2025-05-26 09:50:00,[],normal
+1,2025-05-26 09:55:00,['suppression d’un email confidentiel'],normal
+1,2025-05-26 10:00:00,[],normal
+1,2025-05-26 11:00:00,['user adil.azzam logged out successfully'],normal
+1,2025-05-26 11:10:00,['redirection vers site de phishing'],phishing
+1,2025-05-26 11:25:00,"['url encode suspect détecté', 'trafic normal']",normal
+1,2025-05-26 11:45:00,['demande d’aide pour récupération de mot de passe'],normal
+1,2025-05-26 12:05:00,['réinitialisation du mot de passe par l’utilisateur'],normal
+1,2025-05-26 16:25:00,['trafic de type bot détecté'],normal
+1,2025-05-26 20:40:00,[],normal
+1,2025-05-26 23:40:00,[],normal
+1,2025-05-27 04:35:00,[],normal
+1,2025-06-01 09:40:00,[],normal
+1,2025-06-01 10:00:00,[],normal
+1,2025-06-01 10:55:00,[],normal
+1,2025-06-01 11:10:00,[],normal
+1,2025-06-01 12:40:00,[],normal
+2,2025-05-26 10:05:00,"[""blocage d’un lien malveillant intégré dans un email: sujet 'conseils pour sécuriser vos accès'""]",normal
+2,2025-05-26 10:25:00,"['partage sécurisé d’un fichier via mail interne', 'suppression d’un email suspect signalé par fw']",normal
+2,2025-05-26 11:05:00,['connexion rapide et répétée au même endpoint'],normal
+2,2025-05-26 11:50:00,"[""téléchargement d’une liste de contacts sécurisée: destinataire 'zayd.abdelrahim@um6p.ma', sujet 'changement d’adresse email de contact'""]",normal
+2,2025-05-26 14:25:00,['connexion via vpn interne'],normal
+2,2025-05-26 14:50:00,['connexion bloquée - comportement anormal'],normal
+2,2025-05-26 16:50:00,['exécution de script js inconnu'],normal
+2,2025-05-26 20:00:00,['malware detected and quarantined'],normal
+2,2025-05-27 01:10:00,[],normal
+2,2025-05-27 01:25:00,[],normal
+2,2025-06-01 10:05:00,[],normal
+2,2025-06-01 12:10:00,[],normal
+2,2025-06-01 13:05:00,[],normal
+3,2025-05-26 09:05:00,['consultation d’un email avec pièce jointe malveillante'],normal
+3,2025-05-26 10:00:00,[],normal
+3,2025-05-26 10:20:00,['tentative de connexion détectée depuis une ip étrangère'],normal
+3,2025-05-26 11:25:00,['api key deleted for user ahmed.alhaj'],normal
+3,2025-05-26 13:35:00,['téléchargement d’un document d’audit sécurité'],normal
+3,2025-05-26 13:45:00,['utilisation de proxy public détectée'],normal
+3,2025-05-26 14:00:00,['login attempt detected for user ahmed.alhaj'],normal
+3,2025-05-26 14:25:00,['requête sortante bloquée'],normal
+3,2025-05-26 16:25:00,[],normal
+3,2025-05-26 17:30:00,[],normal
+3,2025-05-26 17:45:00,[],normal
+3,2025-05-26 23:20:00,['system rebooted'],normal
+3,2025-05-26 23:45:00,[],normal
+3,2025-05-27 01:45:00,[],normal
+3,2025-05-27 04:50:00,['attempt to read ad schema'],normal
+3,2025-05-27 05:40:00,['backup failed'],normal
+3,2025-06-01 09:35:00,[],normal
+3,2025-06-01 10:00:00,[],normal
+3,2025-06-01 11:20:00,[],normal
+4,2025-05-26 09:10:00,['lecture d’un email important concernant la réunion um6p'],normal
+4,2025-05-26 09:30:00,"[""accès à la messagerie via vpn sécurisé: sujet 'demande d’accès temporaire au système'""]",normal
+4,2025-05-26 09:40:00,['audit log cleared'],normal
+4,2025-05-26 10:55:00,['signature de phishing connue détectée'],phishing
+4,2025-05-26 11:20:00,['tentative de connexion détectée depuis une ip étrangère'],normal
+4,2025-05-26 12:30:00,['user ahmed.alsayed attempted to escalate permissions'],normal
+4,2025-05-26 12:35:00,[],normal
+4,2025-05-26 13:55:00,['failed logon attempt from unusual client'],normal
+4,2025-05-26 14:20:00,['api key deleted for user ahmed.alsayed'],normal
+4,2025-05-26 15:25:00,['demande d’aide pour récupération de mot de passe'],normal
+4,2025-05-26 15:30:00,['connexion rapide et répétée au même endpoint'],normal
+4,2025-05-26 15:45:00,['connexion rapide et répétée au même endpoint'],normal
+4,2025-05-26 16:50:00,['accès détecté en dehors des heures ouvrables'],normal
+4,2025-05-26 17:00:00,['user logged off'],normal
+4,2025-06-01 09:50:00,[],normal
+4,2025-06-01 11:45:00,[],normal
+5,2025-05-26 10:20:00,['connexion suspecte détectée'],normal
+5,2025-05-26 10:30:00,"['access granted to confidential_docs for user ahmed.bakr', 'api key created for user ahmed.bakr']",normal
+5,2025-05-26 10:50:00,['échec d’authentification via un nouvel appareil'],normal
+5,2025-05-26 11:25:00,['accès refusé suite à politique de sécurité renforcée'],normal
+5,2025-05-26 11:30:00,['envoi d’un email de validation pour action urgente'],normal
+5,2025-05-26 12:15:00,['backup failed'],normal
+5,2025-05-26 13:10:00,['connexion à une base de données non sécurisée'],normal
+5,2025-05-26 13:35:00,['connexion vers api externe non reconnue'],normal
+5,2025-05-26 13:55:00,"[""tentative d'accès externe non autorisé""]",normal
+5,2025-05-26 14:00:00,['unauthorized access attempt blocked'],normal
+5,2025-05-26 14:10:00,['user account enabled'],normal
+5,2025-05-26 14:20:00,['mfa challenge triggered for user ahmed.bakr'],normal
+5,2025-05-26 16:45:00,['protocole anormal utilisé pour post'],normal
+5,2025-05-26 17:25:00,['failed logon attempt using service account'],normal
+5,2025-05-26 20:05:00,[],normal
+5,2025-05-26 20:45:00,[],normal
+5,2025-05-26 22:25:00,[],normal
+5,2025-05-27 03:10:00,['software removed successfully'],normal
+5,2025-05-27 03:50:00,[],normal
+5,2025-06-01 09:55:00,[],normal
+5,2025-06-01 10:35:00,[],normal
+5,2025-06-01 11:35:00,[],normal
+5,2025-06-01 12:10:00,[],normal
+5,2025-06-01 13:15:00,[],normal
+6,2025-05-26 09:40:00,['connexion simultanée depuis plusieurs pays'],normal
+6,2025-05-26 10:15:00,['configuration file modified'],normal
+6,2025-05-26 10:25:00,"['téléversement interdit détecté', 'signalement d’une tentative de fraude bancaire']",normal
+6,2025-05-26 11:10:00,['navigation anormale détectée'],normal
+6,2025-05-26 12:20:00,['tentative de spoofing réseau'],normal
+6,2025-05-26 13:45:00,['requête http bloquée'],normal
+6,2025-05-26 15:50:00,"['connexion bloquée - comportement anormal', 'utilisateur désactivé a tenté de se connecter']",normal
+6,2025-05-26 17:00:00,['lien suspect partagé via messagerie interne'],normal
+6,2025-05-26 17:25:00,[],normal
+6,2025-05-27 04:45:00,['backup failed'],normal
+6,2025-06-01 09:50:00,[],normal
+6,2025-06-01 10:10:00,[],normal
+6,2025-06-01 10:35:00,[],normal
+6,2025-06-01 11:15:00,[],normal
+6,2025-06-01 11:45:00,[],normal
+6,2025-06-01 11:55:00,[],normal
+6,2025-06-01 12:05:00,[],normal
+7,2025-05-26 09:00:00,"['user alaa.salem account disabled', 'connexion rapide et répétée au même endpoint']",normal
+7,2025-05-26 10:35:00,[],normal
+7,2025-05-26 11:20:00,['system time changed'],normal
+7,2025-05-26 11:25:00,['connexion sécurisée'],normal
+7,2025-05-26 12:15:00,['multiples connexions simultanées détectées'],normal
+7,2025-05-26 12:20:00,['user alaa.salem successfully authenticated'],normal
+7,2025-05-26 12:40:00,['renvoi d’un email avec données sensibles'],normal
+7,2025-05-26 12:50:00,"[""suppression d’un email de phishing détecté: fichier 'rapport_incident_informatique.docx'""]",phishing
+7,2025-05-26 12:55:00,['signalement d’email frauduleux via le portail'],normal
+7,2025-05-26 15:20:00,[],normal
+7,2025-05-26 17:10:00,[],normal
+7,2025-05-26 18:30:00,[],normal
+7,2025-05-26 23:20:00,[],normal
+7,2025-05-27 01:05:00,['failed logon attempt from unusual client'],normal
+7,2025-05-27 05:20:00,['group policy updated successfully'],normal
+7,2025-05-27 05:25:00,['network interface enabled'],normal
+7,2025-06-01 10:55:00,[],normal
+7,2025-06-01 11:25:00,[],normal
+7,2025-06-01 13:05:00,[],normal
+8,2025-05-26 09:10:00,"['fichier téléchargé analysé, pas de menace']",normal
+8,2025-05-26 09:15:00,"['téléchargement d’un manuel d’accès vpn', 'api key created for user ali.mostafa']",normal
+8,2025-05-26 09:30:00,"[""signalement d’un phishing à l’équipe sécurité: fichier 'fichier_backup_db.sql'""]",phishing
+8,2025-05-26 09:35:00,['requête redondante sur même endpoint'],normal
+8,2025-05-26 11:35:00,['envoi d’un email de validation pour action urgente: compte ali.mostafa'],normal
+8,2025-05-26 11:40:00,['notification d’une nouvelle règle de sécurité mail'],normal
+8,2025-05-26 12:10:00,['tentative de connexion brute force'],normal
+8,2025-05-26 13:25:00,['modification des droits d’accès à un dossier partagé'],normal
+8,2025-05-26 13:35:00,['accès refusé suite à politique de sécurité renforcée: compte ali.mostafa'],normal
+8,2025-05-26 13:40:00,['password changed for user'],normal
+8,2025-05-26 13:55:00,['connexion rapide et répétée au même endpoint'],normal
+8,2025-05-26 14:10:00,"[""accès au webmail via un nouveau navigateur: fichier 'dossier_risques_informatiques.pdf' envoyé à 'samir.elghazali@mail.com'""]",normal
+8,2025-05-26 14:30:00,"['connexion autorisée, surveillance active']",normal
+8,2025-05-26 14:40:00,[],normal
+8,2025-05-26 15:55:00,[],normal
+8,2025-05-26 16:30:00,['téléchargement de script bloqué'],normal
+8,2025-05-26 16:45:00,[],normal
+8,2025-05-26 19:35:00,['enumeration of admin group'],normal
+8,2025-05-27 01:15:00,['user password reset by administrator'],normal
+8,2025-05-27 04:50:00,[],normal
+8,2025-06-01 10:15:00,[],normal
+8,2025-06-01 13:00:00,[],normal
+9,2025-05-26 09:15:00,"['Multiple failed login attempts', 'Multiple failed login attempts']",brute_force
+9,2025-05-26 10:10:00,['Multiple failed login attempts'],brute_force
+9,2025-05-26 10:45:00,['Multiple failed login attempts'],brute_force
+10,2025-05-26 09:10:00,[],normal
+10,2025-05-26 10:05:00,[],normal
+10,2025-05-26 10:40:00,['mfa verification failed for user amin.ghanim'],normal
+10,2025-05-26 10:50:00,"['téléchargement d’une pièce jointe confidentielle', ""réception d’un email contenant des instructions critiques: recherche 'mot de passe nas'""]",normal
+10,2025-05-26 11:30:00,['partage d’un document critique via lien sécurisé'],normal
+10,2025-05-26 11:40:00,[],normal
+10,2025-05-26 11:55:00,"[""tentative d’accès à un email protégé par mfa: lien 'http://reset.um6p-web.org/security-check'"", 'téléchargement d’un document d’audit sécurité']",normal
+10,2025-05-26 12:55:00,['blocage automatique du compte suite à alertes ad'],normal
+10,2025-05-26 13:55:00,['password changed for user'],normal
+10,2025-05-26 14:05:00,['tentative de bypass sécurité ad'],normal
+10,2025-05-26 14:35:00,['requête http avec header modifié'],normal
+10,2025-05-26 14:45:00,['user amin.ghanim successfully authenticated'],normal
+10,2025-05-26 15:10:00,['demande d’aide pour récupération de mot de passe'],normal
+10,2025-05-26 15:55:00,['connexion manuelle confirmée'],normal
+10,2025-05-26 16:40:00,['connexion suspecte détectée'],normal
+10,2025-05-26 18:25:00,['group membership updated'],normal
+10,2025-05-26 21:00:00,[],normal
+10,2025-05-26 21:10:00,['authentication ticket renewed'],normal
+10,2025-05-26 22:40:00,['group membership updated'],normal
+10,2025-05-27 01:45:00,[],normal
+10,2025-05-27 03:10:00,['failed logon attempt using service account'],normal
+10,2025-05-27 04:05:00,[],normal
+10,2025-06-01 09:55:00,[],normal
+10,2025-06-01 11:00:00,[],normal
+10,2025-06-01 12:55:00,[],normal
+11,2025-05-26 09:20:00,['envoi d’email de rappel pour réunion'],normal
+11,2025-05-26 10:00:00,['échec authentification ad'],normal
+11,2025-05-26 10:05:00,['user amina.talal left group'],normal
+11,2025-05-26 10:15:00,['accès légitime'],normal
+11,2025-05-26 11:15:00,['normal logon - admin workstation'],normal
+11,2025-05-26 12:05:00,['lecture d’un email urgent sur le budget it'],normal
+11,2025-05-26 12:35:00,"[""accès au webmail via un nouveau navigateur: fichier 'plan_continuite_activite_2025.xlsx'"", 'signature de phishing connue détectée']",phishing
+11,2025-05-26 13:00:00,['accès à la boîte mail bloqué par l’administrateur'],normal
+11,2025-05-26 13:50:00,['requête sortante bloquée'],normal
+11,2025-05-26 14:10:00,['new user amina.talal account created'],normal
+11,2025-05-26 14:25:00,[],normal
+11,2025-05-26 14:50:00,['user amina.talal requested access to api_keys'],normal
+11,2025-05-26 16:35:00,[],normal
+11,2025-05-26 16:40:00,['blocage automatique du compte suite à alertes ad'],normal
+11,2025-05-26 18:50:00,[],normal
+11,2025-05-26 21:40:00,[],normal
+11,2025-05-26 22:50:00,['firewall rule removed'],normal
+11,2025-05-27 01:30:00,['audit log cleared'],normal
+11,2025-05-27 03:00:00,[],normal
+11,2025-05-27 04:40:00,['two-factor authentication enabled'],normal
+11,2025-06-01 11:15:00,[],normal
+11,2025-06-01 12:30:00,[],normal
+11,2025-06-01 13:05:00,[],normal
+12,2025-05-26 10:30:00,['configuration file modified'],normal
+12,2025-05-26 11:15:00,['api key deleted for user asmaa.rahman'],normal
+12,2025-05-26 11:20:00,['requête http non conforme'],normal
+12,2025-05-26 11:50:00,['page classée comme site de crypto-mining'],normal
+12,2025-05-26 12:45:00,['téléchargement d’une pièce jointe confidentielle'],normal
+12,2025-05-26 13:50:00,"[""blocage automatique du compte suite à alertes ad: sujet 'demande d’accès temporaire au système'""]",normal
+12,2025-05-26 14:35:00,['fichier exécutable détecté'],normal
+12,2025-05-26 15:40:00,['téléchargement d’un rapport de vulnérabilité réseau'],normal
+12,2025-05-26 16:10:00,['consultation d’un email avec informations stratégiques'],normal
+12,2025-05-26 16:20:00,['tentative de transfert de données sensibles'],normal
+12,2025-05-26 22:55:00,['remote logon - file server'],normal
+12,2025-05-27 00:05:00,[],normal
+12,2025-05-27 01:50:00,[],normal
+12,2025-05-27 03:50:00,[],normal
+12,2025-05-27 05:30:00,['authentication ticket renewed'],normal
+12,2025-06-01 09:40:00,[],normal
+12,2025-06-01 09:55:00,[],normal
+12,2025-06-01 12:45:00,[],normal
+13,2025-05-26 09:10:00,"['échec accès, utilisateur inconnu']",normal
+13,2025-05-26 10:10:00,['group policy updated successfully'],normal
+13,2025-05-26 10:35:00,[],normal
+13,2025-05-26 11:55:00,['activité suspecte sur poste utilisateur'],normal
+13,2025-05-26 13:30:00,['user account disabled'],normal
+13,2025-05-26 13:40:00,['authentication token revoked for user aya.zahra'],normal
+13,2025-05-26 14:00:00,['partage d’un document critique via lien sécurisé'],normal
+13,2025-05-26 15:30:00,['connexion bloquée - comportement anormal'],normal
+13,2025-05-26 17:05:00,['téléchargement autorisé depuis dépôt officiel'],normal
+13,2025-05-26 20:15:00,['account logged in from multiple locations'],normal
+13,2025-05-26 23:30:00,['disk space running low'],normal
+13,2025-05-26 23:40:00,['failed logon attempt using service account'],normal
+13,2025-05-27 01:40:00,[],normal
+13,2025-05-27 05:00:00,[],normal
+13,2025-06-01 09:45:00,[],normal
+14,2025-05-26 09:15:00,[],normal
+14,2025-05-26 10:20:00,['user basil.salama left group'],normal
+14,2025-05-26 12:20:00,['new user basil.salama account created'],normal
+14,2025-05-26 12:55:00,[],normal
+14,2025-05-26 14:35:00,"['bloqué, domaine inconnu']",normal
+14,2025-05-26 14:45:00,['recherche d’emails contenant des mots-clés sensibles'],normal
+14,2025-05-26 15:35:00,['group membership updated'],normal
+14,2025-05-26 16:15:00,['requête suspecte vers cdn externe'],normal
+14,2025-05-26 16:25:00,['system time changed'],normal
+14,2025-05-26 19:45:00,['security policy updated'],normal
+14,2025-05-26 22:50:00,[],normal
+14,2025-05-27 00:55:00,[],normal
+14,2025-05-27 02:40:00,[],normal
+14,2025-05-27 03:25:00,['user password reset by administrator'],normal
+14,2025-05-27 04:00:00,[],normal
+14,2025-06-01 10:40:00,[],normal
+14,2025-06-01 12:40:00,[],normal
+15,2025-05-26 09:00:00,['réception d’un email avec instructions de déploiement'],normal
+15,2025-05-26 09:40:00,[],normal
+15,2025-05-26 09:45:00,[],normal
+15,2025-05-26 09:50:00,['url classée dans catégorie interdite'],normal
+15,2025-05-26 09:55:00,[],normal
+15,2025-05-26 10:50:00,['tentative de phishing détectée'],phishing
+15,2025-05-26 11:25:00,[],normal
+15,2025-05-26 11:35:00,['renvoi d’un email avec données sensibles'],normal
+15,2025-05-26 12:05:00,[],normal
+15,2025-05-26 12:15:00,['disk space running low'],normal
+15,2025-05-26 12:55:00,['user basim.zahran shared  with others'],normal
+15,2025-05-26 13:05:00,['failed logon attempt using service account'],normal
+15,2025-05-26 14:30:00,['certificate issued'],normal
+15,2025-05-26 19:35:00,[],normal
+15,2025-05-26 22:20:00,[],normal
+15,2025-05-27 01:35:00,[],normal
+15,2025-06-01 09:20:00,[],normal
+15,2025-06-01 10:15:00,[],normal
+15,2025-06-01 11:05:00,[],normal
+15,2025-06-01 12:35:00,[],normal
+16,2025-05-26 09:25:00,['page classée comme site de crypto-mining'],normal
+16,2025-05-26 10:20:00,['lecture d’un email interne confidentiel'],normal
+16,2025-05-26 10:50:00,['connexion vpn rejetée'],normal
+16,2025-05-26 10:55:00,['demande d’accès temporaire pour collaborateur externe'],normal
+16,2025-05-26 11:25:00,['blocage d’un lien malveillant intégré dans un email'],normal
+16,2025-05-26 11:55:00,['consultation d’un email avec informations stratégiques'],normal
+16,2025-05-26 12:15:00,[],normal
+16,2025-05-26 12:40:00,['user bilal.abdelaziz joined group'],normal
+16,2025-05-26 12:55:00,['protocole non sécurisé utilisé'],normal
+16,2025-05-26 14:00:00,['trafic normal'],normal
+16,2025-05-26 14:35:00,['login attempt detected for user bilal.abdelaziz'],normal
+16,2025-05-26 16:15:00,[],normal
+16,2025-05-26 17:15:00,[],normal
+16,2025-05-27 05:20:00,['user session disconnected'],normal
+16,2025-06-01 10:25:00,[],normal
+16,2025-06-01 12:40:00,[],normal
+17,2025-05-26 09:05:00,['access denied to jira_projects for user bilal.jaber'],normal
+17,2025-05-26 09:10:00,['user logged off'],normal
+17,2025-05-26 09:20:00,[],normal
+17,2025-05-26 10:25:00,[],normal
+17,2025-05-26 10:35:00,['partage d’un document critique via lien sécurisé'],normal
+17,2025-05-26 12:10:00,['blocage automatique activé'],normal
+17,2025-05-26 12:25:00,['connexion suspecte détectée'],normal
+17,2025-05-26 13:15:00,['accès à plusieurs terminaux simultanés suspecté'],normal
+17,2025-05-26 15:10:00,['navigation vers site de partage interdit'],normal
+17,2025-05-26 15:40:00,"[""tentative d'accès au panneau d'administration""]",normal
+17,2025-05-26 15:55:00,[],normal
+17,2025-05-26 19:45:00,['user logged off'],normal
+17,2025-05-27 04:10:00,['software installed successfully'],normal
+17,2025-06-01 12:20:00,[],normal
+17,2025-06-01 12:35:00,[],normal
+17,2025-06-01 13:10:00,[],normal
+18,2025-05-26 09:25:00,['requête vers domaine anonyme'],normal
+18,2025-05-26 09:50:00,[],normal
+18,2025-05-26 10:00:00,['user bilal.mansour enrolled in mfa'],normal
+18,2025-05-26 10:20:00,[],normal
+18,2025-05-26 10:25:00,['mfa challenge triggered for user bilal.mansour'],normal
+18,2025-05-26 10:35:00,['téléchargement d’une pièce jointe confidentielle'],normal
+18,2025-05-26 12:25:00,['user removed from security group'],normal
+18,2025-05-26 14:15:00,['exfiltration de données possible'],normal
+18,2025-05-26 14:50:00,['utilisateur désactivé a tenté de se connecter'],normal
+18,2025-05-26 19:40:00,[],normal
+18,2025-05-26 22:10:00,[],normal
+18,2025-05-26 22:35:00,[],normal
+18,2025-06-01 09:20:00,[],normal
+19,2025-05-26 10:50:00,['consultation d’un email de support technique'],normal
+19,2025-05-26 11:00:00,['user dalia.abdulaziz stopped sharing'],normal
+19,2025-05-26 12:05:00,['lecture d’un email d’alerte sécurité'],normal
+19,2025-05-26 12:55:00,['malware detected and quarantined'],normal
+19,2025-05-26 13:05:00,['partage sécurisé d’un fichier via mail interne'],normal
+19,2025-05-26 13:10:00,"[""modification des droits d’accès à un dossier partagé: lien 'http://vpn-um6p.net/auth'""]",normal
+19,2025-05-26 13:30:00,['partage d’un rapport financier avec l’équipe'],normal
+19,2025-05-26 13:35:00,['new user dalia.abdulaziz account created'],normal
+19,2025-05-26 13:55:00,['access denied to jira_projects for user dalia.abdulaziz'],normal
+19,2025-05-26 14:40:00,['téléchargement autorisé depuis dépôt officiel'],normal
+19,2025-05-26 16:15:00,['service started successfully'],normal
+19,2025-05-26 16:20:00,['envoi d’un email avec des informations financières'],normal
+19,2025-05-26 19:55:00,['malware detected and quarantined'],normal
+19,2025-05-27 00:10:00,['vpn connection established'],normal
+19,2025-06-01 11:30:00,[],normal
+20,2025-05-26 10:20:00,[],normal
+20,2025-05-26 10:25:00,['requête http avec header modifié'],normal
+20,2025-05-26 10:40:00,['account password expired'],normal
+20,2025-05-26 13:20:00,['password reset initiated for user dalia.karim'],normal
+20,2025-05-26 13:50:00,['authentication token revoked for user dalia.karim'],normal
+20,2025-05-26 14:15:00,['lecture d’un email d’alerte sécurité'],normal
+20,2025-05-26 17:05:00,[],normal
+20,2025-05-26 17:30:00,[],normal
+20,2025-05-26 23:05:00,['system time changed'],normal
+20,2025-05-27 01:30:00,[],normal
+20,2025-05-27 02:55:00,['failed logon from nearby host'],normal
+20,2025-05-27 04:55:00,[],normal
+20,2025-06-01 11:25:00,[],normal
+20,2025-06-01 12:50:00,[],normal
+20,2025-06-01 13:15:00,[],normal
+21,2025-05-26 09:40:00,['suppression d’un email confidentiel: ip 10.10.12.119'],normal
+21,2025-05-26 10:45:00,[],normal
+21,2025-05-26 11:15:00,[],normal
+21,2025-05-26 11:50:00,['téléchargement d’un formulaire officiel'],normal
+21,2025-05-26 12:10:00,['téléchargement d’un rapport de vulnérabilité réseau'],normal
+21,2025-05-26 12:25:00,[],normal
+21,2025-05-26 13:15:00,['requête http non conforme'],normal
+21,2025-05-26 14:25:00,['data import failed'],normal
+21,2025-05-26 16:45:00,['accès refusé suite à politique de sécurité renforcée'],normal
+21,2025-05-26 18:50:00,['user session disconnected'],normal
+21,2025-05-26 19:45:00,[],normal
+21,2025-05-26 22:20:00,['unusual network activity detected'],normal
+21,2025-05-27 01:30:00,[],normal
+21,2025-05-27 05:00:00,[],normal
+21,2025-06-01 10:25:00,[],normal
+21,2025-06-01 10:55:00,[],normal
+21,2025-06-01 11:00:00,[],normal
+21,2025-06-01 11:35:00,[],normal
+21,2025-06-01 11:40:00,[],normal
+21,2025-06-01 12:20:00,[],normal
+21,2025-06-01 13:10:00,[],normal
+22,2025-05-26 09:30:00,[],normal
+22,2025-05-26 09:50:00,[],normal
+22,2025-05-26 10:05:00,['déclenchement d’une règle ueba pour trafic inhabituel'],normal
+22,2025-05-26 10:40:00,"[""suppression d’un email suite à demande de sécurité: fichier 'fichier_backup_reseau.sql'""]",normal
+22,2025-05-26 11:30:00,['role  revoked from user dina.farouk'],normal
+22,2025-05-26 11:50:00,['téléchargement d’un manuel d’accès vpn'],normal
+22,2025-05-26 12:25:00,['blocage d’un lien malveillant intégré dans un email'],normal
+22,2025-05-26 13:30:00,['permissions changed for user dina.farouk'],normal
+22,2025-05-26 13:45:00,['tentative de connexion détectée depuis une ip étrangère'],normal
+22,2025-05-26 14:00:00,['consultation d’un email avec informations stratégiques'],normal
+22,2025-05-26 14:25:00,['api key created for user dina.farouk'],normal
+22,2025-05-26 15:15:00,['téléchargement d’une archive mail pour archivage: compte dina.farouk'],normal
+22,2025-05-26 15:20:00,['signalement d’une tentative de fraude bancaire: compte dina.farouk'],normal
+22,2025-05-26 16:05:00,['system time changed'],normal
+22,2025-05-26 17:05:00,"[""tentative d'accès au panneau d'administration""]",normal
+22,2025-05-26 17:10:00,[],normal
+22,2025-05-26 18:40:00,['failed logon attempt using service account'],normal
+22,2025-05-27 03:05:00,[],normal
+22,2025-05-27 03:25:00,['file system permissions changed'],normal
+22,2025-06-01 10:10:00,[],normal
+22,2025-06-01 10:35:00,[],normal
+22,2025-06-01 10:55:00,[],normal
+22,2025-06-01 12:55:00,[],normal
+23,2025-05-26 09:10:00,['transfert d’un email à un client externe: ip 10.10.12.84'],normal
+23,2025-05-26 09:50:00,['accès autorisé - utilisateur validé'],normal
+23,2025-05-26 10:35:00,['lien accédé plusieurs fois en quelques secondes'],normal
+23,2025-05-26 11:05:00,['new iam policy applied to user dina.rashid'],normal
+23,2025-05-26 12:15:00,['access granted to backup_bucket for user dina.rashid'],normal
+23,2025-05-26 12:40:00,['failed login attempt for user dina.rashid'],brute_force
+23,2025-05-26 13:00:00,['accès administratif réussi'],normal
+23,2025-05-26 13:50:00,['remote logon - file server'],normal
+23,2025-05-26 14:40:00,['file system permissions changed'],normal
+23,2025-05-26 15:25:00,[],normal
+23,2025-05-26 17:20:00,[],normal
+23,2025-05-26 18:30:00,[],normal
+23,2025-05-26 22:25:00,['malware detected and quarantined'],normal
+23,2025-05-26 22:50:00,[],normal
+23,2025-06-01 10:05:00,[],normal
+23,2025-06-01 10:50:00,[],normal
+23,2025-06-01 11:05:00,[],normal
+23,2025-06-01 11:15:00,[],normal
+24,2025-05-26 09:00:00,['envoi d’un email au support informatique'],normal
+24,2025-05-26 09:20:00,['session terminated for user fadi.kassem'],normal
+24,2025-05-26 09:50:00,[],normal
+24,2025-05-26 10:10:00,['signalement d’un email spam suspect'],normal
+24,2025-05-26 11:15:00,['renvoi d’un email avec données sensibles'],normal
+24,2025-05-26 12:35:00,['authentication token revoked for user fadi.kassem'],normal
+24,2025-05-26 13:25:00,['permissions changed for user fadi.kassem'],normal
+24,2025-05-26 14:35:00,['user fadi.kassem attempted to escalate permissions'],normal
+24,2025-05-26 15:10:00,['téléchargement d’une pièce jointe confidentielle: ip 10.10.12.31'],normal
+24,2025-05-26 15:25:00,"['vpn connection terminated', 'envoi d’email de rappel pour réunion']",normal
+24,2025-05-26 16:40:00,['envoi d’email de rappel pour réunion'],normal
+24,2025-05-26 17:50:00,['service stopped unexpectedly'],normal
+24,2025-05-27 02:45:00,['disk space running low'],normal
+24,2025-06-01 09:00:00,[],normal
+24,2025-06-01 09:50:00,[],normal
+24,2025-06-01 10:50:00,[],normal
+24,2025-06-01 11:30:00,[],normal
+24,2025-06-01 11:45:00,[],normal
+24,2025-06-01 11:55:00,[],normal
+24,2025-06-01 12:55:00,[],normal
+25,2025-05-26 09:40:00,['accès refusé - domaine blacklisté'],normal
+25,2025-05-26 10:05:00,['partage d’un document critique via lien sécurisé'],normal
+25,2025-05-26 10:20:00,['réception d’un email avec instructions de déploiement'],normal
+25,2025-05-26 10:35:00,['signalement d’email frauduleux via le portail'],normal
+25,2025-05-26 10:45:00,['configuration file modified'],normal
+25,2025-05-26 11:10:00,[],normal
+25,2025-05-26 11:20:00,['domaine récemment enregistré'],normal
+25,2025-05-26 11:40:00,"[""demande d’aide pour récupération de mot de passe: ip 10.10.12.50, appareil 'surface-go'""]",normal
+25,2025-05-26 13:00:00,['demande d’accès temporaire pour collaborateur externe'],normal
+25,2025-05-26 13:40:00,['accès refusé suite à politique de sécurité renforcée: compte fahd.saadi'],normal
+25,2025-05-26 16:00:00,['navigation anormale détectée'],normal
+25,2025-05-26 16:40:00,['requête http avec header modifié'],normal
+25,2025-05-26 20:10:00,['failed logon from nearby host'],normal
+25,2025-05-26 22:10:00,['software removed successfully'],normal
+25,2025-05-26 22:55:00,[],normal
+25,2025-05-27 00:30:00,['unusual network activity detected'],normal
+25,2025-05-27 02:10:00,[],normal
+25,2025-06-01 09:55:00,[],normal
+25,2025-06-01 10:00:00,[],normal
+25,2025-06-01 10:15:00,[],normal
+25,2025-06-01 10:30:00,[],normal
+25,2025-06-01 11:15:00,[],normal
+25,2025-06-01 13:05:00,[],normal
+26,2025-05-26 09:40:00,['lien contenu dans email suspect'],normal
+26,2025-05-26 10:30:00,[],normal
+26,2025-05-26 11:45:00,['user fahim.aljaber account disabled'],normal
+26,2025-05-26 13:35:00,[],normal
+26,2025-05-26 14:40:00,['api key deleted for user fahim.aljaber'],normal
+26,2025-05-26 16:05:00,['vpn connection established'],normal
+26,2025-05-26 16:30:00,['vpn connection established'],normal
+26,2025-05-26 17:00:00,[],normal
+26,2025-05-26 22:05:00,[],normal
+27,2025-05-26 09:20:00,[],normal
+27,2025-05-26 11:00:00,['signalement d’un email phishing par utilisateur'],phishing
+27,2025-05-26 11:15:00,['téléchargement d’un rapport de vulnérabilité réseau'],normal
+27,2025-05-26 11:45:00,['account for user farah.dawoud locked due to suspicious activity'],normal
+27,2025-05-26 12:00:00,"['data export completed successfully', 'tentative de connexion détectée depuis une ip étrangère']",normal
+27,2025-05-26 12:40:00,[],normal
+27,2025-05-26 14:35:00,[],normal
+27,2025-05-26 15:25:00,['renvoi d’un email avec données sensibles'],normal
+27,2025-05-26 15:30:00,['certificate revoked'],normal
+27,2025-05-26 17:10:00,[],normal
+27,2025-05-26 20:20:00,[],normal
+27,2025-05-26 21:55:00,['firewall rule added'],normal
+27,2025-05-27 01:35:00,['system time changed'],normal
+27,2025-06-01 09:50:00,[],normal
+27,2025-06-01 10:30:00,[],normal
+27,2025-06-01 10:35:00,[],normal
+27,2025-06-01 11:05:00,[],normal
+27,2025-06-01 12:05:00,[],normal
+28,2025-05-26 09:15:00,['api key deleted for user farid.shaheen'],normal
+28,2025-05-26 09:20:00,['récupération d’emails archivés pour audit'],normal
+28,2025-05-26 11:15:00,"['utilisateur désactivé a tenté de se connecter', 'new session created for user farid.shaheen']",normal
+28,2025-05-26 11:30:00,['new user account created'],normal
+28,2025-05-26 12:15:00,['flux interrompu par politique fw'],normal
+28,2025-05-26 12:35:00,['envoi d’un email de validation pour action urgente'],normal
+28,2025-05-26 13:35:00,['signaux de compromission détectés'],normal
+28,2025-05-26 14:05:00,['signalement d’une tentative de fraude bancaire'],normal
+28,2025-05-26 15:30:00,[],normal
+28,2025-05-26 18:55:00,[],normal
+28,2025-05-26 19:40:00,['logon success - suspicious account'],normal
+28,2025-05-27 02:50:00,['system time changed'],normal
+28,2025-05-27 05:05:00,['network interface disabled'],normal
+28,2025-06-01 09:05:00,[],normal
+28,2025-06-01 09:10:00,[],normal
+28,2025-06-01 10:00:00,[],normal
+28,2025-06-01 12:05:00,[],normal
+28,2025-06-01 12:10:00,[],normal
+29,2025-05-26 09:05:00,['configuration file modified'],normal
+29,2025-05-26 09:35:00,['blocage d’un lien malveillant intégré dans un email'],normal
+29,2025-05-26 09:45:00,['user farouk.karim assigned role'],normal
+29,2025-05-26 10:00:00,[],normal
+29,2025-05-26 10:20:00,['user farouk.karim stopped sharing'],normal
+29,2025-05-26 12:00:00,['connexion vers url inconnue'],normal
+29,2025-05-26 12:45:00,['session timed out due to inactivity for user farouk.karim'],normal
+29,2025-05-26 12:55:00,['exécution de script js inconnu'],normal
+29,2025-05-26 13:10:00,['user farouk.karim account re-enabled'],normal
+29,2025-05-26 13:40:00,['account for user farouk.karim was unlocked by admin'],normal
+29,2025-05-26 13:50:00,['api key deleted for user farouk.karim'],normal
+29,2025-05-26 13:55:00,['lecture d’un email d’alerte sécurité'],normal
+29,2025-05-26 14:35:00,['special privileges assigned'],normal
+29,2025-05-26 15:35:00,[],normal
+29,2025-05-26 19:55:00,['security policy updated'],normal
+29,2025-05-26 23:30:00,['service stopped unexpectedly'],normal
+29,2025-05-26 23:35:00,['account locked out due to too many failed logons'],brute_force
+29,2025-06-01 09:10:00,[],normal
+29,2025-06-01 09:20:00,[],normal
+29,2025-06-01 09:35:00,[],normal
+29,2025-06-01 09:45:00,[],normal
+29,2025-06-01 10:20:00,[],normal
+30,2025-05-26 09:05:00,[],normal
+30,2025-05-26 09:10:00,['lecture d’un email interne confidentiel'],normal
+30,2025-05-26 09:45:00,['user fatima.alami enrolled in mfa'],normal
+30,2025-05-26 10:15:00,"[""consultation d’un email de support technique: lien 'http://analytics-partners.org/um6p/data_sync'""]",normal
+30,2025-05-26 10:20:00,[],normal
+30,2025-05-26 11:30:00,['connexion simultanée depuis plusieurs pays'],normal
+30,2025-05-26 11:40:00,"[""suppression d’un email de phishing détecté: destinataire 'lina.abdulaziz@um6p.ma', sujet 'plan d’action suite à incident de phishing'""]",phishing
+30,2025-05-26 11:50:00,['logon success - suspicious account'],normal
+30,2025-05-26 12:45:00,['requête sortante bloquée'],normal
+30,2025-05-26 13:15:00,['authentication token revoked for user fatima.alami'],normal
+30,2025-05-26 13:20:00,['signalement d’une tentative de fraude bancaire'],normal
+30,2025-05-26 13:50:00,['user fatima.alami logged out successfully'],normal
+30,2025-05-26 14:20:00,['utilisateur bloqué par politique réseau'],normal
+30,2025-05-27 00:45:00,[],normal
+30,2025-05-27 02:30:00,[],normal
+30,2025-05-27 04:50:00,[],normal
+30,2025-06-01 09:00:00,[],normal
+30,2025-06-01 09:15:00,[],normal
+30,2025-06-01 10:05:00,[],normal
+30,2025-06-01 10:10:00,[],normal
+30,2025-06-01 10:50:00,[],normal
+31,2025-05-26 09:00:00,['session terminated for user fatma.ismail'],normal
+31,2025-05-26 09:25:00,[],normal
+31,2025-05-26 09:35:00,[],normal
+31,2025-05-26 10:45:00,[],normal
+31,2025-05-26 11:00:00,['network share accessed'],normal
+31,2025-05-26 11:20:00,['user fatma.ismail account disabled'],normal
+31,2025-05-26 12:10:00,"['changement d’adresse email associé au compte', 'user fatma.ismail stopped sharing']",normal
+31,2025-05-26 14:30:00,[],normal
+31,2025-06-01 09:10:00,[],normal
+31,2025-06-01 11:05:00,[],normal
+31,2025-06-01 12:45:00,[],normal
+31,2025-06-01 12:55:00,[],normal
+32,2025-05-26 09:20:00,['session expirée - nouvelle tentative détectée'],normal
+32,2025-05-26 09:25:00,"[""envoi d’un email de confirmation d’action it: recherche 'accès webmail externe'""]",normal
+32,2025-05-26 09:30:00,['suppression de plusieurs emails en masse'],normal
+32,2025-05-26 09:40:00,['signalement d’un email spam suspect'],normal
+32,2025-05-26 13:20:00,['new iam policy applied to user firas.abbas'],normal
+32,2025-05-26 13:40:00,['connexion manuelle confirmée'],normal
+32,2025-05-26 13:45:00,[],normal
+32,2025-05-26 13:50:00,['account locked out due to too many failed logons'],brute_force
+32,2025-05-26 14:25:00,['vpn connection established'],normal
+32,2025-05-26 14:40:00,"['user firas.abbas joined group', 'requête vers domaine anonyme']",normal
+32,2025-05-26 18:35:00,['backup failed'],normal
+32,2025-05-27 04:35:00,[],normal
+32,2025-06-01 09:20:00,[],normal
+32,2025-06-01 09:40:00,[],normal
+32,2025-06-01 09:55:00,[],normal
+32,2025-06-01 12:05:00,[],normal
+33,2025-05-26 10:35:00,"[""envoi d’un email au support informatique: sujet 'guide utilisateur pour le nouveau vpn'""]",normal
+33,2025-05-26 11:35:00,"['réception d’un email contenant des instructions critiques', 'url contenant chaîne suspecte']",normal
+33,2025-05-26 11:55:00,['téléchargement d’une liste de contacts sécurisée'],normal
+33,2025-05-26 13:45:00,['new user account created'],normal
+33,2025-05-26 14:05:00,[],normal
+33,2025-05-26 14:55:00,['access granted to api_keys for user firas.mohamed'],normal
+33,2025-05-26 15:00:00,['connexion sécurisée'],normal
+33,2025-05-26 18:00:00,[],normal
+33,2025-05-26 22:15:00,['two-factor authentication enabled'],normal
+33,2025-05-26 22:50:00,['data import failed'],normal
+33,2025-05-27 00:10:00,[],normal
+33,2025-05-27 00:20:00,[],normal
+33,2025-06-01 09:45:00,[],normal
+33,2025-06-01 12:55:00,[],normal
+34,2025-05-26 09:10:00,['connexion sans user-agent détectée'],normal
+34,2025-05-26 09:15:00,['user ghassan.sharif attempted to escalate permissions'],normal
+34,2025-05-26 09:55:00,['protocole anormal utilisé pour post'],normal
+34,2025-05-26 10:30:00,['téléversement interdit détecté'],normal
+34,2025-05-26 11:15:00,['account for user ghassan.sharif was unlocked by admin'],normal
+34,2025-05-26 11:40:00,['user ghassan.sharif joined group'],normal
+34,2025-05-26 11:55:00,['service started successfully'],normal
+34,2025-05-26 12:10:00,['user ghassan.sharif successfully authenticated'],normal
+34,2025-05-26 12:50:00,['role  revoked from user ghassan.sharif'],normal
+34,2025-05-26 12:55:00,['session terminated for user ghassan.sharif'],normal
+34,2025-05-26 14:05:00,['utilisateur bloqué par politique réseau'],normal
+34,2025-05-26 15:00:00,['certificate issued'],normal
+34,2025-05-26 20:05:00,[],normal
+34,2025-06-01 09:30:00,[],normal
+34,2025-06-01 13:00:00,[],normal
+35,2025-05-26 09:05:00,['trafic inhabituel détecté'],normal
+35,2025-05-26 09:55:00,['proxy chain détecté'],normal
+35,2025-05-26 10:05:00,['upload de données détecté'],normal
+35,2025-05-26 10:45:00,['user habib.mahfouz successfully authenticated'],normal
+35,2025-05-26 10:50:00,"['fichier exécutable détecté', 'access denied to ci_cd_pipeline for user habib.mahfouz']",normal
+35,2025-05-26 11:05:00,['user logged off'],normal
+35,2025-05-26 11:20:00,['network share accessed'],normal
+35,2025-05-26 11:45:00,['url incluse dans liste grise'],normal
+35,2025-05-26 12:35:00,['renvoi d’un email avec données sensibles'],normal
+35,2025-05-26 13:20:00,['connexion vers api externe non reconnue'],normal
+35,2025-05-26 14:40:00,['account logged in from multiple locations'],normal
+35,2025-05-26 15:40:00,['user password reset by administrator'],normal
+35,2025-05-26 16:10:00,['audit log cleared'],normal
+35,2025-05-26 16:20:00,['requête suspecte vers cdn externe'],normal
+35,2025-05-26 17:00:00,[],normal
+35,2025-05-26 19:10:00,['security policy updated'],normal
+35,2025-05-26 23:10:00,['system time changed'],normal
+35,2025-05-27 04:50:00,[],normal
+35,2025-06-01 09:55:00,[],normal
+35,2025-06-01 10:00:00,[],normal
+35,2025-06-01 12:55:00,[],normal
+36,2025-05-26 09:30:00,[],normal
+36,2025-05-26 10:35:00,['signalement d’un email phishing par utilisateur'],phishing
+36,2025-05-26 11:05:00,['notification d’une nouvelle règle de sécurité mail'],normal
+36,2025-05-26 13:05:00,['utilisateur désactivé a tenté de se connecter'],normal
+36,2025-05-26 13:30:00,['new user hada.mohamed account created'],normal
+36,2025-05-26 14:20:00,['failed logon from nearby host'],normal
+36,2025-05-26 15:15:00,"[""téléchargement d’un manuel d’accès vpn: destinataire 'sawsan.mansour@um6p.ma', sujet 'notification d’accès non autorisé'""]",normal
+36,2025-05-26 16:55:00,[],normal
+36,2025-05-26 23:25:00,[],normal
+36,2025-05-27 02:35:00,['account password expired'],normal
+36,2025-05-27 02:45:00,['audit log cleared'],normal
+36,2025-06-01 09:55:00,[],normal
+36,2025-06-01 12:35:00,[],normal
+36,2025-06-01 12:55:00,[],normal
+37,2025-05-26 09:00:00,['remote logon - file server'],normal
+37,2025-05-26 09:05:00,[],normal
+37,2025-05-26 09:10:00,['policy violation detected for user hafsa.mansur'],normal
+37,2025-05-26 09:15:00,['connexion vers url inconnue'],normal
+37,2025-05-26 10:45:00,['access granted to cloud_console for user hafsa.mansur'],normal
+37,2025-05-26 10:50:00,['téléchargement d’un document d’audit sécurité'],normal
+37,2025-05-26 11:05:00,['proxy chain détecté'],normal
+37,2025-05-26 11:35:00,['exécution de script js inconnu'],normal
+37,2025-05-26 12:10:00,['signalement d’email frauduleux via le portail'],normal
+37,2025-05-26 12:20:00,['backup failed'],normal
+37,2025-05-26 12:50:00,['scan de port détecté'],normal
+37,2025-05-26 13:00:00,['accès refusé suite à politique de sécurité renforcée: ip 10.10.12.128'],normal
+37,2025-05-26 15:10:00,['url classée dans catégorie interdite'],normal
+37,2025-05-26 20:25:00,[],normal
+37,2025-05-27 00:15:00,['service started successfully'],normal
+37,2025-05-27 02:20:00,['certificate issued'],normal
+37,2025-05-27 04:15:00,['failed logon attempt using service account'],normal
+37,2025-05-27 04:40:00,['failed logon from nearby host'],normal
+37,2025-06-01 10:25:00,[],normal
+37,2025-06-01 10:50:00,[],normal
+37,2025-06-01 11:45:00,[],normal
+38,2025-05-26 09:05:00,['Multiple failed login attempts'],brute_force
+38,2025-05-26 09:20:00,['Multiple failed login attempts'],brute_force
+38,2025-05-26 09:35:00,['Multiple failed login attempts'],brute_force
+38,2025-05-26 09:55:00,['Multiple failed login attempts'],brute_force
+38,2025-05-26 10:05:00,['Multiple failed login attempts'],brute_force
+38,2025-05-26 10:15:00,['Multiple failed login attempts'],brute_force
+38,2025-05-26 10:45:00,"['Multiple failed login attempts', 'Multiple failed login attempts']",brute_force
+38,2025-05-26 10:50:00,['Multiple failed login attempts'],brute_force
+38,2025-05-26 10:55:00,"['Multiple failed login attempts', 'Multiple failed login attempts']",brute_force
+39,2025-05-26 09:50:00,['téléchargement d’un formulaire officiel'],normal
+39,2025-05-26 11:30:00,['software installed successfully'],normal
+39,2025-05-26 11:35:00,['user hala.karim attempted to escalate permissions'],normal
+39,2025-05-26 11:45:00,['trafic redirigé vers honeypot'],normal
+39,2025-05-26 11:50:00,"[""accès à la messagerie via vpn sécurisé: ip 10.10.12.93, appareil 'samsung-tab-a8'""]",normal
+39,2025-05-26 12:05:00,"['utilisation de port non standard détectée', 'service stopped unexpectedly']",normal
+39,2025-05-26 12:50:00,['new session created for user hala.karim'],normal
+39,2025-05-26 13:25:00,['account logged in from multiple locations'],normal
+39,2025-05-26 14:20:00,['connexion via vpn interne'],normal
+39,2025-05-26 14:50:00,['certificate revoked'],normal
+39,2025-05-26 15:20:00,['navigateur en mode incognito détecté'],normal
+39,2025-05-26 16:05:00,['scan de port détecté'],normal
+39,2025-05-26 16:20:00,['contenu malveillant détecté par antivirus'],normal
+39,2025-05-26 22:40:00,[],normal
+39,2025-05-27 01:05:00,['authentication ticket renewed'],normal
+39,2025-05-27 02:10:00,['configuration file modified'],normal
+39,2025-05-27 02:20:00,['service started successfully'],normal
+39,2025-05-27 04:25:00,[],normal
+39,2025-06-01 13:10:00,[],normal
+40,2025-05-26 09:10:00,['account for user hala.sharif locked due to suspicious activity'],normal
+40,2025-05-26 09:15:00,[],normal
+40,2025-05-26 09:25:00,"[""blocage automatique du compte suite à alertes ad: fichier 'schema_reseau_um6p.vsd'""]",normal
+40,2025-05-26 09:35:00,['requête sortante bloquée'],normal
+40,2025-05-26 10:10:00,"[""envoi d’un email avec des informations financières: recherche 'identifiants sso'""]",normal
+40,2025-05-26 11:00:00,['requête sortante bloquée'],normal
+40,2025-05-26 11:20:00,['lecture d’un email urgent sur le budget it'],normal
+40,2025-05-26 12:00:00,['accès légitime'],normal
+40,2025-05-26 13:15:00,"[""multiples connexions simultanées détectées: recherche 'identifiants base de données'""]",normal
+40,2025-05-26 13:25:00,['connexion à la messagerie via un appareil mobile'],normal
+40,2025-05-26 13:30:00,['connexion autorisée par règle spéciale fw'],normal
+40,2025-05-26 13:35:00,"['access denied to mfa_devices for user hala.sharif', 'connexion sans user-agent détectée']",normal
+40,2025-05-26 14:00:00,['connexion sécurisée'],normal
+40,2025-05-26 16:05:00,"['fichier téléchargé analysé, pas de menace']",normal
+40,2025-05-26 18:30:00,['failed logon attempt from unusual client'],normal
+40,2025-06-01 09:05:00,[],normal
+41,2025-05-26 09:00:00,['vpn connection established'],normal
+41,2025-05-26 10:15:00,"[""envoi d’email de rappel pour réunion: fichier 'guide_utilisation_outils_collab.pdf' envoyé à 'wahid.farhan@um6p.ma'""]",normal
+41,2025-05-26 11:00:00,"['connexion suspecte détectée', 'requête suspecte vers cdn externe']",normal
+41,2025-05-26 11:25:00,['user account disabled'],normal
+41,2025-05-26 11:40:00,['bloqué par firewall'],normal
+41,2025-05-26 12:15:00,['demande d’accès temporaire pour collaborateur externe'],normal
+41,2025-05-26 12:25:00,['user hamza.karim successfully authenticated'],normal
+41,2025-05-26 12:35:00,['user hamza.karim account re-enabled'],normal
+41,2025-05-26 12:40:00,['user hamza.karim successfully authenticated'],normal
+41,2025-05-26 14:50:00,['user session disconnected'],normal
+41,2025-05-26 17:00:00,['connexion depuis ip tor'],normal
+41,2025-05-26 17:05:00,['trafic normal'],normal
+41,2025-05-26 21:00:00,['data import failed'],normal
+41,2025-05-26 21:05:00,[],normal
+41,2025-05-27 00:00:00,['service started successfully'],normal
+41,2025-05-27 00:20:00,[],normal
+41,2025-05-27 01:50:00,[],normal
+41,2025-06-01 12:15:00,[],normal
+42,2025-05-26 09:20:00,['signature de phishing connue détectée'],phishing
+42,2025-05-26 10:15:00,['user hamza.zaki changed their password'],normal
+42,2025-05-26 10:35:00,['user hamza.zaki account disabled'],normal
+42,2025-05-26 10:40:00,['account for user hamza.zaki locked due to suspicious activity'],normal
+42,2025-05-26 12:25:00,"[""échec de vérification d'identité""]",normal
+42,2025-05-26 12:30:00,['access granted to grafana_dashboard for user hamza.zaki'],normal
+42,2025-05-26 12:40:00,['network share accessed'],normal
+42,2025-05-26 12:55:00,['successful logon - interactive'],normal
+42,2025-05-26 13:05:00,['connexion bloquée - comportement anormal'],normal
+42,2025-05-26 13:30:00,[],normal
+42,2025-05-26 13:45:00,['déclenchement d’une règle ueba pour trafic inhabituel'],normal
+42,2025-05-26 15:40:00,"['échec accès, utilisateur inconnu']",normal
+42,2025-05-26 21:20:00,[],normal
+42,2025-05-26 21:40:00,['data import failed'],normal
+42,2025-05-27 01:55:00,['data export completed successfully'],normal
+42,2025-05-27 02:05:00,['user logged off'],normal
+42,2025-06-01 09:10:00,[],normal
+42,2025-06-01 09:25:00,[],normal
+42,2025-06-01 09:30:00,[],normal
+42,2025-06-01 10:30:00,[],normal
+42,2025-06-01 12:30:00,[],normal
+43,2025-05-26 10:10:00,[],normal
+43,2025-05-26 10:20:00,['signalement d’un email spam suspect'],normal
+43,2025-05-26 10:45:00,"['password reset initiated for user hassan.amir', 'signature de phishing connue détectée']",phishing
+43,2025-05-26 11:00:00,[],normal
+43,2025-05-26 11:35:00,['navigateur non reconnu'],normal
+43,2025-05-26 12:25:00,['réplication d’attaque précédemment identifiée'],normal
+43,2025-05-26 12:40:00,['user hassan.amir account re-enabled'],normal
+43,2025-05-26 14:35:00,['user hassan.amir joined group'],normal
+43,2025-05-26 15:00:00,"['two-factor authentication disabled', 'requête http bloquée']",normal
+43,2025-05-26 15:25:00,['firewall rule added'],normal
+43,2025-05-26 15:35:00,['envoi d’un email avec des informations financières'],normal
+43,2025-05-26 18:15:00,[],normal
+43,2025-05-26 19:45:00,['security policy updated'],normal
+43,2025-05-26 22:05:00,['firewall rule removed'],normal
+43,2025-05-27 02:15:00,['network interface enabled'],normal
+43,2025-05-27 02:50:00,['security group modified'],normal
+43,2025-05-27 03:15:00,['logon success - suspicious account'],normal
+43,2025-06-01 09:15:00,[],normal
+43,2025-06-01 11:50:00,[],normal
+44,2025-05-26 09:35:00,['connexion sans user-agent détectée'],normal
+44,2025-05-26 09:45:00,[],normal
+44,2025-05-26 10:40:00,['signalement d’un email phishing par utilisateur'],phishing
+44,2025-05-26 11:35:00,['utilisateur bloqué par politique réseau'],normal
+44,2025-05-26 13:45:00,['consultation d’un email de support technique'],normal
+44,2025-05-26 15:10:00,['suppression d’un email suite à demande de sécurité'],normal
+44,2025-05-26 15:20:00,['data import failed'],normal
+44,2025-05-26 16:20:00,"[""accès au webmail via un nouveau navigateur: fichier 'rapport_bilan_trimestriel.pdf' envoyé à 'omar.hakim@um6p.ma'""]",normal
+44,2025-05-26 17:45:00,[],normal
+44,2025-05-26 18:15:00,[],normal
+44,2025-05-27 03:25:00,[],normal
+44,2025-06-01 10:10:00,[],normal
+44,2025-06-01 10:30:00,[],normal
+44,2025-06-01 12:40:00,[],normal
+44,2025-06-01 13:05:00,[],normal
+45,2025-05-26 09:05:00,[],normal
+45,2025-05-26 09:15:00,[],normal
+45,2025-05-26 09:50:00,['téléchargement d’un rapport de vulnérabilité réseau'],normal
+45,2025-05-26 10:10:00,['renvoi d’un email avec données sensibles'],normal
+45,2025-05-26 10:30:00,['requête sortante bloquée'],normal
+45,2025-05-26 12:05:00,['signalement d’un email phishing par utilisateur'],phishing
+45,2025-05-26 12:40:00,['envoi d’un email au support informatique'],normal
+45,2025-05-26 13:15:00,[],normal
+45,2025-05-26 13:25:00,[],normal
+45,2025-05-26 13:40:00,['signaux de compromission détectés'],normal
+45,2025-05-26 14:00:00,['accès autorisé - utilisateur validé'],normal
+45,2025-05-26 14:15:00,['data export completed successfully'],normal
+45,2025-05-26 14:25:00,['tentative de transfert de données sensibles'],normal
+45,2025-05-26 14:40:00,[],normal
+45,2025-05-26 15:15:00,"[""suppression de plusieurs emails en masse: fichier 'archive_logs_authentification.zip'""]",normal
+45,2025-05-26 15:55:00,['connexion réseau interrompue'],normal
+45,2025-05-26 16:30:00,['requête http non conforme'],normal
+45,2025-05-26 17:00:00,['normal logon - admin workstation'],normal
+45,2025-05-26 23:00:00,[],normal
+45,2025-05-27 00:40:00,[],normal
+45,2025-05-27 00:50:00,[],normal
+45,2025-06-01 12:40:00,[],normal
+46,2025-05-26 09:15:00,['software installed successfully'],normal
+46,2025-05-26 09:45:00,['récupération d’emails archivés pour audit'],normal
+46,2025-05-26 10:10:00,['user ibraheem.shaar stopped sharing'],normal
+46,2025-05-26 11:40:00,['user ibraheem.shaar shared  with others'],normal
+46,2025-05-26 12:20:00,['connexion à une base de données non sécurisée'],normal
+46,2025-05-26 13:35:00,['user ibraheem.shaar assigned role'],normal
+46,2025-05-26 13:40:00,['user ibraheem.shaar left group'],normal
+46,2025-05-26 14:00:00,['user ibraheem.shaar left group'],normal
+46,2025-05-26 14:20:00,[],normal
+46,2025-05-26 15:40:00,"[""modification des droits d’accès à un dossier partagé: destinataire 'jafar.mohamed@um6p.ma', sujet 'rapport d’enquête interne'""]",normal
+46,2025-05-26 16:20:00,[],normal
+46,2025-05-26 16:35:00,['requête get excessive'],normal
+46,2025-05-26 17:15:00,['lien accédé plusieurs fois en quelques secondes'],normal
+46,2025-05-26 20:05:00,['backup completed successfully'],normal
+46,2025-05-26 21:55:00,[],normal
+46,2025-05-26 23:00:00,[],normal
+46,2025-05-26 23:15:00,[],normal
+46,2025-05-27 03:20:00,['user account disabled'],normal
+46,2025-05-27 05:40:00,['two-factor authentication disabled'],normal
+46,2025-06-01 10:40:00,[],normal
+46,2025-06-01 11:40:00,[],normal
+47,2025-05-26 09:05:00,['suppression d’un email suspect signalé par fw'],normal
+47,2025-05-26 09:35:00,[],normal
+47,2025-05-26 09:40:00,['exfiltration de données possible'],normal
+47,2025-05-26 09:50:00,['user ibrahim.hamed account disabled'],normal
+47,2025-05-26 10:15:00,['system rebooted'],normal
+47,2025-05-26 11:15:00,['suppression d’un email de phishing détecté: ip 10.10.12.16'],phishing
+47,2025-05-26 12:25:00,[],normal
+47,2025-05-26 12:40:00,[],normal
+47,2025-05-26 13:00:00,['signaux de compromission détectés'],normal
+47,2025-05-26 13:50:00,['tentative de bypass sécurité ad'],normal
+47,2025-05-26 15:00:00,['user ibrahim.hamed account re-enabled'],normal
+47,2025-05-26 15:05:00,['utilisateur désactivé a tenté de se connecter'],normal
+47,2025-05-26 17:05:00,['vpn connection established'],normal
+47,2025-05-26 19:20:00,[],normal
+47,2025-05-27 00:45:00,['network interface enabled'],normal
+47,2025-05-27 04:15:00,[],normal
+47,2025-06-01 11:00:00,[],normal
+47,2025-06-01 11:55:00,[],normal
+47,2025-06-01 12:10:00,[],normal
+48,2025-05-26 09:05:00,"['User clicked on suspicious email link', 'User clicked on suspicious email link']",phishing
+48,2025-05-26 09:20:00,['User clicked on suspicious email link'],phishing
+48,2025-05-26 09:25:00,['User clicked on suspicious email link'],phishing
+48,2025-05-26 09:40:00,"['User clicked on suspicious email link', 'User clicked on suspicious email link']",phishing
+48,2025-05-26 09:45:00,['User clicked on suspicious email link'],phishing
+48,2025-05-26 09:55:00,['User clicked on suspicious email link'],phishing
+48,2025-05-26 10:50:00,['User clicked on suspicious email link'],phishing
+49,2025-05-26 10:20:00,['redirection vers site de phishing'],phishing
+49,2025-05-26 10:35:00,"['récupération d’emails archivés pour audit: ip 10.10.12.94', 'redirection vers site de phishing', 'trafic redirigé vers honeypot']",phishing
+49,2025-05-26 10:45:00,['envoi d’un email de confirmation d’action it'],normal
+49,2025-05-26 11:20:00,[],normal
+49,2025-05-26 11:45:00,['user password reset by administrator'],normal
+49,2025-05-26 13:05:00,['accès autorisé - utilisateur validé'],normal
+49,2025-05-26 13:20:00,['trafic de type bot détecté'],normal
+49,2025-05-26 14:20:00,['user jafar.mohamed requested access to profile_settings'],normal
+49,2025-05-26 15:15:00,['accès autorisé - utilisateur validé'],normal
+49,2025-05-26 16:15:00,['tentative de transfert de données sensibles'],normal
+49,2025-05-26 20:40:00,['user account disabled'],normal
+49,2025-05-26 22:10:00,[],normal
+49,2025-05-27 02:30:00,['two-factor authentication disabled'],normal
+49,2025-05-27 05:20:00,['two-factor authentication enabled'],normal
+49,2025-06-01 09:25:00,[],normal
+49,2025-06-01 11:50:00,[],normal
+50,2025-05-26 09:00:00,[],normal
+50,2025-05-26 09:30:00,['lecture d’un email interne confidentiel'],normal
+50,2025-05-26 10:05:00,['lecture d’un email de confirmation d’inscription'],normal
+50,2025-05-26 10:15:00,['session expirée - nouvelle tentative détectée'],normal
+50,2025-05-26 10:35:00,[],normal
+50,2025-05-26 10:45:00,['service stopped unexpectedly'],normal
+50,2025-05-26 11:35:00,['réception d’un email de mise à jour logicielle'],normal
+50,2025-05-26 11:40:00,['accès au webmail via un nouveau navigateur'],normal
+50,2025-05-26 11:55:00,['session timed out due to inactivity for user jamal.alfaraj'],normal
+50,2025-05-26 12:00:00,['connexion sécurisée'],normal
+50,2025-05-26 12:35:00,['failed logon from nearby host'],normal
+50,2025-05-26 13:00:00,['permissions changed for user jamal.alfaraj'],normal
+50,2025-05-26 13:10:00,['password reset initiated for user jamal.alfaraj'],normal
+50,2025-05-26 13:30:00,[],normal
+50,2025-05-26 13:35:00,['accès administratif réussi'],normal
+50,2025-05-26 14:20:00,['enumeration of admin group'],normal
+50,2025-05-26 16:50:00,['accès refusé - domaine blacklisté'],normal
+50,2025-05-26 17:20:00,[],normal
+50,2025-06-01 09:10:00,[],normal
+51,2025-05-26 09:15:00,[],normal
+51,2025-05-26 09:25:00,['tentative de bypass sécurité ad'],normal
+51,2025-05-26 09:40:00,[],normal
+51,2025-05-26 10:10:00,['accès autorisé - utilisateur validé'],normal
+51,2025-05-26 10:45:00,['special privileges assigned'],normal
+51,2025-05-26 11:50:00,"['blocage automatique du compte suite à alertes ad', ""envoi d’un email avec des informations financières: recherche 'export emails service rh'""]",normal
+51,2025-05-26 13:30:00,['transfert d’un email à un client externe'],normal
+51,2025-05-26 13:40:00,['téléchargement d’une liste de contacts sécurisée'],normal
+51,2025-05-26 13:45:00,['api key deleted for user jamila.kamal'],normal
+51,2025-05-26 14:00:00,['partage d’un rapport financier avec l’équipe'],normal
+51,2025-05-26 16:05:00,"[""envoi d’email de rappel pour réunion: fichier 'dossier_mediation_clients.pdf'""]",normal
+51,2025-05-26 19:30:00,[],normal
+51,2025-05-26 21:00:00,[],normal
+51,2025-05-26 21:35:00,['audit log cleared'],normal
+51,2025-05-26 22:05:00,['password changed for user'],normal
+51,2025-05-27 02:05:00,[],normal
+51,2025-05-27 04:15:00,[],normal
+51,2025-06-01 10:10:00,[],normal
+51,2025-06-01 10:55:00,[],normal
+51,2025-06-01 11:10:00,[],normal
+51,2025-06-01 12:25:00,[],normal
+52,2025-05-26 10:00:00,[],normal
+52,2025-05-26 10:15:00,['téléchargement d’un formulaire officiel: ip 10.10.12.67'],normal
+52,2025-05-26 10:40:00,['mfa challenge triggered for user jihad.abed'],normal
+52,2025-05-26 10:45:00,['new user jihad.abed account created'],normal
+52,2025-05-26 10:55:00,['téléchargement de script bloqué'],normal
+52,2025-05-26 11:00:00,"[""signalement d’email frauduleux via le portail: ip 10.10.12.67, appareil 'pixel-6a'""]",normal
+52,2025-05-26 11:25:00,['service started successfully'],normal
+52,2025-05-26 11:50:00,[],normal
+52,2025-05-26 12:00:00,['accès à plusieurs terminaux simultanés suspecté'],normal
+52,2025-05-26 12:55:00,['protocole non sécurisé utilisé'],normal
+52,2025-05-26 13:00:00,['requête get excessive'],normal
+52,2025-05-26 15:40:00,['authentication ticket renewed'],normal
+52,2025-05-26 16:20:00,['téléchargement de fichier malveillant bloqué'],normal
+52,2025-05-26 16:30:00,['trafic redirigé vers honeypot'],normal
+52,2025-05-26 16:35:00,['page accédée via lien mail'],normal
+52,2025-05-26 16:40:00,[],normal
+52,2025-05-26 17:40:00,[],normal
+52,2025-05-27 00:00:00,['password changed for user'],normal
+52,2025-05-27 03:30:00,['special privileges assigned'],normal
+52,2025-05-27 03:35:00,[],normal
+52,2025-05-27 05:15:00,['group membership updated'],normal
+52,2025-06-01 09:25:00,[],normal
+53,2025-05-26 09:00:00,[],normal
+53,2025-05-26 10:20:00,['role  revoked from user joud.nasser'],normal
+53,2025-05-26 11:50:00,['multiples connexions simultanées détectées'],normal
+53,2025-05-26 11:55:00,['user joud.nasser joined group'],normal
+53,2025-05-26 12:45:00,[],normal
+53,2025-05-26 12:55:00,['accès légitime'],normal
+53,2025-05-26 14:15:00,['user joud.nasser requested access to api_keys'],normal
+53,2025-05-26 14:20:00,['mfa verification failed for user joud.nasser'],normal
+53,2025-05-26 14:30:00,[],normal
+53,2025-05-26 18:40:00,[],normal
+53,2025-05-26 19:20:00,[],normal
+53,2025-05-26 19:45:00,[],normal
+53,2025-05-26 20:10:00,[],normal
+53,2025-05-26 22:55:00,[],normal
+53,2025-05-27 00:10:00,['software installed successfully'],normal
+53,2025-05-27 02:10:00,['firewall rule removed'],normal
+53,2025-05-27 03:30:00,[],normal
+53,2025-06-01 09:30:00,[],normal
+53,2025-06-01 10:50:00,[],normal
+53,2025-06-01 12:45:00,[],normal
+54,2025-05-26 09:50:00,['authentication token revoked for user jumana.ghazi'],normal
+54,2025-05-26 10:05:00,['changement d’adresse email associé au compte: compte jumana.ghazi'],normal
+54,2025-05-26 10:20:00,[],normal
+54,2025-05-26 10:30:00,['session timed out due to inactivity for user jumana.ghazi'],normal
+54,2025-05-26 11:50:00,[],normal
+54,2025-05-26 12:05:00,['téléchargement d’une pièce jointe confidentielle'],normal
+54,2025-05-26 12:15:00,['signature de malware détectée'],normal
+54,2025-05-26 13:15:00,['file system permissions changed'],normal
+54,2025-05-26 13:35:00,['recherche d’emails contenant des mots-clés sensibles'],normal
+54,2025-05-26 15:35:00,['connexion autorisée par règle spéciale fw'],normal
+54,2025-05-26 18:30:00,[],normal
+54,2025-05-26 19:05:00,['system rebooted'],normal
+54,2025-05-26 20:35:00,['software installed successfully'],normal
+54,2025-05-26 21:15:00,['unusual network activity detected'],normal
+54,2025-05-26 22:05:00,['authentication ticket renewed'],normal
+54,2025-06-01 09:30:00,[],normal
+55,2025-05-26 09:45:00,['réception d’un email contenant des instructions critiques'],normal
+55,2025-05-26 09:55:00,"['téléchargement d’un formulaire officiel', ""tentative d'accès au panneau d'administration""]",normal
+55,2025-05-26 10:05:00,['new iam policy applied to user kalil.hakim'],normal
+55,2025-05-26 10:15:00,['failed login attempt for user kalil.hakim'],brute_force
+55,2025-05-26 11:30:00,['accès légitime'],normal
+55,2025-05-26 12:10:00,['requête http non conforme'],normal
+55,2025-05-26 13:25:00,['transfert d’un email à un client externe'],normal
+55,2025-05-26 17:10:00,[],normal
+55,2025-05-26 18:00:00,[],normal
+55,2025-05-26 21:45:00,['group policy updated successfully'],normal
+55,2025-05-27 01:00:00,['certificate revoked'],normal
+55,2025-06-01 09:35:00,[],normal
+55,2025-06-01 09:40:00,[],normal
+55,2025-06-01 10:40:00,[],normal
+55,2025-06-01 11:25:00,[],normal
+55,2025-06-01 11:45:00,[],normal
+55,2025-06-01 12:35:00,[],normal
+56,2025-05-26 09:50:00,['réception d’un email avec instructions de déploiement'],normal
+56,2025-05-26 10:20:00,['user logged off'],normal
+56,2025-05-26 10:25:00,"[""partage sécurisé d’un fichier via mail interne: fichier 'fichier_mis_en_quarantaine.zip'""]",normal
+56,2025-05-26 11:00:00,['user kamilah.mohamed account re-enabled'],normal
+56,2025-05-26 11:35:00,['signalement d’une tentative de fraude bancaire'],normal
+56,2025-05-26 11:55:00,['security group modified'],normal
+56,2025-05-26 12:30:00,['group policy updated successfully'],normal
+56,2025-05-26 12:55:00,['tentative d’accès à un email protégé par mfa'],normal
+56,2025-05-26 13:05:00,['accès refusé suite à politique de sécurité renforcée'],normal
+56,2025-05-26 16:30:00,[],normal
+56,2025-05-26 16:55:00,['demande de ressource interne depuis ip externe'],normal
+56,2025-05-26 17:15:00,"['échec accès, utilisateur inconnu']",normal
+56,2025-05-26 19:30:00,['vpn connection established'],normal
+56,2025-05-26 20:35:00,['two-factor authentication enabled'],normal
+56,2025-05-27 00:35:00,['security group modified'],normal
+56,2025-05-27 04:35:00,[],normal
+56,2025-06-01 09:10:00,[],normal
+56,2025-06-01 11:15:00,[],normal
+57,2025-05-26 09:30:00,['récupération d’emails archivés pour audit'],normal
+57,2025-05-26 09:50:00,[],normal
+57,2025-05-26 11:05:00,['requête sortante bloquée'],normal
+57,2025-05-26 11:15:00,"['domaine non blacklisté - accès autorisé', 'échec de connexion suite à tentative non autorisée']",normal
+57,2025-05-26 12:00:00,['permissions changed for user kareem.jamal'],normal
+57,2025-05-26 12:05:00,['lecture d’un email interne confidentiel'],normal
+57,2025-05-26 12:45:00,['authentication token generated for user kareem.jamal'],normal
+57,2025-05-26 13:10:00,[],normal
+57,2025-05-26 13:30:00,['envoi d’un email avec des informations financières'],normal
+57,2025-05-26 14:50:00,['signalement d’email frauduleux via le portail'],normal
+57,2025-05-26 15:00:00,['multiples connexions simultanées détectées: ip 10.10.12.39'],normal
+57,2025-05-26 16:55:00,['data export completed successfully'],normal
+57,2025-05-26 17:20:00,['fichier exécutable détecté'],normal
+57,2025-05-26 17:30:00,['software installed successfully'],normal
+57,2025-05-27 02:30:00,[],normal
+57,2025-05-27 03:40:00,['attempt to read ad schema'],normal
+57,2025-05-27 04:10:00,[],normal
+57,2025-06-01 09:45:00,[],normal
+57,2025-06-01 09:55:00,[],normal
+57,2025-06-01 10:15:00,[],normal
+57,2025-06-01 11:10:00,[],normal
+57,2025-06-01 11:40:00,[],normal
+58,2025-05-26 09:40:00,[],normal
+58,2025-05-26 09:45:00,['role  revoked from user kareem.zidan'],normal
+58,2025-05-26 10:25:00,[],normal
+58,2025-05-26 11:15:00,[],normal
+58,2025-05-26 12:50:00,[],normal
+58,2025-05-26 13:05:00,"[""signalement d’email frauduleux via le portail: sujet 'invitation au webinaire sur la sécurité'""]",normal
+58,2025-05-26 13:35:00,[],normal
+58,2025-05-26 16:55:00,['service stopped unexpectedly'],normal
+58,2025-05-26 21:15:00,['firewall rule added'],normal
+58,2025-05-27 00:20:00,[],normal
+58,2025-05-27 02:10:00,[],normal
+58,2025-05-27 02:35:00,['audit log cleared'],normal
+58,2025-06-01 10:35:00,[],normal
+59,2025-05-26 09:35:00,['Suspicious internal remote login'],unauthorized_lateral
+59,2025-05-26 09:45:00,['Suspicious internal remote login'],unauthorized_lateral
+59,2025-05-26 09:50:00,['Suspicious internal remote login'],unauthorized_lateral
+59,2025-05-26 10:05:00,['Suspicious internal remote login'],unauthorized_lateral
+59,2025-05-26 10:15:00,['Suspicious internal remote login'],unauthorized_lateral
+59,2025-05-26 10:30:00,['Suspicious internal remote login'],unauthorized_lateral
+59,2025-05-26 10:55:00,['Suspicious internal remote login'],unauthorized_lateral
+60,2025-05-26 09:05:00,['téléchargement de script bloqué'],normal
+60,2025-05-26 09:10:00,['mfa verification failed for user karim.faraj'],normal
+60,2025-05-26 09:15:00,['signalement d’un phishing à l’équipe sécurité'],phishing
+60,2025-05-26 09:50:00,['new session created for user karim.faraj'],normal
+60,2025-05-26 10:05:00,['activité suspecte sur poste utilisateur'],normal
+60,2025-05-26 10:40:00,['connexion rapide et répétée au même endpoint'],normal
+60,2025-05-26 11:50:00,['user karim.faraj requested access to jira_projects'],normal
+60,2025-05-26 12:05:00,['alerte déclenchée pour activités suspectes sur compte'],normal
+60,2025-05-26 13:45:00,['login attempt detected for user karim.faraj'],normal
+60,2025-05-26 15:25:00,['url incluse dans liste grise'],normal
+60,2025-05-26 16:25:00,['requête http bloquée'],normal
+60,2025-05-26 21:30:00,['disk space running low'],normal
+60,2025-05-26 21:35:00,[],normal
+60,2025-05-26 23:20:00,[],normal
+60,2025-05-27 00:00:00,['security group modified'],normal
+60,2025-05-27 04:15:00,['group membership updated'],normal
+60,2025-06-01 10:15:00,[],normal
+60,2025-06-01 13:10:00,[],normal
+61,2025-05-26 09:00:00,[],normal
+61,2025-05-26 10:00:00,['lecture d’un email interne confidentiel'],normal
+61,2025-05-26 10:20:00,['consultation d’un email avec pièce jointe malveillante'],normal
+61,2025-05-26 10:55:00,"[""échec de vérification d'identité""]",normal
+61,2025-05-26 11:25:00,['navigation vers site de partage interdit'],normal
+61,2025-05-26 12:00:00,"['password expired for user khaled.nasser, requires update']",normal
+61,2025-05-26 13:35:00,[],normal
+61,2025-05-26 14:45:00,"[""échec de vérification d'identité""]",normal
+61,2025-05-26 18:00:00,[],normal
+61,2025-05-26 18:20:00,[],normal
+61,2025-05-26 19:55:00,['malware detected and quarantined'],normal
+61,2025-05-26 20:55:00,[],normal
+61,2025-05-26 21:20:00,[],normal
+61,2025-05-26 23:55:00,[],normal
+61,2025-05-27 02:35:00,[],normal
+61,2025-05-27 03:10:00,[],normal
+61,2025-05-27 05:00:00,['user account enabled'],normal
+61,2025-06-01 11:45:00,[],normal
+61,2025-06-01 12:50:00,[],normal
+61,2025-06-01 13:00:00,[],normal
+62,2025-05-26 09:25:00,['new session created for user khaled.rafat'],normal
+62,2025-05-26 09:50:00,['user khaled.rafat account disabled'],normal
+62,2025-05-26 10:15:00,['suppression d’un email suspect signalé par fw'],normal
+62,2025-05-26 10:50:00,['accès à la boîte mail bloqué par l’administrateur'],normal
+62,2025-05-26 10:55:00,[],normal
+62,2025-05-26 11:50:00,['téléchargement d’un rapport de vulnérabilité réseau'],normal
+62,2025-05-26 12:20:00,"['multiples connexions simultanées détectées', 'envoi d’un rapport pdf à une adresse externe']",normal
+62,2025-05-26 14:20:00,[],normal
+62,2025-05-26 14:45:00,['lien suspect partagé via messagerie interne'],normal
+62,2025-05-26 16:10:00,['requête vers domaine anonyme'],normal
+62,2025-06-01 09:00:00,[],normal
+62,2025-06-01 10:10:00,[],normal
+62,2025-06-01 10:30:00,[],normal
+63,2025-05-26 09:30:00,['accès légitime'],normal
+63,2025-05-26 10:00:00,"['accès à plusieurs terminaux simultanés suspecté', 'envoi d’un rapport pdf à une adresse externe']",normal
+63,2025-05-26 10:10:00,"[""changement d'adresse ip détecté""]",normal
+63,2025-05-26 10:20:00,['url contenue dans courriel suspect'],normal
+63,2025-05-26 10:30:00,['partage sécurisé d’un fichier via mail interne'],normal
+63,2025-05-26 12:30:00,[],normal
+63,2025-05-26 12:35:00,[],normal
+63,2025-05-26 13:25:00,['user khalifa.mahmoud account deleted'],normal
+63,2025-05-26 14:25:00,['user khalifa.mahmoud successfully authenticated'],normal
+63,2025-05-26 15:40:00,[],normal
+63,2025-05-26 17:50:00,[],normal
+63,2025-05-26 20:35:00,[],normal
+63,2025-05-26 20:45:00,['disk space running low'],normal
+63,2025-05-27 00:50:00,"['normal logon - admin workstation', 'network interface enabled']",normal
+63,2025-05-27 01:25:00,['software removed successfully'],normal
+63,2025-06-01 11:30:00,[],normal
+63,2025-06-01 11:40:00,[],normal
+63,2025-06-01 12:30:00,[],normal
+64,2025-05-26 10:25:00,[],normal
+64,2025-05-26 10:35:00,['two-factor authentication disabled'],normal
+64,2025-05-26 10:40:00,[],normal
+64,2025-05-26 11:20:00,['consultation d’un email avec informations stratégiques'],normal
+64,2025-05-26 11:55:00,['lecture d’un email d’alerte sécurité'],normal
+64,2025-05-26 12:25:00,['suppression d’un email suite à demande de sécurité'],normal
+64,2025-05-26 13:15:00,['téléchargement d’un rapport de vulnérabilité réseau'],normal
+64,2025-05-26 13:30:00,['envoi d’un email avec des informations financières'],normal
+64,2025-05-26 14:15:00,['tentative de spoofing réseau'],normal
+64,2025-05-26 16:25:00,['tentative de phishing détectée'],phishing
+64,2025-05-26 16:50:00,[],normal
+64,2025-05-26 21:05:00,['firewall rule added'],normal
+64,2025-05-26 21:30:00,[],normal
+64,2025-05-26 21:55:00,[],normal
+64,2025-05-27 02:35:00,[],normal
+64,2025-06-01 12:15:00,[],normal
+64,2025-06-01 12:40:00,[],normal
+65,2025-05-26 09:10:00,[],normal
+65,2025-05-26 09:15:00,['consultation d’un email avec informations stratégiques'],normal
+65,2025-05-26 09:45:00,['lecture d’un email d’alerte sécurité'],normal
+65,2025-05-26 10:45:00,['suppression de plusieurs emails en masse'],normal
+65,2025-05-26 11:15:00,"['téléchargement autorisé depuis dépôt officiel', 'téléchargement d’une pièce jointe confidentielle']",normal
+65,2025-05-26 12:00:00,"['enumeration of admin group', 'upload de données détecté']",normal
+65,2025-05-26 12:25:00,['permissions changed for user laila.badran'],normal
+65,2025-05-26 12:30:00,['connexion vpn rejetée'],normal
+65,2025-05-26 12:50:00,['connexion autorisée par règle spéciale fw'],normal
+65,2025-05-26 13:05:00,"[""téléchargement d’un document d’audit sécurité: lien 'http://um6p-storage.com/public/hr_policy.pdf'""]",normal
+65,2025-05-26 14:30:00,['user laila.badran successfully authenticated'],normal
+65,2025-05-26 14:50:00,['échec d’authentification via un nouvel appareil'],normal
+65,2025-05-26 15:15:00,['réception d’un email avec instructions de déploiement'],normal
+65,2025-05-26 22:10:00,['network interface disabled'],normal
+65,2025-05-27 00:55:00,[],normal
+65,2025-05-27 03:50:00,['user account enabled'],normal
+66,2025-05-26 09:45:00,[],normal
+66,2025-05-26 10:00:00,['changement de mot de passe demandé par utilisateur'],normal
+66,2025-05-26 11:55:00,['api key created for user laila.mohsen'],normal
+66,2025-05-26 12:10:00,['connexion réseau interrompue'],normal
+66,2025-05-26 12:45:00,['redirection vers site de phishing'],phishing
+66,2025-05-26 13:00:00,['lien contenu dans email suspect'],normal
+66,2025-05-26 13:15:00,[],normal
+66,2025-05-26 14:20:00,['session expirée - nouvelle tentative détectée'],normal
+66,2025-05-26 14:30:00,['téléversement interdit détecté'],normal
+66,2025-05-26 16:00:00,['account password expired'],normal
+66,2025-05-26 16:10:00,[],normal
+66,2025-05-26 19:55:00,[],normal
+66,2025-05-26 20:55:00,['backup failed'],normal
+66,2025-05-26 22:00:00,[],normal
+66,2025-05-26 22:05:00,[],normal
+66,2025-05-27 03:05:00,['enumeration of admin group'],normal
+66,2025-06-01 10:20:00,[],normal
+66,2025-06-01 10:50:00,[],normal
+66,2025-06-01 11:30:00,[],normal
+67,2025-05-26 10:10:00,[],normal
+67,2025-05-26 10:15:00,"[""lecture d’un email interne confidentiel: sujet 'notification d’accès non autorisé'""]",normal
+67,2025-05-26 10:25:00,[],normal
+67,2025-05-26 11:00:00,['navigateur non reconnu'],normal
+67,2025-05-26 11:45:00,['software removed successfully'],normal
+67,2025-05-26 12:00:00,['tentative d’accès à un email protégé par mfa'],normal
+67,2025-05-26 13:45:00,['access granted to jira_projects for user lamia.bader'],normal
+67,2025-05-26 14:25:00,['connexion depuis ip tor'],normal
+67,2025-05-26 14:50:00,['account logged in from multiple locations'],normal
+67,2025-05-26 15:05:00,['suppression d’un email confidentiel'],normal
+67,2025-05-26 19:50:00,[],normal
+67,2025-05-26 20:50:00,['software removed successfully'],normal
+67,2025-05-26 22:55:00,[],normal
+67,2025-05-27 01:40:00,[],normal
+67,2025-06-01 11:10:00,[],normal
+68,2025-05-26 09:15:00,"['utilisateur bloqué par politique réseau', 'navigation anormale détectée']",normal
+68,2025-05-26 09:50:00,[],normal
+68,2025-05-26 10:15:00,['signalement d’un phishing à l’équipe sécurité'],phishing
+68,2025-05-26 10:30:00,"['mfa verification failed for user layla.abdullah', 'lecture d’un email important concernant la réunion um6p']",normal
+68,2025-05-26 11:30:00,[],normal
+68,2025-05-26 12:35:00,['suppression d’un email de phishing détecté'],phishing
+68,2025-05-26 12:45:00,['modification des droits d’accès à un dossier partagé'],normal
+68,2025-05-26 12:50:00,['blocage automatique du compte suite à alertes ad'],normal
+68,2025-05-26 13:10:00,['session suspecte identifiée'],normal
+68,2025-05-26 13:40:00,['user layla.abdullah account deleted'],normal
+68,2025-05-26 14:35:00,['normal logon - admin workstation'],normal
+68,2025-05-26 14:45:00,['réplication d’attaque précédemment identifiée'],normal
+68,2025-05-26 14:50:00,['url classée dans catégorie interdite'],normal
+68,2025-05-26 15:15:00,['failed logon attempt from unusual client'],normal
+68,2025-05-26 15:45:00,['tentative de contournement du proxy'],normal
+68,2025-05-26 16:20:00,['network interface disabled'],normal
+68,2025-05-26 21:55:00,['enumeration of admin group'],normal
+68,2025-05-27 03:55:00,['remote logon - file server'],normal
+68,2025-06-01 11:50:00,[],normal
+68,2025-06-01 12:35:00,[],normal
+69,2025-05-26 09:15:00,[],normal
+69,2025-05-26 09:45:00,['access denied to hr_records for user lina.abdulaziz'],normal
+69,2025-05-26 11:30:00,['user lina.abdulaziz left group'],normal
+69,2025-05-26 13:45:00,['lecture d’un email urgent sur le budget it'],normal
+69,2025-05-26 15:25:00,['accès autorisé - utilisateur validé'],normal
+69,2025-05-26 17:15:00,['logon success - suspicious account'],normal
+69,2025-05-26 20:00:00,['failed logon from nearby host'],normal
+69,2025-05-26 20:45:00,['software removed successfully'],normal
+69,2025-05-26 22:15:00,[],normal
+69,2025-05-27 02:15:00,['two-factor authentication enabled'],normal
+69,2025-05-27 03:55:00,[],normal
+69,2025-06-01 09:00:00,[],normal
+69,2025-06-01 09:10:00,[],normal
+69,2025-06-01 09:35:00,[],normal
+69,2025-06-01 09:40:00,[],normal
+69,2025-06-01 11:20:00,[],normal
+69,2025-06-01 11:55:00,[],normal
+69,2025-06-01 12:10:00,[],normal
+69,2025-06-01 12:25:00,[],normal
+70,2025-05-26 09:20:00,['backup failed'],normal
+70,2025-05-26 09:35:00,[],normal
+70,2025-05-26 09:55:00,[],normal
+70,2025-05-26 10:25:00,[],normal
+70,2025-05-26 10:45:00,['connexion depuis ip tor'],normal
+70,2025-05-26 11:35:00,[],normal
+70,2025-05-26 12:10:00,"[""notification d’une nouvelle règle de sécurité mail: sujet 'statistiques d’utilisation vpn'""]",normal
+70,2025-05-26 12:35:00,"[""changement de mot de passe demandé par utilisateur: recherche 'planning formations sécurité'""]",normal
+70,2025-05-26 12:55:00,['signalement d’un phishing à l’équipe sécurité'],phishing
+70,2025-05-26 13:10:00,['connexion sans user-agent détectée'],normal
+70,2025-05-26 13:20:00,['user lina.hadi assigned role'],normal
+70,2025-05-26 13:45:00,['suppression d’un email suite à demande de sécurité'],normal
+70,2025-05-26 14:35:00,[],normal
+70,2025-05-26 15:05:00,[],normal
+70,2025-05-26 16:55:00,['security group modified'],normal
+70,2025-05-27 00:10:00,[],normal
+70,2025-06-01 10:35:00,[],normal
+70,2025-06-01 12:15:00,[],normal
+70,2025-06-01 13:15:00,[],normal
+71,2025-05-26 09:10:00,['requête http non conforme'],normal
+71,2025-05-26 10:00:00,['policy violation detected for user mahmoud.najjar'],normal
+71,2025-05-26 10:25:00,[],normal
+71,2025-05-26 11:15:00,['user account disabled'],normal
+71,2025-05-26 11:50:00,['réponse 403 reçue'],normal
+71,2025-05-26 12:05:00,"['connexion autorisée, surveillance active']",normal
+71,2025-05-26 13:10:00,['api key deleted for user mahmoud.najjar'],normal
+71,2025-05-26 13:45:00,['téléchargement d’une pièce jointe confidentielle'],normal
+71,2025-05-26 14:45:00,['user mahmoud.najjar requested access to dev_server'],normal
+71,2025-05-26 16:40:00,['accès légitime'],normal
+71,2025-05-26 18:25:00,['network interface disabled'],normal
+71,2025-05-26 19:20:00,[],normal
+71,2025-05-26 20:35:00,['firewall rule removed'],normal
+71,2025-05-26 20:50:00,[],normal
+71,2025-05-26 21:45:00,[],normal
+71,2025-05-26 23:05:00,['account locked out due to too many failed logons'],brute_force
+71,2025-05-26 23:10:00,[],normal
+71,2025-05-26 23:25:00,['failed logon from nearby host'],normal
+71,2025-05-26 23:45:00,['unauthorized access attempt blocked'],normal
+71,2025-05-27 01:20:00,['file system permissions changed'],normal
+71,2025-05-27 01:55:00,[],normal
+71,2025-05-27 04:55:00,['network share accessed'],normal
+71,2025-06-01 12:45:00,[],normal
+72,2025-05-26 09:55:00,['user manal.rashid attempted to escalate permissions'],normal
+72,2025-05-26 10:50:00,['réception d’un email avec instructions de déploiement'],normal
+72,2025-05-26 11:10:00,['user manal.rashid requested access to prod_server'],normal
+72,2025-05-26 11:40:00,"[""signalement d’email frauduleux via le portail: destinataire 'sara.karim@gmail.com', sujet 'nouveau règlement intérieur um6p'""]",normal
+72,2025-05-26 12:25:00,['user manal.rashid successfully authenticated'],normal
+72,2025-05-26 12:30:00,"['authentification échouée, mot de passe invalide']",normal
+72,2025-05-26 12:45:00,['blocage d’un lien malveillant intégré dans un email'],normal
+72,2025-05-26 15:25:00,['requête http non conforme'],normal
+72,2025-05-26 16:10:00,['requête vers domaine anonyme'],normal
+72,2025-05-26 18:45:00,[],normal
+72,2025-05-26 22:55:00,['service stopped unexpectedly'],normal
+72,2025-05-27 00:25:00,[],normal
+72,2025-05-27 01:00:00,['security policy updated'],normal
+72,2025-05-27 02:25:00,[],normal
+72,2025-05-27 02:55:00,[],normal
+72,2025-06-01 09:00:00,[],normal
+72,2025-06-01 11:00:00,[],normal
+72,2025-06-01 12:55:00,[],normal
+73,2025-05-26 09:05:00,['network share accessed'],normal
+73,2025-05-26 09:30:00,['user manar.halabi joined group'],normal
+73,2025-05-26 09:55:00,['téléchargement d’un fichier csv utilisateur'],normal
+73,2025-05-26 10:35:00,['échec d’authentification via un nouvel appareil'],normal
+73,2025-05-26 10:40:00,['authentication token generated for user manar.halabi'],normal
+73,2025-05-26 10:55:00,"[""tentative d'accès externe non autorisé""]",normal
+73,2025-05-26 11:00:00,"['user manar.halabi attempted to escalate permissions', 'two-factor authentication enabled']",normal
+73,2025-05-26 11:45:00,"['normal logon - admin workstation', 'connexion vers url inconnue']",normal
+73,2025-05-26 12:35:00,"['connexion suspecte détectée', 'protocole non sécurisé utilisé']",normal
+73,2025-05-26 13:00:00,['certificate issued'],normal
+73,2025-05-26 13:05:00,['lecture d’un email de confirmation d’inscription'],normal
+73,2025-05-26 13:10:00,['user manar.halabi assigned role'],normal
+73,2025-05-26 14:05:00,['session timed out due to inactivity for user manar.halabi'],normal
+73,2025-05-26 15:00:00,['connexion via vpn interne'],normal
+73,2025-05-26 15:35:00,['lien suspect partagé via messagerie interne'],normal
+73,2025-05-26 16:50:00,['authentication ticket renewed'],normal
+73,2025-05-26 17:20:00,[],normal
+73,2025-05-26 17:50:00,[],normal
+73,2025-05-26 19:45:00,[],normal
+73,2025-05-27 03:15:00,[],normal
+73,2025-06-01 13:10:00,[],normal
+74,2025-05-26 11:35:00,['alerte déclenchée pour activités suspectes sur compte: ip 10.10.12.53'],normal
+74,2025-05-26 11:45:00,['envoi d’un email de confirmation d’action it'],normal
+74,2025-05-26 11:50:00,['connexion vers url inconnue'],normal
+74,2025-05-26 12:10:00,"[""envoi d’un email avec des informations financières: lien 'http://vpn-um6p.net/auth'""]",normal
+74,2025-05-26 13:05:00,['password reset initiated for user mariyam.farid'],normal
+74,2025-05-26 13:10:00,['url contenant chaîne suspecte'],normal
+74,2025-05-26 13:20:00,[],normal
+74,2025-05-26 13:25:00,['téléchargement d’un rapport de vulnérabilité réseau'],normal
+74,2025-05-26 13:45:00,['envoi d’un rapport pdf à une adresse externe'],normal
+74,2025-05-26 14:25:00,['consultation d’un email avec pièce jointe sensible'],normal
+74,2025-05-26 19:15:00,[],normal
+74,2025-05-26 19:25:00,['failed logon from nearby host'],normal
+74,2025-05-26 22:45:00,[],normal
+74,2025-05-27 03:45:00,['group policy updated successfully'],normal
+74,2025-05-27 05:10:00,['security policy updated'],normal
+74,2025-06-01 09:05:00,[],normal
+74,2025-06-01 09:50:00,[],normal
+74,2025-06-01 10:20:00,[],normal
+74,2025-06-01 11:00:00,[],normal
+74,2025-06-01 11:45:00,[],normal
+74,2025-06-01 12:20:00,[],normal
+74,2025-06-01 12:40:00,[],normal
+74,2025-06-01 13:00:00,[],normal
+75,2025-05-26 09:40:00,"[""téléchargement d’un manuel d’accès vpn: recherche 'protocoles sécurité messagerie'"", ""réception d’un email contenant des instructions critiques: destinataire 'lamia.bader@um6p.ma', sujet 'compte rendu du séminaire um6p'""]",normal
+75,2025-05-26 10:00:00,['access granted to dns_manager for user marwan.alhaj'],normal
+75,2025-05-26 10:10:00,[],normal
+75,2025-05-26 10:25:00,[],normal
+75,2025-05-26 11:30:00,['téléchargement d’une archive mail pour archivage'],normal
+75,2025-05-26 12:20:00,"[""accès à plusieurs terminaux simultanés suspecté: fichier 'dossier_mediation_clients.pdf'""]",normal
+75,2025-05-26 12:50:00,['user added to security-enabled local group'],normal
+75,2025-05-26 14:10:00,"['changement d’adresse email associé au compte', 'security group modified']",normal
+75,2025-05-26 14:30:00,"['bloqué, domaine inconnu']",normal
+75,2025-05-26 14:45:00,['connexion depuis ip tor'],normal
+75,2025-05-26 15:30:00,['renvoi d’un email avec données sensibles'],normal
+75,2025-05-26 18:30:00,[],normal
+75,2025-05-26 19:00:00,['group membership updated'],normal
+75,2025-06-01 11:20:00,[],normal
+76,2025-05-26 10:55:00,['remote logon - file server'],normal
+76,2025-05-26 11:30:00,['lecture d’un email d’alerte sécurité'],normal
+76,2025-05-26 11:40:00,['user maya.hussein left group'],normal
+76,2025-05-26 12:15:00,['récupération d’emails archivés pour audit'],normal
+76,2025-05-26 12:50:00,['access denied to mfa_devices for user maya.hussein'],normal
+76,2025-05-26 13:00:00,['account locked out due to too many failed logons'],brute_force
+76,2025-05-26 15:15:00,['consultation d’un email avec pièce jointe malveillante'],normal
+76,2025-05-26 20:55:00,['software removed successfully'],normal
+76,2025-05-27 01:55:00,['account logged in from multiple locations'],normal
+76,2025-06-01 10:55:00,[],normal
+76,2025-06-01 11:25:00,[],normal
+76,2025-06-01 12:00:00,[],normal
+77,2025-05-26 09:20:00,['envoi d’un email avec des informations financières'],normal
+77,2025-05-26 09:45:00,[],normal
+77,2025-05-26 10:05:00,['signalement d’un email phishing par utilisateur'],phishing
+77,2025-05-26 10:10:00,['user maysa.abdelrahman left group'],normal
+77,2025-05-26 11:25:00,"[""partage d’un rapport financier avec l’équipe: sujet 'statut du projet digitalisation'""]",normal
+77,2025-05-26 11:55:00,[],normal
+77,2025-05-26 12:40:00,['navigation vers site de partage interdit'],normal
+77,2025-05-26 13:05:00,['login attempt detected for user maysa.abdelrahman'],normal
+77,2025-05-26 13:30:00,"[""consultation d’un email avec pièce jointe malveillante: recherche 'mot de passe nas'""]",normal
+77,2025-05-26 15:05:00,['tentative de transfert de données sensibles'],normal
+77,2025-05-26 15:10:00,['url contenant chaîne suspecte'],normal
+77,2025-05-26 15:30:00,['utilisateur bloqué par politique réseau'],normal
+77,2025-05-26 15:35:00,['nom de domaine reconnu comme malveillant'],normal
+77,2025-05-26 19:35:00,[],normal
+77,2025-05-26 21:50:00,['failed logon from nearby host'],normal
+77,2025-05-26 23:10:00,[],normal
+77,2025-05-26 23:45:00,['file system permissions changed'],normal
+77,2025-06-01 09:35:00,[],normal
+77,2025-06-01 12:05:00,[],normal
+77,2025-06-01 12:20:00,[],normal
+78,2025-05-26 09:00:00,"['bloqué, domaine inconnu']",normal
+78,2025-05-26 09:05:00,['Suspicious internal remote login'],unauthorized_lateral
+78,2025-05-26 09:10:00,['consultation d’un email de support technique'],normal
+78,2025-05-26 09:55:00,['Suspicious internal remote login'],unauthorized_lateral
+78,2025-05-26 10:00:00,['Suspicious internal remote login'],unauthorized_lateral
+78,2025-05-26 10:20:00,"['réception d’un email contenant des instructions critiques', 'Suspicious internal remote login']",unauthorized_lateral
+78,2025-05-26 10:35:00,['Suspicious internal remote login'],unauthorized_lateral
+78,2025-05-26 10:50:00,['Suspicious internal remote login'],unauthorized_lateral
+78,2025-05-26 11:15:00,['access denied to slack_workspace for user mohamed.hassan'],normal
+78,2025-05-26 11:45:00,['envoi d’un email au support informatique'],normal
+78,2025-05-26 12:10:00,['user mohamed.hassan account disabled'],normal
+78,2025-05-26 13:25:00,['domaine inconnu détecté'],normal
+78,2025-05-26 14:15:00,"[""accès au webmail via un nouveau navigateur: sujet 'rapport d’activité mensuel'""]",normal
+78,2025-05-26 15:25:00,"[""suspicion d'activité automatisée""]",normal
+78,2025-05-26 16:35:00,[],normal
+78,2025-05-26 16:40:00,['connexion vers url inconnue'],normal
+78,2025-05-26 16:50:00,['redirection vers site de phishing'],phishing
+78,2025-05-26 17:15:00,['audit log cleared'],normal
+78,2025-05-26 19:00:00,[],normal
+78,2025-05-26 21:55:00,[],normal
+78,2025-05-27 00:50:00,['group policy updated successfully'],normal
+78,2025-05-27 02:15:00,[],normal
+78,2025-05-27 03:25:00,['group policy updated successfully'],normal
+78,2025-05-27 03:30:00,['vpn connection terminated'],normal
+78,2025-06-01 09:00:00,[],normal
+78,2025-06-01 09:35:00,[],normal
+78,2025-06-01 09:50:00,[],normal
+78,2025-06-01 13:10:00,[],normal
+79,2025-05-26 09:20:00,[],normal
+79,2025-05-26 09:35:00,['navigation vers site de partage interdit'],normal
+79,2025-05-26 09:40:00,"[""échec de vérification d'identité""]",normal
+79,2025-05-26 10:45:00,['lecture d’un email de confirmation d’inscription'],normal
+79,2025-05-26 11:05:00,['accès refusé - domaine blacklisté'],normal
+79,2025-05-26 11:10:00,['unusual network activity detected'],normal
+79,2025-05-26 11:25:00,['role  revoked from user mohamed.sharif'],normal
+79,2025-05-26 11:55:00,['session terminated for user mohamed.sharif'],normal
+79,2025-05-26 12:25:00,['partage d’un rapport financier avec l’équipe'],normal
+79,2025-05-26 13:05:00,"[""mise à jour des filtres anti-spam dans la boîte mail: lien 'http://um6p-docs-support.com/login'""]",normal
+79,2025-05-26 13:15:00,['user mohamed.sharif changed their password'],normal
+79,2025-05-26 13:30:00,['attempt to read ad schema'],normal
+79,2025-05-26 16:35:00,[],normal
+79,2025-05-26 20:40:00,['two-factor authentication enabled'],normal
+79,2025-05-26 23:35:00,[],normal
+79,2025-05-27 00:05:00,['account password expired'],normal
+79,2025-05-27 01:05:00,[],normal
+79,2025-05-27 01:10:00,['group policy updated successfully'],normal
+79,2025-05-27 01:30:00,[],normal
+79,2025-05-27 03:00:00,['remote logon - file server'],normal
+79,2025-05-27 05:05:00,[],normal
+79,2025-05-27 05:15:00,['user logged off'],normal
+79,2025-06-01 10:25:00,[],normal
+80,2025-05-26 09:25:00,['user mohanna.hadi changed their password'],normal
+80,2025-05-26 09:35:00,[],normal
+80,2025-05-26 11:15:00,['accès à la boîte mail bloqué par l’administrateur'],normal
+80,2025-05-26 11:45:00,[],normal
+80,2025-05-26 12:45:00,['authentication ticket renewed'],normal
+80,2025-05-26 13:10:00,['signalement d’email frauduleux via le portail'],normal
+80,2025-05-26 13:15:00,['connexion suspecte détectée'],normal
+80,2025-05-26 13:50:00,['envoi d’un email de confirmation d’action it'],normal
+80,2025-05-26 15:00:00,['trafic redirigé vers honeypot'],normal
+80,2025-05-26 15:15:00,[],normal
+80,2025-05-26 19:50:00,[],normal
+80,2025-05-26 21:30:00,[],normal
+80,2025-05-27 01:10:00,[],normal
+80,2025-05-27 02:00:00,[],normal
+80,2025-06-01 10:55:00,[],normal
+80,2025-06-01 11:40:00,[],normal
+80,2025-06-01 13:00:00,[],normal
+81,2025-05-26 10:35:00,"['clic sur un lien suspect détecté, possible phishing']",phishing
+81,2025-05-26 11:55:00,['requête http non conforme'],normal
+81,2025-05-26 13:55:00,[],normal
+81,2025-05-26 16:10:00,['connexion vpn rejetée'],normal
+81,2025-05-26 18:35:00,[],normal
+81,2025-05-26 18:50:00,[],normal
+81,2025-05-26 22:55:00,[],normal
+81,2025-05-27 02:25:00,[],normal
+81,2025-06-01 10:05:00,[],normal
+81,2025-06-01 10:30:00,[],normal
+81,2025-06-01 10:55:00,[],normal
+81,2025-06-01 11:50:00,[],normal
+82,2025-05-26 09:30:00,['téléchargement d’un document d’audit sécurité'],normal
+82,2025-05-26 09:40:00,['disk space running low'],normal
+82,2025-05-26 10:40:00,['envoi d’un email avec des informations financières'],normal
+82,2025-05-26 12:15:00,"[""renvoi d’un email avec données sensibles: sujet 'rapport d’analyse des logs réseau'""]",normal
+82,2025-05-26 12:25:00,"['signalement d’un email phishing par utilisateur', 'domaine non blacklisté - accès autorisé']",phishing
+82,2025-05-26 14:50:00,[],normal
+82,2025-05-26 16:25:00,['navigation anormale détectée'],normal
+82,2025-05-26 20:30:00,[],normal
+82,2025-05-27 01:45:00,[],normal
+82,2025-05-27 04:35:00,['network share accessed'],normal
+82,2025-05-27 04:45:00,['new user account created'],normal
+82,2025-06-01 09:20:00,[],normal
+82,2025-06-01 13:10:00,[],normal
+83,2025-05-26 09:00:00,['téléchargement d’une archive mail pour archivage: ip 10.10.12.125'],normal
+83,2025-05-26 09:05:00,[],normal
+83,2025-05-26 09:35:00,['user muhannad.almasri changed their password'],normal
+83,2025-05-26 11:40:00,['connexion autorisée par règle spéciale fw'],normal
+83,2025-05-26 11:45:00,['user muhannad.almasri requested access to project_files'],normal
+83,2025-05-26 11:50:00,['requête redondante sur même endpoint'],normal
+83,2025-05-26 13:00:00,[],normal
+83,2025-05-26 13:45:00,['téléchargement d’un fichier csv utilisateur'],normal
+83,2025-05-26 15:15:00,['connexion à une base de données non sécurisée'],normal
+83,2025-06-01 09:15:00,[],normal
+83,2025-06-01 11:30:00,[],normal
+83,2025-06-01 11:40:00,[],normal
+83,2025-06-01 11:55:00,[],normal
+84,2025-05-26 09:15:00,['trafic normal'],normal
+84,2025-05-26 09:45:00,"['téléchargement d’un document d’audit sécurité', 'url contenue dans courriel suspect']",normal
+84,2025-05-26 10:15:00,[],normal
+84,2025-05-26 13:00:00,['user muna.bakr changed their password'],normal
+84,2025-05-26 13:05:00,['connexion vers url inconnue'],normal
+84,2025-05-26 13:30:00,['requête post vers site non autorisé'],normal
+84,2025-05-26 13:35:00,['account locked out due to too many failed logons'],brute_force
+84,2025-05-26 14:50:00,['lecture d’un email de confirmation d’inscription: ip 10.10.12.23'],normal
+84,2025-05-26 18:55:00,['successful logon - interactive'],normal
+84,2025-05-26 22:35:00,[],normal
+84,2025-05-27 00:35:00,[],normal
+84,2025-05-27 01:40:00,['software installed successfully'],normal
+84,2025-05-27 03:55:00,[],normal
+84,2025-06-01 09:00:00,[],normal
+84,2025-06-01 11:50:00,[],normal
+84,2025-06-01 13:00:00,[],normal
+85,2025-05-26 09:35:00,['mfa challenge triggered for user muna.rashid'],normal
+85,2025-05-26 09:40:00,['demande d’aide pour récupération de mot de passe'],normal
+85,2025-05-26 09:45:00,['tentative d’accès à un email protégé par mfa'],normal
+85,2025-05-26 10:10:00,['user muna.rashid passed mfa challenge'],normal
+85,2025-05-26 10:25:00,['connexion multiple en courte durée'],normal
+85,2025-05-26 11:20:00,['user muna.rashid enrolled in mfa'],normal
+85,2025-05-26 11:25:00,[],normal
+85,2025-05-26 11:35:00,['group policy updated successfully'],normal
+85,2025-05-26 12:00:00,['domaine non blacklisté - accès autorisé'],normal
+85,2025-05-26 12:55:00,[],normal
+85,2025-05-26 13:10:00,"[""échec d’authentification via un nouvel appareil: destinataire 'hala.sharif@um6p.ma', sujet 'confirmation de participation à la formation'""]",normal
+85,2025-05-26 14:05:00,['blocage automatique activé'],normal
+85,2025-05-26 14:10:00,['accès à la boîte mail bloqué par l’administrateur: ip 10.10.12.130'],normal
+85,2025-05-26 14:30:00,['new iam policy applied to user muna.rashid'],normal
+85,2025-05-26 14:50:00,[],normal
+85,2025-05-26 15:45:00,[],normal
+85,2025-05-26 16:00:00,"[""demande d’accès temporaire pour collaborateur externe: lien 'http://um6p-docs-support.com/login'""]",normal
+85,2025-05-26 16:15:00,['téléchargement autorisé depuis dépôt officiel'],normal
+85,2025-05-26 17:50:00,['user account disabled'],normal
+85,2025-05-26 20:55:00,[],normal
+85,2025-05-26 23:30:00,[],normal
+85,2025-05-27 00:15:00,['audit log cleared'],normal
+85,2025-05-27 05:30:00,['user logged off'],normal
+85,2025-06-01 09:05:00,[],normal
+85,2025-06-01 09:10:00,[],normal
+85,2025-06-01 10:50:00,[],normal
+85,2025-06-01 11:35:00,[],normal
+86,2025-05-26 09:15:00,['téléchargement d’une pièce jointe confidentielle: compte mustafa.alraqi'],normal
+86,2025-05-26 09:25:00,['tentative de contournement du proxy'],normal
+86,2025-05-26 10:25:00,"['new user mustafa.alraqi account created', 'domaine récemment enregistré']",normal
+86,2025-05-26 10:30:00,['téléchargement d’un rapport de vulnérabilité réseau'],normal
+86,2025-05-26 10:50:00,['user mustafa.alraqi shared  with others'],normal
+86,2025-05-26 11:15:00,['téléchargement d’un document d’audit sécurité'],normal
+86,2025-05-26 12:05:00,['trafic inhabituel détecté'],normal
+86,2025-05-26 12:25:00,['user logged off'],normal
+86,2025-05-26 12:45:00,['failed logon from nearby host'],normal
+86,2025-05-26 14:00:00,['mfa challenge triggered for user mustafa.alraqi'],normal
+86,2025-05-26 14:25:00,[],normal
+86,2025-05-26 14:30:00,['api key created for user mustafa.alraqi'],normal
+86,2025-05-26 15:20:00,"['fichier téléchargé analysé, pas de menace']",normal
+86,2025-05-26 16:25:00,['envoi d’email de rappel pour réunion'],normal
+86,2025-05-26 16:45:00,['navigateur non reconnu'],normal
+86,2025-05-26 21:50:00,[],normal
+86,2025-05-27 00:35:00,[],normal
+86,2025-05-27 01:10:00,[],normal
+86,2025-05-27 05:05:00,['failed logon attempt using service account'],normal
+86,2025-06-01 10:55:00,[],normal
+86,2025-06-01 11:05:00,[],normal
+86,2025-06-01 11:50:00,[],normal
+86,2025-06-01 11:55:00,[],normal
+86,2025-06-01 12:20:00,[],normal
+86,2025-06-01 12:35:00,[],normal
+87,2025-05-26 09:00:00,['téléchargement d’une archive mail pour archivage'],normal
+87,2025-05-26 09:50:00,['service stopped unexpectedly'],normal
+87,2025-05-26 11:50:00,['téléchargement d’un rapport de vulnérabilité réseau'],normal
+87,2025-05-26 13:20:00,['tentative d’accès à un email protégé par mfa'],normal
+87,2025-05-26 13:30:00,['user nabil.ayoub passed mfa challenge'],normal
+87,2025-05-26 16:05:00,['utilisation de port non standard détectée'],normal
+87,2025-05-26 17:15:00,[],normal
+87,2025-05-26 20:45:00,[],normal
+87,2025-05-27 01:10:00,['system time changed'],normal
+87,2025-05-27 01:20:00,[],normal
+87,2025-05-27 01:40:00,['privilege escalation attempt detected'],normal
+87,2025-06-01 10:10:00,[],normal
+87,2025-06-01 10:25:00,[],normal
+87,2025-06-01 10:35:00,[],normal
+87,2025-06-01 11:10:00,[],normal
+88,2025-05-26 09:00:00,[],normal
+88,2025-05-26 09:30:00,[],normal
+88,2025-05-26 09:35:00,['data export completed successfully'],normal
+88,2025-05-26 10:55:00,['fichier exécutable détecté'],normal
+88,2025-05-26 11:10:00,[],normal
+88,2025-05-26 11:25:00,[],normal
+88,2025-05-26 12:05:00,['signalement d’un email phishing par utilisateur'],phishing
+88,2025-05-26 13:30:00,[],normal
+88,2025-05-26 13:50:00,"[""accès au webmail via un nouveau navigateur: sujet 'mise à jour des droits d’accès'""]",normal
+88,2025-05-26 14:50:00,['account for user nader.alsalem was unlocked by admin'],normal
+88,2025-05-26 15:35:00,['envoi d’un rapport pdf à une adresse externe'],normal
+88,2025-05-26 15:55:00,"['authentification échouée, mot de passe invalide']",normal
+88,2025-05-26 17:10:00,"[""échec de vérification d'identité""]",normal
+88,2025-05-26 19:00:00,[],normal
+88,2025-05-26 19:20:00,['logon success - suspicious account'],normal
+88,2025-05-26 20:30:00,[],normal
+88,2025-05-27 01:40:00,['enumeration of admin group'],normal
+88,2025-06-01 09:25:00,[],normal
+89,2025-05-26 09:20:00,['authentication ticket renewed'],normal
+89,2025-05-26 09:50:00,"[""lecture d’un email important concernant la réunion um6p: destinataire 'lina.hadi@um6p.ma', sujet 'notification de changement de politique it'""]",normal
+89,2025-05-26 11:40:00,['téléchargement d’un document d’audit sécurité'],normal
+89,2025-05-26 12:10:00,['user nader.shams successfully authenticated'],normal
+89,2025-05-26 12:40:00,['domaine non blacklisté - accès autorisé'],normal
+89,2025-05-26 13:20:00,['software installed successfully'],normal
+89,2025-05-26 13:40:00,['user nader.shams attempted to escalate permissions'],normal
+89,2025-05-26 14:00:00,['account logged in from multiple locations'],normal
+89,2025-05-26 14:05:00,[],normal
+89,2025-05-26 14:55:00,['navigateur en mode incognito détecté'],normal
+89,2025-05-26 20:10:00,['vpn connection terminated'],normal
+89,2025-05-26 20:15:00,[],normal
+89,2025-05-26 22:45:00,['new user account created'],normal
+89,2025-06-01 09:20:00,[],normal
+89,2025-06-01 11:25:00,[],normal
+90,2025-05-26 11:20:00,['contenu malveillant détecté par antivirus'],normal
+90,2025-05-26 11:55:00,['firewall rule added'],normal
+90,2025-05-26 12:45:00,"[""téléchargement d’un fichier csv utilisateur: fichier 'schema_reseau_um6p.vsd'""]",normal
+90,2025-05-26 13:25:00,[],normal
+90,2025-05-26 14:05:00,['user added to security-enabled local group'],normal
+90,2025-05-26 16:10:00,[],normal
+90,2025-05-26 17:10:00,['network share accessed'],normal
+90,2025-05-27 03:15:00,['user added to security-enabled local group'],normal
+90,2025-05-27 03:55:00,['software installed successfully'],normal
+90,2025-06-01 10:45:00,[],normal
+90,2025-06-01 12:25:00,[],normal
+91,2025-05-26 09:10:00,['Suspicious internal remote login'],unauthorized_lateral
+91,2025-05-26 09:30:00,['Suspicious internal remote login'],unauthorized_lateral
+91,2025-05-26 09:55:00,['Suspicious internal remote login'],unauthorized_lateral
+91,2025-05-26 10:05:00,"['Suspicious internal remote login', 'Suspicious internal remote login', 'Suspicious internal remote login']",unauthorized_lateral
+91,2025-05-26 10:15:00,['Suspicious internal remote login'],unauthorized_lateral
+92,2025-05-26 09:30:00,[],normal
+92,2025-05-26 10:00:00,[],normal
+92,2025-05-26 10:05:00,[],normal
+92,2025-05-26 11:40:00,['api key created for user najat.omar'],normal
+92,2025-05-26 12:25:00,"['téléchargement d’une pièce jointe confidentielle', 'permissions changed for user najat.omar']",normal
+92,2025-05-26 12:35:00,['activité suspecte sur poste utilisateur'],normal
+92,2025-05-26 13:20:00,"[""connexion à la messagerie via un appareil mobile: sujet 'modification des règles d’accès réseau'""]",normal
+92,2025-05-26 14:00:00,['téléchargement d’un formulaire officiel'],normal
+92,2025-05-26 14:05:00,['service started successfully'],normal
+92,2025-05-26 14:15:00,['access granted to vault_secrets for user najat.omar'],normal
+92,2025-05-26 15:10:00,[],normal
+92,2025-05-26 16:05:00,['network share accessed'],normal
+92,2025-05-26 17:20:00,['security policy updated'],normal
+92,2025-05-26 20:30:00,['user logged off'],normal
+92,2025-05-26 20:45:00,[],normal
+92,2025-05-26 21:35:00,[],normal
+92,2025-05-26 22:25:00,['enumeration of admin group'],normal
+92,2025-05-27 01:35:00,['data export completed successfully'],normal
+92,2025-05-27 02:45:00,[],normal
+92,2025-06-01 09:40:00,[],normal
+92,2025-06-01 10:45:00,[],normal
+92,2025-06-01 11:15:00,[],normal
+92,2025-06-01 11:20:00,[],normal
+92,2025-06-01 12:20:00,[],normal
+93,2025-05-26 10:50:00,['multiples connexions simultanées détectées'],normal
+93,2025-05-26 11:15:00,['connexion à une base de données non sécurisée'],normal
+93,2025-05-26 11:50:00,['consultation d’un email avec informations stratégiques'],normal
+93,2025-05-26 13:05:00,['user najwa.bassem successfully authenticated'],normal
+93,2025-05-26 13:20:00,"[""suppression de plusieurs emails en masse: sujet 'rappel: changement de mot de passe imminent'""]",normal
+93,2025-05-26 13:55:00,"['user najwa.bassem changed their password', ""envoi d’un email avec des informations financières: fichier 'plan_deploiement_applications.pdf'""]",normal
+93,2025-05-26 14:15:00,['permissions changed for user najwa.bassem'],normal
+93,2025-05-26 14:20:00,['user najwa.bassem account re-enabled'],normal
+93,2025-05-26 14:35:00,"[""changement de mot de passe demandé par utilisateur: lien 'http://vpnaccess-service.com/um6p'""]",normal
+93,2025-05-26 16:00:00,['signaux de compromission détectés'],normal
+93,2025-05-26 19:10:00,['two-factor authentication enabled'],normal
+93,2025-05-26 19:15:00,['system time changed'],normal
+93,2025-05-27 00:40:00,['user removed from security group'],normal
+93,2025-05-27 04:05:00,['attempt to read ad schema'],normal
+93,2025-06-01 09:45:00,[],normal
+93,2025-06-01 10:40:00,[],normal
+93,2025-06-01 11:25:00,[],normal
+94,2025-05-26 10:35:00,['mfa verification failed for user nashit.alhadi'],normal
+94,2025-05-26 11:30:00,['transfert d’un email à un client externe'],normal
+94,2025-05-26 12:20:00,['réception d’un email avec instructions de déploiement'],normal
+94,2025-05-26 12:55:00,['url encode suspect détecté'],normal
+94,2025-05-26 13:25:00,['suppression d’un email suite à demande de sécurité'],normal
+94,2025-05-26 15:00:00,['logon success - suspicious account'],normal
+94,2025-05-26 16:40:00,['nom de domaine reconnu comme malveillant'],normal
+94,2025-05-26 17:10:00,['requête vers domaine anonyme'],normal
+94,2025-05-26 21:10:00,[],normal
+94,2025-05-27 03:05:00,['data import failed'],normal
+94,2025-05-27 05:35:00,['normal logon - admin workstation'],normal
+94,2025-06-01 09:35:00,[],normal
+94,2025-06-01 09:50:00,[],normal
+94,2025-06-01 11:45:00,[],normal
+94,2025-06-01 12:35:00,[],normal
+95,2025-05-26 09:15:00,['suppression d’un email suite à demande de sécurité'],normal
+95,2025-05-26 09:20:00,['user nawal.ibrahim account disabled'],normal
+95,2025-05-26 11:20:00,[],normal
+95,2025-05-26 11:35:00,"['password expired for user nawal.ibrahim, requires update']",normal
+95,2025-05-26 11:40:00,['password reset initiated for user nawal.ibrahim'],normal
+95,2025-05-26 16:50:00,['requête http bloquée'],normal
+95,2025-05-26 22:00:00,[],normal
+95,2025-05-27 01:00:00,[],normal
+95,2025-05-27 02:55:00,['network interface disabled'],normal
+95,2025-06-01 10:15:00,[],normal
+95,2025-06-01 12:15:00,[],normal
+95,2025-06-01 13:00:00,[],normal
+96,2025-05-26 09:05:00,['multiples connexions simultanées détectées'],normal
+96,2025-05-26 09:45:00,['connexion manuelle confirmée'],normal
+96,2025-05-26 10:25:00,['authentication token generated for user nidaa.farouk'],normal
+96,2025-05-26 10:30:00,['nouvelle connexion détectée depuis un appareil inconnu'],normal
+96,2025-05-26 10:35:00,['envoi d’email de rappel pour réunion'],normal
+96,2025-05-26 11:10:00,['téléchargement de fichier malveillant bloqué'],normal
+96,2025-05-26 11:25:00,['upload de données détecté'],normal
+96,2025-05-26 13:20:00,['signalement d’un phishing à l’équipe sécurité'],phishing
+96,2025-05-26 13:55:00,['authentication token generated for user nidaa.farouk'],normal
+96,2025-05-26 15:00:00,['account for user nidaa.farouk was unlocked by admin'],normal
+96,2025-05-26 15:15:00,"[""échec de vérification d'identité"", 'connexion autorisée par règle spéciale fw']",normal
+96,2025-05-26 15:30:00,[],normal
+96,2025-05-26 16:35:00,['connexion autorisée par règle spéciale fw'],normal
+96,2025-05-26 17:00:00,['requête http avec header modifié'],normal
+96,2025-05-26 18:40:00,[],normal
+96,2025-05-26 19:10:00,[],normal
+96,2025-05-26 22:30:00,[],normal
+96,2025-05-27 01:55:00,['remote logon - file server'],normal
+96,2025-05-27 04:20:00,['system time changed'],normal
+96,2025-06-01 09:15:00,[],normal
+96,2025-06-01 10:00:00,[],normal
+96,2025-06-01 10:15:00,[],normal
+96,2025-06-01 10:45:00,[],normal
+96,2025-06-01 11:45:00,[],normal
+96,2025-06-01 12:35:00,[],normal
+97,2025-05-26 11:20:00,['tentative de spoofing réseau'],normal
+97,2025-05-26 11:50:00,"['trafic inhabituel détecté', 'mise à jour des filtres anti-spam dans la boîte mail']",normal
+97,2025-05-26 12:05:00,[],normal
+97,2025-05-26 12:15:00,['requête suspecte vers cdn externe'],normal
+97,2025-05-26 12:20:00,['accès à plusieurs terminaux simultanés suspecté'],normal
+97,2025-05-26 15:55:00,['system time changed'],normal
+97,2025-05-26 16:20:00,['user account enabled'],normal
+97,2025-05-26 16:35:00,['disk space running low'],normal
+97,2025-05-26 17:10:00,['proxy chain détecté'],normal
+97,2025-05-26 18:10:00,['two-factor authentication enabled'],normal
+97,2025-05-26 19:35:00,[],normal
+97,2025-05-26 23:50:00,[],normal
+97,2025-05-27 00:55:00,['firewall rule added'],normal
+97,2025-05-27 01:20:00,['privilege escalation attempt detected'],normal
+97,2025-05-27 05:10:00,[],normal
+97,2025-06-01 09:25:00,[],normal
+97,2025-06-01 11:50:00,[],normal
+97,2025-06-01 12:05:00,[],normal
+97,2025-06-01 12:10:00,[],normal
+97,2025-06-01 12:50:00,[],normal
+98,2025-05-26 09:25:00,[],normal
+98,2025-05-26 09:45:00,"[""nouvelle connexion détectée depuis un appareil inconnu: sujet 'communication officielle um6p'""]",normal
+98,2025-05-26 10:15:00,['consultation d’un email avec pièce jointe sensible'],normal
+98,2025-05-26 10:30:00,[],normal
+98,2025-05-26 10:40:00,['accès à plusieurs terminaux simultanés suspecté'],normal
+98,2025-05-26 10:55:00,['nouvelle connexion détectée depuis un appareil inconnu'],normal
+98,2025-05-26 11:10:00,"['password expired for user noor.jalal, requires update']",normal
+98,2025-05-26 11:30:00,[],normal
+98,2025-05-26 11:50:00,['renvoi d’un email avec données sensibles'],normal
+98,2025-05-26 12:20:00,['certificate issued'],normal
+98,2025-05-26 14:50:00,['échec d’authentification via un nouvel appareil'],normal
+98,2025-05-26 15:40:00,['connexion manuelle confirmée'],normal
+98,2025-05-26 17:40:00,['certificate revoked'],normal
+98,2025-06-01 09:40:00,[],normal
+98,2025-06-01 10:25:00,[],normal
+99,2025-05-26 09:20:00,['backup completed successfully'],normal
+99,2025-05-26 09:45:00,"[""signalement d’un phishing à l’équipe sécurité: destinataire 'fahd.saadi@um6p.ma', sujet 'mise à jour des droits utilisateurs'""]",phishing
+99,2025-05-26 10:10:00,[],normal
+99,2025-05-26 10:20:00,['partage sécurisé d’un fichier via mail interne: ip 10.10.12.57'],normal
+99,2025-05-26 10:35:00,[],normal
+99,2025-05-26 10:50:00,['account locked out due to too many failed logons'],brute_force
+99,2025-05-26 11:25:00,['login attempt detected for user nour.elmasri'],normal
+99,2025-05-26 12:20:00,['téléchargement d’une pièce jointe confidentielle'],normal
+99,2025-05-26 12:35:00,['policy violation detected for user nour.elmasri'],normal
+99,2025-05-26 13:00:00,['authentication token revoked for user nour.elmasri'],normal
+99,2025-05-26 13:15:00,['proxy chain détecté'],normal
+99,2025-05-26 13:30:00,['lien accédé plusieurs fois en quelques secondes'],normal
+99,2025-05-26 13:40:00,['signature de phishing connue détectée'],phishing
+99,2025-05-26 14:05:00,['téléchargement d’une pièce jointe confidentielle'],normal
+99,2025-05-26 15:50:00,['tentative de connexion brute force'],normal
+99,2025-05-26 17:00:00,['téléchargement de fichier malveillant bloqué'],normal
+99,2025-05-26 19:10:00,[],normal
+99,2025-05-26 19:25:00,[],normal
+99,2025-05-26 21:05:00,[],normal
+99,2025-06-01 09:20:00,[],normal
+100,2025-05-26 09:05:00,[],normal
+100,2025-05-26 10:25:00,"['clic sur un lien suspect détecté, possible phishing: compte noura.abdul']",phishing
+100,2025-05-26 11:45:00,['utilisateur bloqué par politique réseau'],normal
+100,2025-05-26 11:50:00,['failed logon attempt from unusual client'],normal
+100,2025-05-26 12:50:00,['signalement d’un email spam suspect'],normal
+100,2025-05-26 13:30:00,"[""envoi d’un email avec des informations financières: destinataire 'nour.elmasri@um6p.ma', sujet 'validation du plan de formation it'""]",normal
+100,2025-05-26 14:15:00,['requête http avec header modifié'],normal
+100,2025-05-26 16:25:00,['attempt to read ad schema'],normal
+100,2025-05-26 22:25:00,['network share accessed'],normal
+100,2025-05-26 23:20:00,['vpn connection terminated'],normal
+100,2025-05-27 03:05:00,[],normal
+100,2025-05-27 03:15:00,[],normal
+100,2025-06-01 09:40:00,[],normal
+100,2025-06-01 11:55:00,[],normal
+101,2025-05-26 09:20:00,['User clicked on suspicious email link'],phishing
+101,2025-05-26 10:10:00,"['User clicked on suspicious email link', 'User clicked on suspicious email link']",phishing
+102,2025-05-26 09:05:00,['user noura.salem account disabled'],normal
+102,2025-05-26 09:15:00,['user noura.salem stopped sharing'],normal
+102,2025-05-26 09:50:00,['échec de connexion suite à tentative non autorisée'],normal
+102,2025-05-26 10:05:00,['disk space running low'],normal
+102,2025-05-26 10:15:00,[],normal
+102,2025-05-26 10:45:00,['nouvelle connexion détectée depuis un appareil inconnu'],normal
+102,2025-05-26 13:50:00,[],normal
+102,2025-05-26 13:55:00,['réinitialisation du mot de passe par l’utilisateur'],normal
+102,2025-05-26 14:55:00,['enumeration of admin group'],normal
+102,2025-05-26 15:10:00,"[""changement d'adresse ip détecté""]",normal
+102,2025-05-26 15:45:00,['firewall rule added'],normal
+102,2025-05-26 20:25:00,['account logged in from multiple locations'],normal
+102,2025-05-27 03:35:00,[],normal
+102,2025-05-27 04:00:00,['data export completed successfully'],normal
+102,2025-05-27 05:10:00,['service started successfully'],normal
+102,2025-06-01 11:00:00,[],normal
+102,2025-06-01 11:05:00,[],normal
+102,2025-06-01 12:20:00,[],normal
+102,2025-06-01 12:40:00,[],normal
+103,2025-05-26 09:50:00,['upload de données détecté'],normal
+103,2025-05-26 09:55:00,['accès à la boîte mail bloqué par l’administrateur'],normal
+103,2025-05-26 10:00:00,"[""changement d'adresse ip détecté""]",normal
+103,2025-05-26 10:10:00,['trafic normal'],normal
+103,2025-05-26 10:15:00,[],normal
+103,2025-05-26 10:25:00,['suppression d’un email confidentiel'],normal
+103,2025-05-26 10:30:00,[],normal
+103,2025-05-26 10:40:00,[],normal
+103,2025-05-26 10:55:00,['user omar.fahad account re-enabled'],normal
+103,2025-05-26 12:05:00,['user omar.fahad changed their password'],normal
+103,2025-05-26 12:20:00,['redirection vers site de phishing'],phishing
+103,2025-05-26 12:45:00,['signalement d’un phishing à l’équipe sécurité'],phishing
+103,2025-05-26 14:00:00,['renvoi d’un email avec données sensibles'],normal
+103,2025-05-26 17:05:00,['domaine récemment enregistré'],normal
+103,2025-06-01 10:20:00,[],normal
+103,2025-06-01 10:55:00,[],normal
+104,2025-05-26 09:10:00,['activité suspecte sur poste utilisateur'],normal
+104,2025-05-26 09:50:00,['session suspecte identifiée'],normal
+104,2025-05-26 10:05:00,[],normal
+104,2025-05-26 10:50:00,"[""accès à plusieurs terminaux simultanés suspecté: ip 10.10.12.28, appareil 'samsung-tab-a8'""]",normal
+104,2025-05-26 11:35:00,['consultation d’un email avec pièce jointe malveillante'],normal
+104,2025-05-26 11:55:00,[],normal
+104,2025-05-26 12:25:00,['signature de malware détectée'],normal
+104,2025-05-26 14:35:00,['tentative de phishing détectée'],phishing
+104,2025-05-26 15:20:00,[],normal
+104,2025-05-26 15:35:00,['system time changed'],normal
+104,2025-05-26 18:50:00,['user removed from security group'],normal
+104,2025-05-26 20:25:00,['logon success - suspicious account'],normal
+104,2025-05-26 23:35:00,['user logged off'],normal
+104,2025-06-01 09:45:00,[],normal
+104,2025-06-01 12:25:00,[],normal
+105,2025-05-26 09:10:00,[],normal
+105,2025-05-26 10:20:00,['failed login attempt for user omar.salem'],brute_force
+105,2025-05-26 10:45:00,"['échec de connexion suite à tentative non autorisée', ""suspicion d'activité automatisée""]",normal
+105,2025-05-26 11:20:00,['mfa verification failed for user omar.salem'],normal
+105,2025-05-26 12:55:00,['lecture d’un email d’alerte sécurité'],normal
+105,2025-05-26 14:25:00,['lecture d’un email interne confidentiel'],normal
+105,2025-05-26 14:30:00,['certificate issued'],normal
+105,2025-05-26 15:20:00,['accès autorisé - utilisateur validé'],normal
+105,2025-05-26 17:05:00,['backup completed successfully'],normal
+105,2025-05-26 17:45:00,[],normal
+105,2025-05-26 20:05:00,['unauthorized access attempt blocked'],normal
+105,2025-05-26 20:15:00,[],normal
+105,2025-05-26 22:45:00,[],normal
+105,2025-05-27 00:40:00,['group membership updated'],normal
+105,2025-06-01 09:05:00,[],normal
+105,2025-06-01 11:00:00,[],normal
+105,2025-06-01 11:40:00,[],normal
+105,2025-06-01 11:55:00,[],normal
+106,2025-05-26 09:50:00,[],normal
+106,2025-05-26 09:55:00,['authentication token generated for user raed.khaled'],normal
+106,2025-05-26 12:05:00,['authentication token generated for user raed.khaled'],normal
+106,2025-05-26 12:20:00,"[""envoi d’un email avec des informations financières: sujet 'conseils pour sécuriser vos accès'""]",normal
+106,2025-05-26 13:00:00,['account logged in from multiple locations'],normal
+106,2025-05-26 13:35:00,"['téléchargement d’une archive mail pour archivage', 'new iam policy applied to user raed.khaled']",normal
+106,2025-05-26 14:20:00,[],normal
+106,2025-05-26 16:45:00,[],normal
+106,2025-05-26 18:05:00,['successful logon - interactive'],normal
+106,2025-05-26 18:10:00,[],normal
+106,2025-05-26 19:30:00,['system rebooted'],normal
+106,2025-05-26 20:40:00,[],normal
+106,2025-06-01 09:25:00,[],normal
+106,2025-06-01 11:00:00,[],normal
+106,2025-06-01 11:05:00,[],normal
+106,2025-06-01 13:05:00,[],normal
+106,2025-06-01 13:10:00,[],normal
+107,2025-05-26 09:35:00,['authentication token generated for user raed.saleh'],normal
+107,2025-05-26 10:15:00,['accès à plusieurs terminaux simultanés suspecté'],normal
+107,2025-05-26 10:55:00,['recherche d’emails contenant des mots-clés sensibles'],normal
+107,2025-05-26 11:40:00,['téléchargement de script bloqué'],normal
+107,2025-05-26 11:55:00,['signaux de compromission détectés'],normal
+107,2025-05-26 12:30:00,['téléchargement autorisé depuis dépôt officiel'],normal
+107,2025-05-26 14:00:00,['user raed.saleh shared  with others'],normal
+107,2025-05-26 14:15:00,['connexion à la messagerie via un appareil mobile'],normal
+107,2025-05-26 15:20:00,['téléchargement de script bloqué'],normal
+107,2025-05-26 16:00:00,[],normal
+107,2025-05-26 17:15:00,['contenu malveillant détecté par antivirus'],normal
+107,2025-05-26 21:00:00,['system time changed'],normal
+107,2025-05-27 01:25:00,[],normal
+107,2025-05-27 02:25:00,['user logged off'],normal
+107,2025-06-01 10:00:00,[],normal
+107,2025-06-01 12:05:00,[],normal
+107,2025-06-01 12:25:00,[],normal
+107,2025-06-01 12:50:00,[],normal
+108,2025-05-26 09:30:00,"[""envoi d’email de rappel pour réunion: destinataire 'fatima.zahra@yahoo.com', sujet 'mise en place du filtrage des emails'""]",normal
+108,2025-05-26 10:00:00,['accès légitime'],normal
+108,2025-05-26 10:05:00,[],normal
+108,2025-05-26 11:45:00,['access granted to slack_workspace for user raihan.abdul'],normal
+108,2025-05-26 13:20:00,['user raihan.abdul account deleted'],normal
+108,2025-05-26 13:45:00,['proxy chain détecté'],normal
+108,2025-05-26 13:50:00,['navigation vers site de partage interdit'],normal
+108,2025-05-26 14:10:00,[],normal
+108,2025-05-26 15:00:00,['url incluse dans liste grise'],normal
+108,2025-05-26 15:05:00,['navigation anormale détectée'],normal
+108,2025-05-26 15:45:00,['téléchargement d’un document d’audit sécurité'],normal
+108,2025-05-26 16:05:00,['signaux de compromission détectés'],normal
+108,2025-05-26 20:25:00,[],normal
+108,2025-05-26 22:45:00,['password changed for user'],normal
+108,2025-06-01 10:05:00,[],normal
+108,2025-06-01 11:30:00,[],normal
+109,2025-05-26 09:05:00,['user rami.salim requested access to user_roles'],normal
+109,2025-05-26 09:20:00,[],normal
+109,2025-05-26 09:45:00,['backup completed successfully'],normal
+109,2025-05-26 11:45:00,['signalement d’email frauduleux via le portail'],normal
+109,2025-05-26 13:15:00,['successful logon - interactive'],normal
+109,2025-05-26 13:20:00,['utilisation de proxy public détectée'],normal
+109,2025-05-26 17:55:00,['failed logon attempt from unusual client'],normal
+109,2025-05-26 21:35:00,[],normal
+109,2025-05-27 03:45:00,['audit log cleared'],normal
+110,2025-05-26 09:15:00,['accès à la messagerie via vpn sécurisé'],normal
+110,2025-05-26 09:20:00,['téléchargement d’une liste de contacts sécurisée'],normal
+110,2025-05-26 09:30:00,"['envoi d’un email de confirmation d’action it', 'blocage automatique activé', 'unusual network activity detected']",normal
+110,2025-05-26 09:55:00,['requête vers domaine anonyme'],normal
+110,2025-05-26 10:35:00,['connexion multiple en courte durée'],normal
+110,2025-05-26 12:25:00,['téléchargement d’un fichier csv utilisateur'],normal
+110,2025-05-26 14:15:00,['api key deleted for user rana.azzam'],normal
+110,2025-05-26 15:55:00,['user session disconnected'],normal
+110,2025-05-26 16:00:00,"['lien contenu dans email suspect', 'enumeration of admin group']",normal
+110,2025-05-26 18:15:00,['vpn connection terminated'],normal
+110,2025-05-26 21:10:00,[],normal
+110,2025-05-26 21:15:00,[],normal
+110,2025-05-27 03:05:00,['file system permissions changed'],normal
+110,2025-06-01 09:30:00,[],normal
+110,2025-06-01 10:00:00,[],normal
+110,2025-06-01 10:20:00,[],normal
+110,2025-06-01 10:25:00,[],normal
+111,2025-05-26 10:15:00,['remote logon - file server'],normal
+111,2025-05-26 12:00:00,['mfa verification failed for user rania.faraj'],normal
+111,2025-05-26 12:05:00,['special privileges assigned'],normal
+111,2025-05-26 12:40:00,['requête http avec header modifié'],normal
+111,2025-05-26 13:00:00,['téléchargement d’une archive mail pour archivage'],normal
+111,2025-05-26 13:05:00,['réception d’un email de mise à jour logicielle'],normal
+111,2025-05-26 13:30:00,['requête http avec header modifié'],normal
+111,2025-05-26 13:45:00,['connexion vers url inconnue'],normal
+111,2025-05-26 13:55:00,['role  revoked from user rania.faraj'],normal
+111,2025-05-26 14:00:00,['url contenant chaîne suspecte'],normal
+111,2025-05-26 14:15:00,['connexion manuelle confirmée'],normal
+111,2025-05-26 19:05:00,[],normal
+111,2025-05-27 00:20:00,['group policy updated successfully'],normal
+111,2025-05-27 01:05:00,['network interface disabled'],normal
+111,2025-06-01 09:20:00,[],normal
+111,2025-06-01 11:15:00,[],normal
+112,2025-05-26 10:15:00,[],normal
+112,2025-05-26 10:25:00,['user rasha.younis account re-enabled'],normal
+112,2025-05-26 10:55:00,"[""consultation d’un email de support technique: ip 10.10.12.96, appareil 'cloud-vm-03'""]",normal
+112,2025-05-26 11:40:00,"[""changement de mot de passe demandé par utilisateur: sujet 'invitation à l’atelier de sensibilisation'""]",normal
+112,2025-05-26 12:40:00,['signalement d’un phishing à l’équipe sécurité'],phishing
+112,2025-05-26 13:15:00,['mfa verification failed for user rasha.younis'],normal
+112,2025-05-26 14:00:00,['envoi d’un email de confirmation d’action it'],normal
+112,2025-05-26 14:20:00,['contenu malveillant détecté par antivirus'],normal
+112,2025-05-26 14:30:00,['redirection vers site de phishing'],phishing
+112,2025-05-26 14:40:00,['user rasha.younis account re-enabled'],normal
+112,2025-05-26 20:00:00,[],normal
+112,2025-05-27 02:40:00,[],normal
+112,2025-05-27 02:45:00,[],normal
+112,2025-06-01 11:20:00,[],normal
+113,2025-05-26 09:05:00,['tentative d’accès à un email protégé par mfa'],normal
+113,2025-05-26 09:10:00,[],normal
+113,2025-05-26 09:25:00,['user rashid.nour stopped sharing'],normal
+113,2025-05-26 09:35:00,['échec de connexion suite à tentative non autorisée'],normal
+113,2025-05-26 09:45:00,['fichier exécutable détecté'],normal
+113,2025-05-26 10:00:00,"[""partage d’un document critique via lien sécurisé: lien 'http://downloads.um6p-system.ma/archive.zip'""]",normal
+113,2025-05-26 11:40:00,[],normal
+113,2025-05-26 13:05:00,['accès légitime'],normal
+113,2025-05-26 14:15:00,"[""échec de connexion suite à tentative non autorisée: destinataire 'rashid.nour@um6p.ma', sujet 'notification d’accès non autorisé'""]",normal
+113,2025-05-26 14:35:00,['user rashid.nour stopped sharing'],normal
+113,2025-05-26 15:00:00,['user added to security-enabled local group'],normal
+113,2025-05-26 16:00:00,['url encode suspect détecté'],normal
+113,2025-05-26 16:15:00,['url encode suspect détecté'],normal
+113,2025-05-26 16:25:00,['accès détecté en dehors des heures ouvrables'],normal
+113,2025-05-26 17:50:00,[],normal
+113,2025-05-26 22:30:00,['service started successfully'],normal
+113,2025-05-27 01:00:00,[],normal
+113,2025-06-01 10:40:00,[],normal
+113,2025-06-01 12:35:00,[],normal
+114,2025-05-26 09:05:00,"[""tentative d'accès externe non autorisé""]",normal
+114,2025-05-26 09:55:00,['new user reem.ali account created'],normal
+114,2025-05-26 10:00:00,['demande d’aide pour récupération de mot de passe'],normal
+114,2025-05-26 10:20:00,['account for user reem.ali was unlocked by admin'],normal
+114,2025-05-26 10:25:00,['signalement d’email frauduleux via le portail'],normal
+114,2025-05-26 10:30:00,['user reem.ali left group'],normal
+114,2025-05-26 11:05:00,['new iam policy applied to user reem.ali'],normal
+114,2025-05-26 11:10:00,['suppression de plusieurs emails en masse'],normal
+114,2025-05-26 11:50:00,['user reem.ali attempted to escalate permissions'],normal
+114,2025-05-26 13:05:00,['suppression d’un email suite à demande de sécurité'],normal
+114,2025-05-26 13:50:00,['lien suspect partagé via messagerie interne'],normal
+114,2025-05-26 14:05:00,"['service stopped unexpectedly', 'connexion au webmail via ip validée par ad']",normal
+114,2025-05-26 14:10:00,['login attempt detected for user reem.ali'],normal
+114,2025-05-26 15:35:00,[],normal
+114,2025-05-26 16:10:00,['signature de phishing connue détectée'],phishing
+114,2025-05-26 16:15:00,[],normal
+114,2025-05-27 00:00:00,[],normal
+114,2025-05-27 04:30:00,[],normal
+114,2025-06-01 09:40:00,[],normal
+114,2025-06-01 12:15:00,[],normal
+114,2025-06-01 12:50:00,[],normal
+114,2025-06-01 12:55:00,[],normal
+114,2025-06-01 13:10:00,[],normal
+115,2025-05-26 09:15:00,[],normal
+115,2025-05-26 11:25:00,['déclenchement d’une règle ueba pour trafic inhabituel'],normal
+115,2025-05-26 12:50:00,['envoi d’un email de confirmation d’action it: ip 10.10.12.15'],normal
+115,2025-05-26 13:35:00,[],normal
+115,2025-05-26 14:05:00,['connexion bloquée - comportement anormal'],normal
+115,2025-05-26 14:55:00,"['suppression de plusieurs emails en masse', 'requête http bloquée']",normal
+115,2025-05-26 16:15:00,['proxy chain détecté'],normal
+115,2025-05-26 16:35:00,['tentative de transfert de données sensibles'],normal
+115,2025-05-26 19:35:00,['data export completed successfully'],normal
+115,2025-05-26 22:40:00,['account locked out due to too many failed logons'],brute_force
+115,2025-05-27 00:15:00,[],normal
+115,2025-05-27 00:45:00,[],normal
+115,2025-05-27 02:05:00,['vpn connection established'],normal
+115,2025-05-27 03:30:00,['service stopped unexpectedly'],normal
+115,2025-05-27 03:50:00,[],normal
+115,2025-06-01 10:15:00,[],normal
+115,2025-06-01 11:35:00,[],normal
+116,2025-05-26 09:20:00,['session terminated for user reem.taleb'],normal
+116,2025-05-26 09:30:00,['user account disabled'],normal
+116,2025-05-26 09:35:00,['téléchargement d’une liste de contacts sécurisée'],normal
+116,2025-05-26 10:20:00,['téléchargement d’une archive mail pour archivage'],normal
+116,2025-05-26 10:25:00,[],normal
+116,2025-05-26 10:45:00,['accès à la messagerie via vpn sécurisé'],normal
+116,2025-05-26 11:25:00,['access granted to firewall_config for user reem.taleb'],normal
+116,2025-05-26 11:30:00,['page accédée via lien mail'],normal
+116,2025-05-26 12:15:00,['échec authentification ad'],normal
+116,2025-05-26 12:35:00,['configuration file modified'],normal
+116,2025-05-26 13:20:00,['contenu malveillant détecté par antivirus'],normal
+116,2025-05-26 13:25:00,['renvoi d’un email avec données sensibles'],normal
+116,2025-05-26 13:50:00,['account for user reem.taleb was unlocked by admin'],normal
+116,2025-05-26 17:15:00,['configuration file modified'],normal
+116,2025-05-26 19:15:00,[],normal
+116,2025-05-26 23:00:00,['two-factor authentication disabled'],normal
+116,2025-05-27 03:35:00,['vpn connection established'],normal
+116,2025-06-01 09:30:00,[],normal
+116,2025-06-01 10:00:00,[],normal
+116,2025-06-01 11:35:00,[],normal
+116,2025-06-01 12:25:00,[],normal
+117,2025-05-26 09:05:00,['scan de port détecté'],normal
+117,2025-05-26 10:15:00,['account for user rima.bashir locked due to suspicious activity'],normal
+117,2025-05-26 10:55:00,[],normal
+117,2025-05-26 11:00:00,['consultation d’un email avec pièce jointe sensible'],normal
+117,2025-05-26 11:15:00,['session terminated for user rima.bashir'],normal
+117,2025-05-26 11:25:00,['envoi d’un email avec des informations financières'],normal
+117,2025-05-26 11:35:00,['authentication token revoked for user rima.bashir'],normal
+117,2025-05-26 12:25:00,"[""nouvelle connexion détectée depuis un appareil inconnu: sujet 'communication officielle um6p'"", 'accès refusé suite à politique de sécurité renforcée: ip 10.10.12.142']",normal
+117,2025-05-26 14:40:00,['lien contenu dans email suspect'],normal
+117,2025-05-26 14:55:00,['access granted to backup_bucket for user rima.bashir'],normal
+117,2025-05-26 16:30:00,['envoi d’email de rappel pour réunion'],normal
+117,2025-05-26 16:35:00,['vpn connection terminated'],normal
+117,2025-05-26 18:05:00,[],normal
+117,2025-05-27 02:00:00,[],normal
+117,2025-05-27 03:05:00,"['network interface disabled', 'unauthorized access attempt blocked']",normal
+117,2025-05-27 03:50:00,[],normal
+117,2025-06-01 09:00:00,[],normal
+117,2025-06-01 10:40:00,[],normal
+117,2025-06-01 11:00:00,[],normal
+117,2025-06-01 11:30:00,[],normal
+117,2025-06-01 11:45:00,[],normal
+117,2025-06-01 12:35:00,[],normal
+118,2025-05-26 09:40:00,[],normal
+118,2025-05-26 11:10:00,[],normal
+118,2025-05-26 11:20:00,['partage sécurisé d’un fichier via mail interne'],normal
+118,2025-05-26 12:25:00,['mfa verification failed for user rina.sharif'],normal
+118,2025-05-26 14:10:00,['requête http avec header modifié'],normal
+118,2025-05-26 14:35:00,[],normal
+118,2025-05-26 14:40:00,['signaux de compromission détectés'],normal
+118,2025-05-26 14:45:00,['consultation d’un email avec informations stratégiques'],normal
+118,2025-05-26 15:15:00,[],normal
+118,2025-05-26 15:50:00,['suppression d’un email suite à demande de sécurité'],normal
+118,2025-05-26 20:40:00,[],normal
+118,2025-05-26 21:45:00,['service started successfully'],normal
+118,2025-05-27 02:20:00,[],normal
+118,2025-06-01 11:10:00,[],normal
+118,2025-06-01 12:15:00,[],normal
+118,2025-06-01 13:05:00,[],normal
+119,2025-05-26 10:15:00,[],normal
+119,2025-05-26 10:30:00,['session expirée - nouvelle tentative détectée'],normal
+119,2025-05-26 10:40:00,['flux interrompu par politique fw'],normal
+119,2025-05-26 10:50:00,"['user sabir.jarrah shared  with others', 'url encode suspect détecté']",normal
+119,2025-05-26 13:20:00,['signalement d’un email spam suspect'],normal
+119,2025-05-26 14:15:00,['failed logon attempt using service account'],normal
+119,2025-05-26 17:20:00,['software installed successfully'],normal
+119,2025-05-27 02:25:00,['authentication ticket renewed'],normal
+119,2025-06-01 09:30:00,[],normal
+119,2025-06-01 13:10:00,[],normal
+120,2025-05-26 09:00:00,['Multiple failed login attempts'],brute_force
+120,2025-05-26 09:45:00,['Multiple failed login attempts'],brute_force
+120,2025-05-26 09:55:00,['Multiple failed login attempts'],brute_force
+120,2025-05-26 10:25:00,['Multiple failed login attempts'],brute_force
+120,2025-05-26 10:30:00,['Multiple failed login attempts'],brute_force
+120,2025-05-26 11:10:00,['tentative de spoofing réseau'],normal
+120,2025-05-26 11:20:00,['domaine récemment enregistré'],normal
+120,2025-05-26 12:35:00,['signalement d’email frauduleux via le portail'],normal
+120,2025-05-26 12:50:00,['domaine récemment enregistré'],normal
+120,2025-05-26 14:35:00,[],normal
+120,2025-05-26 14:40:00,[],normal
+120,2025-05-26 15:05:00,['mfa verification failed for user saif.alqahtani'],normal
+120,2025-05-26 17:25:00,[],normal
+120,2025-05-26 18:45:00,[],normal
+120,2025-05-26 20:45:00,['failed logon attempt from unusual client'],normal
+120,2025-05-26 21:25:00,[],normal
+120,2025-05-27 00:05:00,[],normal
+120,2025-05-27 02:25:00,[],normal
+120,2025-05-27 03:30:00,[],normal
+120,2025-06-01 09:15:00,[],normal
+120,2025-06-01 10:55:00,[],normal
+120,2025-06-01 12:55:00,[],normal
+121,2025-05-26 09:20:00,['user session disconnected'],normal
+121,2025-05-26 09:25:00,['logon success - suspicious account'],normal
+121,2025-05-26 10:45:00,[],normal
+121,2025-05-26 11:55:00,['récupération d’emails archivés pour audit'],normal
+121,2025-05-26 12:20:00,['new user salim.hadi account created'],normal
+121,2025-05-26 12:40:00,"[""signalement d’une tentative de fraude bancaire: fichier 'guide_securite_informatique.pdf'""]",normal
+121,2025-05-26 13:35:00,['accès à la boîte mail bloqué par l’administrateur'],normal
+121,2025-05-26 14:20:00,['domaine inconnu détecté'],normal
+121,2025-05-26 15:00:00,['demande d’aide pour récupération de mot de passe'],normal
+121,2025-05-26 18:20:00,['service stopped unexpectedly'],normal
+121,2025-05-27 00:35:00,['unauthorized access attempt blocked'],normal
+121,2025-05-27 02:20:00,[],normal
+121,2025-05-27 04:30:00,[],normal
+121,2025-06-01 09:40:00,[],normal
+121,2025-06-01 12:55:00,[],normal
+121,2025-06-01 13:05:00,[],normal
+122,2025-05-26 09:25:00,['signature de malware détectée'],normal
+122,2025-05-26 09:30:00,"[""connexion au webmail via ip validée par ad: recherche 'pièces jointes sensibles'""]",normal
+122,2025-05-26 09:45:00,[],normal
+122,2025-05-26 10:30:00,[],normal
+122,2025-05-26 12:05:00,['mfa verification failed for user salma.hamdan'],normal
+122,2025-05-26 12:10:00,[],normal
+122,2025-05-26 12:25:00,['changement d’adresse email associé au compte'],normal
+122,2025-05-26 12:30:00,['successful logon - interactive'],normal
+122,2025-05-26 13:40:00,"['flux interrompu par politique fw', 'failed logon attempt using service account']",normal
+122,2025-05-26 13:50:00,['envoi d’un email au support informatique'],normal
+122,2025-05-26 13:55:00,['trafic normal'],normal
+122,2025-05-26 14:55:00,['lecture d’un email d’alerte sécurité'],normal
+122,2025-05-26 15:30:00,['flux interrompu par politique fw'],normal
+122,2025-05-26 16:45:00,[],normal
+122,2025-05-27 02:10:00,['two-factor authentication disabled'],normal
+122,2025-05-27 04:25:00,['group policy updated successfully'],normal
+122,2025-06-01 09:05:00,[],normal
+122,2025-06-01 12:30:00,[],normal
+122,2025-06-01 12:40:00,[],normal
+122,2025-06-01 13:05:00,[],normal
+123,2025-05-26 09:00:00,['signalement d’un phishing à l’équipe sécurité'],phishing
+123,2025-05-26 10:35:00,['user logged off'],normal
+123,2025-05-26 11:20:00,['téléchargement d’une archive mail pour archivage'],normal
+123,2025-05-26 11:35:00,[],normal
+123,2025-05-26 12:05:00,['lien contenu dans email suspect'],normal
+123,2025-05-26 12:20:00,['domaine inconnu détecté'],normal
+123,2025-05-26 13:20:00,['réception d’un email contenant des instructions critiques'],normal
+123,2025-05-26 13:25:00,['successful logon - interactive'],normal
+123,2025-05-26 13:55:00,['accès refusé - domaine blacklisté'],normal
+123,2025-05-26 14:30:00,['scan de port détecté'],normal
+123,2025-05-26 14:55:00,[],normal
+123,2025-05-26 15:25:00,[],normal
+123,2025-05-26 15:45:00,['attempt to read ad schema'],normal
+123,2025-05-26 16:40:00,['notification d’une nouvelle règle de sécurité mail'],normal
+123,2025-05-26 17:10:00,['lien suspect partagé via messagerie interne'],normal
+123,2025-05-26 22:20:00,['enumeration of admin group'],normal
+123,2025-05-27 04:10:00,[],normal
+123,2025-06-01 09:00:00,[],normal
+123,2025-06-01 11:00:00,[],normal
+123,2025-06-01 12:30:00,[],normal
+124,2025-05-26 10:00:00,[],normal
+124,2025-05-26 10:15:00,['connexion vers url inconnue'],normal
+124,2025-05-26 10:20:00,['lecture d’un email d’alerte sécurité'],normal
+124,2025-05-26 13:00:00,[],normal
+124,2025-05-26 13:40:00,"['changement d’adresse email associé au compte', 'exécution de script js inconnu']",normal
+124,2025-05-26 14:15:00,['téléchargement d’un fichier csv utilisateur'],normal
+124,2025-05-26 14:45:00,[],normal
+124,2025-05-26 14:50:00,['disk space running low'],normal
+124,2025-05-26 14:55:00,['contenu malveillant détecté par antivirus'],normal
+124,2025-05-26 16:05:00,['user removed from security group'],normal
+124,2025-05-26 17:25:00,['group membership updated'],normal
+124,2025-05-26 19:50:00,['attempt to read ad schema'],normal
+124,2025-05-27 00:10:00,[],normal
+124,2025-05-27 00:30:00,['attempt to read ad schema'],normal
+124,2025-05-27 03:20:00,[],normal
+124,2025-05-27 04:25:00,['user account disabled'],normal
+124,2025-06-01 09:20:00,[],normal
+124,2025-06-01 10:20:00,[],normal
+124,2025-06-01 11:25:00,[],normal
+124,2025-06-01 13:15:00,[],normal
+125,2025-05-26 09:45:00,['requête redondante sur même endpoint'],normal
+125,2025-05-26 10:30:00,"['clic sur un lien suspect détecté, possible phishing']",phishing
+125,2025-05-26 10:55:00,['partage d’un rapport financier avec l’équipe'],normal
+125,2025-05-26 11:55:00,"[""suspicion d'activité automatisée""]",normal
+125,2025-05-26 12:15:00,['user samah.fahmi attempted to escalate permissions'],normal
+125,2025-05-26 13:10:00,['failed logon from nearby host'],normal
+125,2025-05-26 13:25:00,['navigateur en mode incognito détecté'],normal
+125,2025-05-26 14:10:00,['téléchargement d’une pièce jointe confidentielle'],normal
+125,2025-05-26 14:55:00,['user samah.fahmi account re-enabled'],normal
+125,2025-05-26 15:45:00,"['accès administratif réussi', 'connexion à une base de données non sécurisée']",normal
+125,2025-05-26 16:05:00,['blocage d’un lien malveillant intégré dans un email'],normal
+125,2025-05-26 16:55:00,['connexion bloquée - comportement anormal'],normal
+125,2025-05-26 23:50:00,['password changed for user'],normal
+125,2025-05-27 02:30:00,['user logged off'],normal
+125,2025-05-27 04:45:00,['network interface enabled'],normal
+125,2025-06-01 09:10:00,[],normal
+125,2025-06-01 10:20:00,[],normal
+125,2025-06-01 10:30:00,[],normal
+125,2025-06-01 10:45:00,[],normal
+125,2025-06-01 11:20:00,[],normal
+125,2025-06-01 11:35:00,[],normal
+125,2025-06-01 13:05:00,[],normal
+126,2025-05-26 10:00:00,['blocage automatique activé'],normal
+126,2025-05-26 10:05:00,['user samar.ridha assigned role'],normal
+126,2025-05-26 10:35:00,[],normal
+126,2025-05-26 11:45:00,"[""envoi d’un email avec des informations financières: sujet 'avis de maintenance réseau'""]",normal
+126,2025-05-26 12:05:00,['réception d’un email contenant des instructions critiques'],normal
+126,2025-05-26 12:10:00,['vpn connection terminated'],normal
+126,2025-05-26 12:40:00,['connexion à la messagerie via un appareil mobile'],normal
+126,2025-05-26 12:45:00,['trafic inhabituel détecté'],normal
+126,2025-05-26 13:05:00,['connexion au webmail via ip validée par ad'],normal
+126,2025-05-26 13:55:00,[],normal
+126,2025-05-26 15:10:00,[],normal
+126,2025-05-26 20:40:00,"['disk space running low', 'vpn connection terminated']",normal
+126,2025-05-26 22:00:00,['account logged in from multiple locations'],normal
+126,2025-05-27 01:55:00,['user removed from security group'],normal
+126,2025-05-27 04:25:00,[],normal
+126,2025-06-01 09:35:00,[],normal
+126,2025-06-01 12:00:00,[],normal
+126,2025-06-01 12:10:00,[],normal
+126,2025-06-01 12:20:00,[],normal
+127,2025-05-26 09:30:00,['user sami.jaber stopped sharing'],normal
+127,2025-05-26 09:35:00,['account for user sami.jaber was unlocked by admin'],normal
+127,2025-05-26 09:45:00,['domaine non blacklisté - accès autorisé'],normal
+127,2025-05-26 10:05:00,['redirection vers site de phishing'],phishing
+127,2025-05-26 10:15:00,['upload de données détecté'],normal
+127,2025-05-26 10:20:00,['déclenchement d’une règle ueba pour trafic inhabituel'],normal
+127,2025-05-26 10:25:00,['lecture d’un email de confirmation d’inscription'],normal
+127,2025-05-26 10:40:00,['nouvelle connexion détectée depuis un appareil inconnu'],normal
+127,2025-05-26 11:35:00,"[""accès à la messagerie via vpn sécurisé: ip 10.10.12.65, appareil 'ipad-mini-um6p'""]",normal
+127,2025-05-26 11:45:00,['connexion sans user-agent détectée'],normal
+127,2025-05-26 12:45:00,['access granted to prod_server for user sami.jaber'],normal
+127,2025-05-26 12:50:00,['tentative de contournement du proxy'],normal
+127,2025-05-26 14:10:00,['url encode suspect détecté'],normal
+127,2025-05-26 14:25:00,['user sami.jaber successfully authenticated'],normal
+127,2025-05-26 14:40:00,['policy violation detected for user sami.jaber'],normal
+127,2025-05-26 20:35:00,[],normal
+127,2025-05-26 21:45:00,[],normal
+127,2025-05-26 22:15:00,['network interface enabled'],normal
+127,2025-05-27 03:30:00,[],normal
+127,2025-06-01 10:25:00,[],normal
+127,2025-06-01 10:30:00,[],normal
+128,2025-05-26 09:15:00,[],normal
+128,2025-05-26 09:30:00,"[""signalement d’un phishing à l’équipe sécurité: destinataire 'hazem.younis@um6p.ma', sujet 'information importante: mise à jour logicielle'""]",phishing
+128,2025-05-26 09:50:00,"[""tentative d'accès externe non autorisé""]",normal
+128,2025-05-26 10:10:00,"['new iam policy applied to user samir.alhassan', 'utilisation de port non standard détectée']",normal
+128,2025-05-26 10:40:00,['requête http avec header modifié'],normal
+128,2025-05-26 10:45:00,['connexion via vpn interne'],normal
+128,2025-05-26 11:30:00,['accès à la boîte mail bloqué par l’administrateur'],normal
+128,2025-05-26 12:45:00,['page classée comme site de crypto-mining'],normal
+128,2025-05-26 13:15:00,['upload de données détecté'],normal
+128,2025-05-26 14:50:00,['demande de ressource interne depuis ip externe'],normal
+128,2025-05-26 16:55:00,"['redirection vers site de phishing', 'connexion réseau interrompue']",phishing
+128,2025-05-26 17:15:00,['lien contenu dans email suspect'],normal
+128,2025-05-26 17:25:00,[],normal
+128,2025-05-26 19:10:00,[],normal
+128,2025-05-26 21:55:00,['configuration file modified'],normal
+128,2025-06-01 11:35:00,[],normal
+128,2025-06-01 11:40:00,[],normal
+128,2025-06-01 12:50:00,[],normal
+128,2025-06-01 13:00:00,[],normal
+129,2025-05-26 09:20:00,['connexion validée via double authentification'],normal
+129,2025-05-26 09:40:00,['blocage d’un lien malveillant intégré dans un email'],normal
+129,2025-05-26 09:55:00,['accès au webmail via un nouveau navigateur'],normal
+129,2025-05-26 10:35:00,['changement de mot de passe demandé par utilisateur'],normal
+129,2025-05-26 10:40:00,[],normal
+129,2025-05-26 11:45:00,"['authentication token revoked for user samir.shaheen', 'renvoi d’un email avec données sensibles']",normal
+129,2025-05-26 12:10:00,[],normal
+129,2025-05-26 13:20:00,['déclenchement d’une règle ueba pour trafic inhabituel'],normal
+129,2025-05-26 13:25:00,['connexion manuelle confirmée'],normal
+129,2025-05-26 14:05:00,['connexion simultanée depuis plusieurs pays'],normal
+129,2025-05-26 14:40:00,"[""téléchargement d’un fichier csv utilisateur: fichier 'notes_support_technique.txt'""]",normal
+129,2025-05-26 15:10:00,['group membership updated'],normal
+129,2025-05-26 15:15:00,['téléchargement d’un formulaire officiel'],normal
+129,2025-05-26 15:50:00,[],normal
+129,2025-05-26 19:55:00,[],normal
+129,2025-05-26 20:50:00,['account locked out due to too many failed logons'],brute_force
+129,2025-05-27 03:45:00,[],normal
+129,2025-06-01 11:15:00,[],normal
+129,2025-06-01 11:25:00,[],normal
+129,2025-06-01 12:00:00,[],normal
+130,2025-05-26 09:00:00,['user removed from security group'],normal
+130,2025-05-26 09:05:00,[],normal
+130,2025-05-26 09:20:00,['requête http non conforme'],normal
+130,2025-05-26 09:30:00,['policy violation detected for user samira.karim'],normal
+130,2025-05-26 09:35:00,[],normal
+130,2025-05-26 09:40:00,[],normal
+130,2025-05-26 10:15:00,"[""suppression de plusieurs emails en masse: fichier 'notes_support_technique.txt'""]",normal
+130,2025-05-26 11:10:00,['password reset initiated for user samira.karim'],normal
+130,2025-05-26 11:40:00,['attempt to read ad schema'],normal
+130,2025-05-26 12:20:00,['successful logon - interactive'],normal
+130,2025-05-26 12:55:00,['blocage automatique du compte suite à alertes ad'],normal
+130,2025-05-26 13:15:00,[],normal
+130,2025-05-26 13:35:00,['blocage d’un lien malveillant intégré dans un email'],normal
+130,2025-05-26 17:05:00,['firewall rule removed'],normal
+130,2025-05-26 17:35:00,['successful logon - interactive'],normal
+130,2025-05-26 18:20:00,['backup failed'],normal
+130,2025-05-26 20:50:00,[],normal
+130,2025-05-26 20:55:00,['user removed from security group'],normal
+130,2025-05-26 23:25:00,[],normal
+130,2025-05-27 02:00:00,['security policy updated'],normal
+130,2025-05-27 02:05:00,[],normal
+130,2025-05-27 03:25:00,[],normal
+130,2025-06-01 11:55:00,[],normal
+130,2025-06-01 12:15:00,[],normal
+130,2025-06-01 13:15:00,[],normal
+131,2025-05-26 09:05:00,['session terminated for user sara.abdelkarim'],normal
+131,2025-05-26 10:00:00,"[""partage d’un rapport financier avec l’équipe: fichier 'formulaire_demande_acces_reseau.pdf'""]",normal
+131,2025-05-26 10:40:00,[],normal
+131,2025-05-26 11:00:00,['accès autorisé - utilisateur validé'],normal
+131,2025-05-26 11:40:00,['requête suspecte vers cdn externe'],normal
+131,2025-05-26 11:55:00,[],normal
+131,2025-05-26 12:05:00,['connexion à une base de données non sécurisée'],normal
+131,2025-05-26 12:10:00,"['lecture d’un email important concernant la réunion um6p', 'session expirée - nouvelle tentative détectée']",normal
+131,2025-05-26 13:30:00,['connexion à un serveur inconnu'],normal
+131,2025-05-26 14:10:00,['user sara.abdelkarim logged out successfully'],normal
+131,2025-05-26 16:45:00,['navigateur non reconnu'],normal
+131,2025-05-26 21:50:00,['audit log cleared'],normal
+131,2025-05-26 22:50:00,[],normal
+131,2025-06-01 09:10:00,[],normal
+131,2025-06-01 09:15:00,[],normal
+131,2025-06-01 10:45:00,[],normal
+131,2025-06-01 12:00:00,[],normal
+132,2025-05-26 09:35:00,['user sara.farid enrolled in mfa'],normal
+132,2025-05-26 09:40:00,['mfa challenge triggered for user sara.farid'],normal
+132,2025-05-26 10:30:00,['changement de mot de passe demandé par utilisateur'],normal
+132,2025-05-26 12:05:00,['user sara.farid changed their password'],normal
+132,2025-05-26 12:15:00,[],normal
+132,2025-05-26 12:40:00,['proxy chain détecté'],normal
+132,2025-05-26 13:45:00,"[""changement d’adresse email associé au compte: sujet 'validation du plan de formation it'""]",normal
+132,2025-05-26 14:00:00,['consultation d’un email avec pièce jointe sensible'],normal
+132,2025-05-26 14:40:00,['navigateur en mode incognito détecté'],normal
+132,2025-05-26 14:45:00,['user session disconnected'],normal
+132,2025-05-26 15:00:00,"['user sara.farid attempted to escalate permissions', 'failed logon from nearby host']",normal
+132,2025-05-26 15:50:00,['bloqué par firewall'],normal
+132,2025-05-26 16:05:00,['firewall rule removed'],normal
+132,2025-05-26 19:35:00,['failed logon attempt from unusual client'],normal
+132,2025-05-26 19:40:00,[],normal
+132,2025-05-27 01:55:00,[],normal
+132,2025-06-01 10:40:00,[],normal
+133,2025-05-26 09:50:00,['new iam policy applied to user sawsan.mansour'],normal
+133,2025-05-26 11:00:00,['user sawsan.mansour stopped sharing'],normal
+133,2025-05-26 11:20:00,"[""lecture d’un email d’alerte sécurité: destinataire 'nader.alsalem@um6p.ma', sujet 'mise à jour des licences logiciels'""]",normal
+133,2025-05-26 11:50:00,['software installed successfully'],normal
+133,2025-05-26 15:00:00,['blocage automatique du compte suite à alertes ad'],normal
+133,2025-05-26 15:05:00,['connexion simultanée depuis plusieurs pays'],normal
+133,2025-05-26 16:45:00,['session expirée - nouvelle tentative détectée'],normal
+133,2025-05-26 17:00:00,['flux interrompu par politique fw'],normal
+133,2025-05-26 17:45:00,[],normal
+133,2025-05-27 01:20:00,['service stopped unexpectedly'],normal
+133,2025-05-27 02:50:00,[],normal
+133,2025-06-01 09:05:00,[],normal
+133,2025-06-01 09:25:00,[],normal
+133,2025-06-01 11:10:00,[],normal
+133,2025-06-01 11:35:00,[],normal
+134,2025-05-26 09:15:00,['connexion sans user-agent détectée'],normal
+134,2025-05-26 09:30:00,['tentative de spoofing réseau'],normal
+134,2025-05-26 09:55:00,[],normal
+134,2025-05-26 10:10:00,"[""tentative d’accès à un email protégé par mfa: fichier 'rapport_recherche_cybermenaces.pdf'""]",normal
+134,2025-05-26 10:15:00,[],normal
+134,2025-05-26 10:20:00,[],normal
+134,2025-05-26 10:45:00,['exécution de script js inconnu'],normal
+134,2025-05-26 11:25:00,['system time changed'],normal
+134,2025-05-26 12:40:00,['access denied to user_dashboard for user shaden.naqib'],normal
+134,2025-05-26 13:50:00,['api key deleted for user shaden.naqib'],normal
+134,2025-05-26 18:45:00,['backup failed'],normal
+134,2025-05-26 21:15:00,[],normal
+135,2025-05-26 09:10:00,['partage d’un document critique via lien sécurisé'],normal
+135,2025-05-26 09:15:00,['blocage d’un lien malveillant intégré dans un email'],normal
+135,2025-05-26 10:10:00,[],normal
+135,2025-05-26 10:30:00,['protocole anormal utilisé pour post'],normal
+135,2025-05-26 11:40:00,['lien accédé plusieurs fois en quelques secondes'],normal
+135,2025-05-26 13:15:00,['data import failed'],normal
+135,2025-05-26 13:20:00,['lecture d’un email d’alerte sécurité'],normal
+135,2025-05-26 13:55:00,['suppression de plusieurs emails en masse'],normal
+135,2025-05-26 18:15:00,[],normal
+135,2025-05-26 18:55:00,['unauthorized access attempt blocked'],normal
+135,2025-05-26 20:15:00,['group membership updated'],normal
+135,2025-05-26 20:20:00,['attempt to read ad schema'],normal
+135,2025-05-27 00:00:00,['account locked out due to too many failed logons'],brute_force
+135,2025-05-27 00:35:00,[],normal
+135,2025-05-27 04:55:00,['data export completed successfully'],normal
+135,2025-06-01 09:20:00,[],normal
+135,2025-06-01 10:05:00,[],normal
+135,2025-06-01 12:25:00,[],normal
+135,2025-06-01 12:40:00,[],normal
+135,2025-06-01 13:05:00,[],normal
+136,2025-05-26 09:25:00,['authentication token generated for user shimaa.hassan'],normal
+136,2025-05-26 09:40:00,['user shimaa.hassan joined group'],normal
+136,2025-05-26 09:45:00,"[""accès refusé suite à politique de sécurité renforcée: destinataire 'yasin.abdelrahman@um6p.ma', sujet 'nouvelle procédure d’authentification'""]",normal
+136,2025-05-26 10:00:00,['user account enabled'],normal
+136,2025-05-26 12:30:00,['envoi d’email de rappel pour réunion'],normal
+136,2025-05-26 12:45:00,['password reset initiated for user shimaa.hassan'],normal
+136,2025-05-26 13:00:00,['demande d’aide pour récupération de mot de passe: ip 10.10.12.52'],normal
+136,2025-05-26 13:10:00,['redirection vers site de phishing'],phishing
+136,2025-05-26 14:20:00,['signalement d’un phishing à l’équipe sécurité'],phishing
+136,2025-05-26 16:20:00,[],normal
+136,2025-05-26 20:30:00,['two-factor authentication disabled'],normal
+136,2025-05-27 00:25:00,['logon success - suspicious account'],normal
+136,2025-05-27 02:40:00,['attempt to read ad schema'],normal
+136,2025-06-01 12:20:00,[],normal
+136,2025-06-01 12:30:00,[],normal
+136,2025-06-01 12:55:00,[],normal
+137,2025-05-26 09:00:00,['mfa challenge triggered for user siham.faraj'],normal
+137,2025-05-26 09:15:00,[],normal
+137,2025-05-26 12:15:00,['user siham.faraj stopped sharing'],normal
+137,2025-05-26 12:30:00,"['url contenant chaîne suspecte', 'clic sur un lien suspect détecté, possible phishing']",phishing
+137,2025-05-26 12:50:00,['user siham.faraj stopped sharing'],normal
+137,2025-05-26 13:05:00,['policy violation detected for user siham.faraj'],normal
+137,2025-05-26 13:10:00,['connexion à la messagerie via un appareil mobile'],normal
+137,2025-05-26 15:50:00,['failed logon from nearby host'],normal
+137,2025-05-26 16:50:00,['unauthorized access attempt blocked'],normal
+137,2025-05-27 04:45:00,[],normal
+137,2025-06-01 09:25:00,[],normal
+137,2025-06-01 11:40:00,[],normal
+137,2025-06-01 12:30:00,[],normal
+137,2025-06-01 12:45:00,[],normal
+138,2025-05-26 09:45:00,[],normal
+138,2025-05-26 09:50:00,[],normal
+138,2025-05-26 09:55:00,['unusual network activity detected'],normal
+138,2025-05-26 11:10:00,['envoi d’email de rappel pour réunion'],normal
+138,2025-05-26 11:15:00,['réception d’un email contenant des instructions critiques'],normal
+138,2025-05-26 11:30:00,['account for user tamer.karim was unlocked by admin'],normal
+138,2025-05-26 11:55:00,['suppression d’un email suspect signalé par fw'],normal
+138,2025-05-26 13:10:00,['renvoi d’un email avec données sensibles'],normal
+138,2025-05-26 13:45:00,['partage d’un rapport financier avec l’équipe'],normal
+138,2025-05-26 14:00:00,['url encode suspect détecté'],normal
+138,2025-05-26 15:40:00,[],normal
+138,2025-05-26 15:50:00,['blocage d’un lien malveillant intégré dans un email'],normal
+138,2025-05-26 17:20:00,[],normal
+138,2025-05-26 21:35:00,['user removed from security group'],normal
+138,2025-05-27 03:00:00,['data import failed'],normal
+138,2025-05-27 03:50:00,['certificate issued'],normal
+138,2025-06-01 09:15:00,[],normal
+138,2025-06-01 11:10:00,[],normal
+139,2025-05-26 09:05:00,['access granted to ci_cd_pipeline for user tarek.bahaa'],normal
+139,2025-05-26 09:20:00,[],normal
+139,2025-05-26 10:25:00,['consultation d’un email avec pièce jointe sensible'],normal
+139,2025-05-26 10:55:00,['access granted to s3_bucket for user tarek.bahaa'],normal
+139,2025-05-26 11:30:00,['user tarek.bahaa account disabled'],normal
+139,2025-05-26 12:35:00,"[""envoi d’un email au support informatique: destinataire 'adil.elfassi@um6p.ma', sujet 'suivi des incidents de phishing détectés'""]",phishing
+139,2025-05-26 13:55:00,"[""accès à la messagerie via vpn sécurisé: destinataire 'yasir.khalaf@um6p.ma', sujet 'rapport d’analyse des vulnérabilités'""]",normal
+139,2025-05-26 14:05:00,"[""transfert d’un email à un client externe: sujet 'compte rendu réunion sécurité informatique'""]",normal
+139,2025-05-26 16:10:00,['flux interrompu par politique fw'],normal
+139,2025-05-26 17:45:00,['failed logon attempt using service account'],normal
+139,2025-05-26 20:00:00,['software installed successfully'],normal
+139,2025-05-26 21:10:00,[],normal
+139,2025-05-27 00:45:00,[],normal
+139,2025-05-27 03:10:00,['enumeration of admin group'],normal
+139,2025-06-01 10:05:00,[],normal
+139,2025-06-01 11:05:00,[],normal
+140,2025-05-26 09:10:00,[],normal
+140,2025-05-26 10:05:00,['signalement d’un phishing à l’équipe sécurité: ip 10.10.12.113'],phishing
+140,2025-05-26 11:05:00,['user tarik.makki passed mfa challenge'],normal
+140,2025-05-26 13:05:00,[],normal
+140,2025-05-26 13:30:00,[],normal
+140,2025-05-26 14:15:00,['tentative de spoofing réseau'],normal
+140,2025-05-26 14:35:00,"['user tarik.makki left group', 'connexion à un serveur inconnu']",normal
+140,2025-05-26 15:50:00,['signature de malware détectée'],normal
+140,2025-05-26 17:35:00,[],normal
+140,2025-05-26 23:55:00,['remote logon - file server'],normal
+140,2025-05-27 04:35:00,['certificate revoked'],normal
+140,2025-06-01 12:10:00,[],normal
+140,2025-06-01 12:45:00,[],normal
+141,2025-05-26 09:00:00,[],normal
+141,2025-05-26 09:05:00,['envoi d’un email de validation pour action urgente'],normal
+141,2025-05-26 09:25:00,['lecture d’un email interne confidentiel'],normal
+141,2025-05-26 09:40:00,['blocage d’un lien malveillant intégré dans un email'],normal
+141,2025-05-26 09:55:00,[],normal
+141,2025-05-26 12:05:00,['firewall rule removed'],normal
+141,2025-05-26 12:30:00,['password reset initiated for user tariq.mansour'],normal
+141,2025-05-26 12:50:00,['session timed out due to inactivity for user tariq.mansour'],normal
+141,2025-05-26 14:45:00,['policy violation detected for user tariq.mansour'],normal
+141,2025-05-26 14:50:00,['failed login attempt for user tariq.mansour'],brute_force
+141,2025-05-26 14:55:00,"['user tariq.mansour shared  with others', 'requête vers domaine anonyme']",normal
+141,2025-05-26 17:15:00,['signature de phishing connue détectée'],phishing
+141,2025-05-26 20:10:00,['user password reset by administrator'],normal
+141,2025-05-26 20:35:00,['user removed from security group'],normal
+141,2025-05-26 23:00:00,['user account enabled'],normal
+141,2025-05-27 01:15:00,['account logged in from multiple locations'],normal
+141,2025-06-01 10:00:00,[],normal
+141,2025-06-01 10:10:00,[],normal
+141,2025-06-01 11:10:00,[],normal
+141,2025-06-01 12:05:00,[],normal
+141,2025-06-01 12:10:00,[],normal
+141,2025-06-01 13:00:00,[],normal
+142,2025-05-26 09:05:00,[],normal
+142,2025-05-26 09:45:00,[],normal
+142,2025-05-26 11:50:00,['new user thamer.najjar account created'],normal
+142,2025-05-26 12:35:00,['téléchargement d’un fichier csv utilisateur'],normal
+142,2025-05-26 13:15:00,['permissions changed for user thamer.najjar'],normal
+142,2025-05-26 14:10:00,"['fichier téléchargé analysé, pas de menace']",normal
+142,2025-05-26 15:55:00,['utilisation de port non standard détectée'],normal
+142,2025-05-26 16:40:00,['two-factor authentication disabled'],normal
+142,2025-05-26 17:45:00,['privilege escalation attempt detected'],normal
+142,2025-05-26 17:55:00,[],normal
+142,2025-05-26 18:25:00,[],normal
+142,2025-05-27 00:00:00,['unauthorized access attempt blocked'],normal
+142,2025-05-27 02:55:00,[],normal
+142,2025-06-01 10:40:00,[],normal
+142,2025-06-01 10:55:00,[],normal
+142,2025-06-01 12:05:00,[],normal
+143,2025-05-26 09:00:00,[],normal
+143,2025-05-26 09:05:00,[],normal
+143,2025-05-26 09:10:00,[],normal
+143,2025-05-26 09:15:00,[],normal
+143,2025-05-26 09:20:00,[],normal
+143,2025-05-26 09:25:00,[],normal
+143,2025-05-26 09:30:00,[],normal
+143,2025-05-26 09:35:00,[],normal
+143,2025-05-26 09:40:00,[],normal
+143,2025-05-26 09:45:00,[],normal
+143,2025-05-26 09:50:00,[],normal
+143,2025-05-26 09:55:00,[],normal
+143,2025-05-26 10:00:00,[],normal
+143,2025-05-26 10:05:00,[],normal
+143,2025-05-26 10:10:00,[],normal
+143,2025-05-26 10:15:00,[],normal
+143,2025-05-26 10:20:00,[],normal
+143,2025-05-26 10:25:00,[],normal
+143,2025-05-26 10:30:00,[],normal
+143,2025-05-26 10:35:00,[],normal
+143,2025-05-26 10:40:00,[],normal
+143,2025-05-26 10:45:00,[],normal
+143,2025-05-26 10:50:00,[],normal
+143,2025-05-26 10:55:00,[],normal
+143,2025-05-26 11:00:00,[],normal
+143,2025-05-26 11:05:00,[],normal
+143,2025-05-26 11:10:00,[],normal
+143,2025-05-26 11:15:00,[],normal
+143,2025-05-26 11:20:00,[],normal
+143,2025-05-26 11:25:00,[],normal
+143,2025-05-26 11:30:00,[],normal
+143,2025-05-26 11:35:00,[],normal
+143,2025-05-26 11:40:00,[],normal
+143,2025-05-26 11:45:00,[],normal
+143,2025-05-26 11:50:00,[],normal
+143,2025-05-26 11:55:00,[],normal
+143,2025-05-26 12:00:00,[],normal
+143,2025-05-26 12:05:00,[],normal
+143,2025-05-26 12:10:00,[],normal
+143,2025-05-26 12:15:00,[],normal
+143,2025-05-26 12:20:00,[],normal
+143,2025-05-26 12:25:00,[],normal
+143,2025-05-26 12:30:00,[],normal
+143,2025-05-26 12:35:00,[],normal
+143,2025-05-26 12:40:00,[],normal
+143,2025-05-26 12:45:00,[],normal
+143,2025-05-26 12:50:00,[],normal
+143,2025-05-26 12:55:00,[],normal
+143,2025-05-26 13:00:00,[],normal
+143,2025-05-26 13:05:00,[],normal
+143,2025-05-26 13:10:00,[],normal
+143,2025-05-26 13:15:00,[],normal
+143,2025-05-26 13:20:00,[],normal
+143,2025-05-26 13:25:00,[],normal
+143,2025-05-26 13:30:00,[],normal
+143,2025-05-26 13:35:00,[],normal
+143,2025-05-26 13:40:00,[],normal
+143,2025-05-26 13:45:00,[],normal
+143,2025-05-26 13:50:00,[],normal
+143,2025-05-26 13:55:00,[],normal
+143,2025-05-26 14:00:00,[],normal
+143,2025-05-26 14:05:00,[],normal
+143,2025-05-26 14:10:00,[],normal
+143,2025-05-26 14:15:00,[],normal
+143,2025-05-26 14:20:00,[],normal
+143,2025-05-26 14:30:00,[],normal
+143,2025-05-26 14:35:00,[],normal
+143,2025-05-26 14:40:00,[],normal
+143,2025-05-26 14:45:00,[],normal
+143,2025-05-26 14:50:00,[],normal
+143,2025-05-26 14:55:00,[],normal
+143,2025-05-26 15:00:00,[],normal
+143,2025-05-26 15:05:00,[],normal
+143,2025-05-26 15:30:00,[],normal
+143,2025-05-26 15:40:00,[],normal
+143,2025-05-26 15:45:00,[],normal
+143,2025-05-26 15:50:00,[],normal
+143,2025-05-26 15:55:00,[],normal
+143,2025-05-26 16:05:00,[],normal
+143,2025-05-26 16:30:00,[],normal
+143,2025-05-26 16:35:00,[],normal
+143,2025-05-26 16:40:00,[],normal
+143,2025-05-26 16:50:00,[],normal
+143,2025-05-26 17:00:00,[],normal
+143,2025-05-26 17:10:00,[],normal
+143,2025-05-26 17:15:00,[],normal
+144,2025-05-26 09:00:00,[],normal
+144,2025-05-26 09:40:00,['new iam policy applied to user wael.abdulrahim'],normal
+144,2025-05-26 09:55:00,"[""connexion à la messagerie via un appareil mobile: lien 'http://admin.um6p-portal-login.com'""]",normal
+144,2025-05-26 10:15:00,"[""échec de vérification d'identité""]",normal
+144,2025-05-26 10:40:00,['user wael.abdulrahim attempted to escalate permissions'],normal
+144,2025-05-26 11:05:00,[],normal
+144,2025-05-26 12:00:00,['connexion à la messagerie via un appareil mobile'],normal
+144,2025-05-26 12:45:00,['privilege escalation attempt detected'],normal
+144,2025-05-26 13:35:00,['signalement d’email frauduleux via le portail'],normal
+144,2025-05-26 13:50:00,['accès à la boîte mail bloqué par l’administrateur'],normal
+144,2025-05-26 14:25:00,['navigateur en mode incognito détecté'],normal
+144,2025-05-26 15:10:00,['certificate issued'],normal
+144,2025-05-26 15:30:00,"[""consultation d’un email avec pièce jointe malveillante: destinataire 'kalil.hakim@um6p.ma', sujet 'suivi des demandes it'""]",normal
+144,2025-05-26 16:30:00,[],normal
+144,2025-05-26 18:00:00,['audit log cleared'],normal
+144,2025-05-26 22:35:00,['user account enabled'],normal
+144,2025-05-27 00:35:00,[],normal
+144,2025-05-27 02:05:00,[],normal
+144,2025-05-27 05:10:00,[],normal
+144,2025-06-01 09:15:00,[],normal
+145,2025-05-26 09:40:00,['user wahid.farhan logged out successfully'],normal
+145,2025-05-26 09:50:00,['user added to security-enabled local group'],normal
+145,2025-05-26 10:00:00,[],normal
+145,2025-05-26 11:05:00,[],normal
+145,2025-05-26 11:10:00,['new session created for user wahid.farhan'],normal
+145,2025-05-26 11:45:00,"['consultation d’un email avec informations stratégiques', ""consultation d’un email avec pièce jointe malveillante: sujet 'rappel: changement de mot de passe imminent'""]",normal
+145,2025-05-26 11:55:00,"['user wahid.farhan stopped sharing', 'utilisation de port non standard détectée']",normal
+145,2025-05-26 13:00:00,['authentication token generated for user wahid.farhan'],normal
+145,2025-05-26 15:30:00,['trafic inhabituel détecté'],normal
+145,2025-05-26 15:35:00,"['trafic normal', 'signature de malware détectée']",normal
+145,2025-05-26 16:45:00,"[""tentative d'accès externe non autorisé""]",normal
+146,2025-05-26 10:05:00,['requête sortante bloquée'],normal
+146,2025-05-26 10:55:00,[],normal
+146,2025-05-26 14:00:00,[],normal
+146,2025-05-26 14:10:00,['unusual network activity detected'],normal
+146,2025-05-26 14:45:00,['changement d’adresse email associé au compte'],normal
+146,2025-05-26 17:15:00,['unauthorized access attempt blocked'],normal
+146,2025-05-27 01:15:00,[],normal
+146,2025-05-27 02:30:00,[],normal
+146,2025-05-27 04:30:00,['vpn connection established'],normal
+146,2025-06-01 09:55:00,[],normal
+147,2025-05-26 09:05:00,['accès à la messagerie via vpn sécurisé'],normal
+147,2025-05-26 09:10:00,['suppression d’un email confidentiel'],normal
+147,2025-05-26 11:40:00,"[""envoi d’un email de validation pour action urgente: ip 10.10.12.38, appareil 'iphone-13-um6p'""]",normal
+147,2025-05-26 12:00:00,['new session created for user yara.khaled'],normal
+147,2025-05-26 12:20:00,['signalement d’un email phishing par utilisateur'],phishing
+147,2025-05-26 12:30:00,['contenu malveillant détecté par antivirus'],normal
+147,2025-05-26 12:55:00,"[""consultation d’un email avec pièce jointe sensible: lien 'http://admin.um6p-portal-login.com'""]",normal
+147,2025-05-26 13:25:00,['connexion au webmail via ip validée par ad'],normal
+147,2025-05-26 13:30:00,['envoi d’un email de confirmation d’action it'],normal
+147,2025-05-26 14:10:00,"['connexion vpn rejetée', 'accès à la messagerie via vpn sécurisé']",normal
+147,2025-05-26 15:40:00,"['blocage automatique activé', 'tentative de contournement du proxy']",normal
+147,2025-05-26 20:30:00,[],normal
+147,2025-05-26 22:25:00,['enumeration of admin group'],normal
+147,2025-05-27 00:55:00,[],normal
+147,2025-05-27 01:50:00,['user password reset by administrator'],normal
+147,2025-05-27 04:40:00,[],normal
+147,2025-06-01 09:05:00,[],normal
+147,2025-06-01 09:45:00,[],normal
+147,2025-06-01 11:55:00,[],normal
+148,2025-05-26 09:00:00,['téléchargement d’un rapport de vulnérabilité réseau'],normal
+148,2025-05-26 09:05:00,[],normal
+148,2025-05-26 09:30:00,[],normal
+148,2025-05-26 10:05:00,['failed login attempt for user yasin.abdelrahman'],brute_force
+148,2025-05-26 10:10:00,[],normal
+148,2025-05-26 10:40:00,[],normal
+148,2025-05-26 11:10:00,['signature de malware détectée'],normal
+148,2025-05-26 11:20:00,['session terminated for user yasin.abdelrahman'],normal
+148,2025-05-26 13:30:00,[],normal
+148,2025-05-26 15:00:00,[],normal
+148,2025-05-26 19:20:00,['vpn connection terminated'],normal
+148,2025-05-26 21:20:00,['software installed successfully'],normal
+148,2025-05-26 23:10:00,[],normal
+148,2025-05-27 02:50:00,[],normal
+148,2025-05-27 02:55:00,['enumeration of admin group'],normal
+148,2025-05-27 04:15:00,['failed logon attempt from unusual client'],normal
+148,2025-06-01 09:15:00,[],normal
+148,2025-06-01 11:55:00,[],normal
+148,2025-06-01 12:25:00,[],normal
+149,2025-05-26 09:05:00,['téléchargement de script bloqué'],normal
+149,2025-05-26 10:25:00,['group membership updated'],normal
+149,2025-05-26 11:20:00,['signalement d’une tentative de fraude bancaire'],normal
+149,2025-05-26 11:55:00,['multiples connexions simultanées détectées'],normal
+149,2025-05-26 12:10:00,['envoi d’un email de validation pour action urgente'],normal
+149,2025-05-26 12:25:00,[],normal
+149,2025-05-26 12:55:00,"['changement de mot de passe demandé par utilisateur', 'mfa verification failed for user yasir.abdullah']",normal
+149,2025-05-26 13:55:00,['connexion à un serveur inconnu'],normal
+149,2025-05-26 16:00:00,['special privileges assigned'],normal
+149,2025-05-26 21:25:00,['disk space running low'],normal
+149,2025-05-26 22:40:00,['group membership updated'],normal
+149,2025-05-26 23:05:00,[],normal
+149,2025-05-27 03:40:00,[],normal
+149,2025-05-27 04:55:00,[],normal
+149,2025-06-01 09:30:00,[],normal
+149,2025-06-01 10:45:00,[],normal
+149,2025-06-01 12:05:00,[],normal
+149,2025-06-01 12:10:00,[],normal
+149,2025-06-01 12:25:00,[],normal
+150,2025-05-26 09:25:00,['recherche d’emails contenant des mots-clés sensibles'],normal
+150,2025-05-26 10:20:00,"['authentification échouée, mot de passe invalide']",normal
+150,2025-05-26 10:45:00,['envoi d’un email avec des informations financières'],normal
+150,2025-05-26 11:15:00,['url classée dans catégorie interdite'],normal
+150,2025-05-26 13:25:00,['proxy chain détecté'],normal
+150,2025-05-26 14:40:00,['partage d’un rapport financier avec l’équipe: ip 10.10.12.151'],normal
+150,2025-05-26 16:30:00,['requête http bloquée'],normal
+150,2025-05-26 17:20:00,['protocole anormal utilisé pour post'],normal
+150,2025-05-26 18:35:00,['normal logon - admin workstation'],normal
+150,2025-05-26 20:30:00,[],normal
+150,2025-05-27 05:10:00,['two-factor authentication disabled'],normal
+150,2025-06-01 12:00:00,[],normal
+150,2025-06-01 12:20:00,[],normal
+151,2025-05-26 09:10:00,[],normal
+151,2025-05-26 09:30:00,"[""lecture d’un email urgent sur le budget it: sujet 'statistiques d’utilisation vpn'""]",normal
+151,2025-05-26 10:30:00,[],normal
+151,2025-05-26 10:40:00,"[""téléchargement d’un rapport de vulnérabilité réseau: recherche 'nom d'utilisateur admin'""]",normal
+151,2025-05-26 10:55:00,['réinitialisation du mot de passe par l’utilisateur'],normal
+151,2025-05-26 13:20:00,['partage d’un document critique via lien sécurisé'],normal
+151,2025-05-26 13:35:00,['accès légitime'],normal
+151,2025-05-26 13:45:00,"['authentification échouée, mot de passe invalide']",normal
+151,2025-05-26 13:50:00,['suppression d’un email confidentiel'],normal
+151,2025-05-26 14:05:00,['user yasmeen.salim assigned role'],normal
+151,2025-05-26 15:15:00,['utilisation de proxy public détectée'],normal
+151,2025-05-26 17:30:00,['data import failed'],normal
+151,2025-05-26 18:05:00,['failed logon attempt from unusual client'],normal
+151,2025-05-26 21:35:00,['data export completed successfully'],normal
+151,2025-05-26 21:55:00,['group membership updated'],normal
+151,2025-05-27 04:20:00,[],normal
+151,2025-05-27 05:10:00,['failed logon attempt from unusual client'],normal
+151,2025-06-01 11:20:00,[],normal
+151,2025-06-01 12:45:00,[],normal
+152,2025-05-26 09:25:00,"[""notification d’une nouvelle règle de sécurité mail: destinataire 'ahmed.alhaj@um6p.ma', sujet 'suivi des incidents de sécurité récents'""]",normal
+152,2025-05-26 09:30:00,['requête http avec header modifié'],normal
+152,2025-05-26 09:35:00,"['échec accès, utilisateur inconnu']",normal
+152,2025-05-26 09:50:00,[],normal
+152,2025-05-26 10:40:00,['bloqué par firewall'],normal
+152,2025-05-26 10:45:00,[],normal
+152,2025-05-26 11:45:00,[],normal
+152,2025-05-26 12:20:00,['new user yasmin.abdulrahman account created'],normal
+152,2025-05-26 13:25:00,['connexion à un serveur inconnu'],normal
+152,2025-05-26 15:20:00,['lecture d’un email d’alerte sécurité'],normal
+152,2025-05-26 15:55:00,[],normal
+152,2025-05-26 16:10:00,[],normal
+152,2025-05-26 16:20:00,"[""échec de vérification d'identité""]",normal
+152,2025-05-26 16:45:00,['vpn connection terminated'],normal
+152,2025-05-26 20:40:00,['group membership updated'],normal
+152,2025-05-26 21:35:00,['enumeration of admin group'],normal
+152,2025-05-27 00:30:00,[],normal
+152,2025-05-27 02:35:00,[],normal
+152,2025-06-01 10:55:00,[],normal
+152,2025-06-01 12:45:00,[],normal
+153,2025-05-26 09:00:00,['User clicked on suspicious email link'],phishing
+153,2025-05-26 09:15:00,['User clicked on suspicious email link'],phishing
+153,2025-05-26 09:20:00,['User clicked on suspicious email link'],phishing
+153,2025-05-26 09:55:00,['User clicked on suspicious email link'],phishing
+153,2025-05-26 10:00:00,['User clicked on suspicious email link'],phishing
+153,2025-05-26 10:15:00,['User clicked on suspicious email link'],phishing
+153,2025-05-26 10:35:00,['User clicked on suspicious email link'],phishing
+153,2025-05-26 10:40:00,['User clicked on suspicious email link'],phishing
+154,2025-05-26 09:45:00,['partage d’un document critique via lien sécurisé'],normal
+154,2025-05-26 10:10:00,['account locked out due to too many failed logons'],brute_force
+154,2025-05-26 11:30:00,['téléversement interdit détecté'],normal
+154,2025-05-26 11:40:00,['échec de connexion suite à tentative non autorisée'],normal
+154,2025-05-26 12:40:00,['connexion validée via double authentification'],normal
+154,2025-05-26 13:15:00,"[""renvoi d’un email avec données sensibles: sujet 'mise à jour des droits d’accès'""]",normal
+154,2025-05-26 13:25:00,['user younes.abdullah left group'],normal
+154,2025-05-26 14:20:00,['mfa challenge triggered for user younes.abdullah'],normal
+154,2025-05-26 14:35:00,['logon success - suspicious account'],normal
+154,2025-05-26 14:50:00,['navigation vers site de partage interdit'],normal
+154,2025-05-26 15:00:00,['déclenchement d’une règle ueba pour trafic inhabituel'],normal
+154,2025-05-26 15:25:00,['connexion à un serveur inconnu'],normal
+154,2025-05-26 16:30:00,['scan de port détecté'],normal
+154,2025-05-26 17:10:00,['fichier exécutable détecté'],normal
+154,2025-05-26 20:45:00,['failed logon attempt from unusual client'],normal
+154,2025-06-01 11:20:00,[],normal
+154,2025-06-01 13:00:00,[],normal
+155,2025-05-26 10:00:00,['connexion depuis ip tor'],normal
+155,2025-05-26 10:35:00,['user youssef.khalil assigned role'],normal
+155,2025-05-26 11:05:00,['user youssef.khalil enrolled in mfa'],normal
+155,2025-05-26 11:35:00,['proxy chain détecté'],normal
+155,2025-05-26 12:35:00,['connexion à un serveur inconnu'],normal
+155,2025-05-26 14:45:00,['lien accédé plusieurs fois en quelques secondes'],normal
+155,2025-05-26 14:50:00,['envoi d’email de rappel pour réunion'],normal
+155,2025-05-26 15:20:00,['connexion multiple en courte durée'],normal
+155,2025-05-26 17:20:00,"[""tentative d'accès externe non autorisé""]",normal
+155,2025-05-26 22:25:00,['network interface disabled'],normal
+155,2025-06-01 09:50:00,[],normal
+155,2025-06-01 09:55:00,[],normal
+155,2025-06-01 10:50:00,[],normal
+156,2025-05-26 09:00:00,"[""téléchargement d’un fichier csv utilisateur: recherche 'contact support sécurité'""]",normal
+156,2025-05-26 09:20:00,[],normal
+156,2025-05-26 09:30:00,['domaine non blacklisté - accès autorisé'],normal
+156,2025-05-26 10:10:00,['fichier exécutable détecté'],normal
+156,2025-05-26 10:40:00,['policy violation detected for user zahra.mahdi'],normal
+156,2025-05-26 11:15:00,['consultation d’un email avec informations stratégiques'],normal
+156,2025-05-26 11:30:00,['téléchargement autorisé depuis dépôt officiel'],normal
+156,2025-05-26 12:30:00,[],normal
+156,2025-05-26 13:55:00,['lecture d’un email urgent sur le budget it'],normal
+156,2025-05-26 14:05:00,['new iam policy applied to user zahra.mahdi'],normal
+156,2025-05-26 14:30:00,['authentication token generated for user zahra.mahdi'],normal
+156,2025-05-26 16:35:00,[],normal
+156,2025-05-26 17:50:00,[],normal
+156,2025-05-27 01:50:00,[],normal
+156,2025-05-27 03:35:00,['successful logon - interactive'],normal
+156,2025-06-01 09:05:00,[],normal
+156,2025-06-01 11:20:00,[],normal
+156,2025-06-01 12:15:00,[],normal
+157,2025-05-26 09:20:00,['page classée comme site de crypto-mining'],normal
+157,2025-05-26 09:55:00,['signature de phishing connue détectée'],phishing
+157,2025-05-26 10:20:00,['upload de données détecté'],normal
+157,2025-05-26 11:05:00,"[""téléchargement d’une liste de contacts sécurisée: fichier 'infra_config_um6p.pdf' envoyé à 'ahmed.nafih@um6p.ma'"", 'déclenchement d’une règle ueba pour trafic inhabituel']",normal
+157,2025-05-26 12:20:00,['mfa challenge triggered for user zain.ghazal'],normal
+157,2025-05-26 13:20:00,['accès autorisé - utilisateur validé'],normal
+157,2025-05-26 13:45:00,['network share accessed'],normal
+157,2025-05-26 14:00:00,['user zain.ghazal account re-enabled'],normal
+157,2025-05-26 14:05:00,['user zain.ghazal account deleted'],normal
+157,2025-05-26 14:30:00,['mfa challenge triggered for user zain.ghazal'],normal
+157,2025-05-26 15:05:00,"['data import failed', 'utilisateur bloqué par politique réseau']",normal
+157,2025-05-26 18:35:00,['failed logon attempt using service account'],normal
+157,2025-05-27 00:05:00,['network interface disabled'],normal
+157,2025-05-27 03:20:00,[],normal
+157,2025-06-01 09:30:00,[],normal
+157,2025-06-01 10:30:00,[],normal
+157,2025-06-01 11:20:00,[],normal
+158,2025-05-26 09:25:00,[],normal
+158,2025-05-26 09:45:00,"['téléchargement d’un manuel d’accès vpn', 'consultation d’un email avec pièce jointe sensible']",normal
+158,2025-05-26 11:10:00,['accès refusé suite à politique de sécurité renforcée'],normal
+158,2025-05-26 12:15:00,"['user zaina.karim logged out successfully', 'utilisation de proxy public détectée']",normal
+158,2025-05-26 13:00:00,['domaine inconnu détecté'],normal
+158,2025-05-26 16:35:00,['fichier exécutable détecté'],normal
+158,2025-05-26 17:05:00,['url contenue dans courriel suspect'],normal
+158,2025-05-26 19:35:00,['new user account created'],normal
+158,2025-05-26 22:55:00,['account logged in from multiple locations'],normal
+158,2025-05-26 23:40:00,[],normal
+158,2025-06-01 09:05:00,[],normal
+158,2025-06-01 09:35:00,[],normal
+158,2025-06-01 10:40:00,[],normal
+158,2025-06-01 10:50:00,[],normal
+158,2025-06-01 11:00:00,[],normal
+159,2025-05-26 10:25:00,['multiples connexions simultanées détectées'],normal
+159,2025-05-26 11:50:00,['new iam policy applied to user zainab.karim'],normal
+159,2025-05-26 12:20:00,['url incluse dans liste grise'],normal
+159,2025-05-26 12:25:00,['connexion au webmail via ip validée par ad'],normal
+159,2025-05-26 12:55:00,['partage d’un rapport financier avec l’équipe'],normal
+159,2025-05-26 14:10:00,['utilisateur bloqué par politique réseau'],normal
+159,2025-05-26 15:40:00,[],normal
+159,2025-05-26 18:00:00,[],normal
+159,2025-05-27 02:30:00,['unauthorized access attempt blocked'],normal
+159,2025-06-01 09:00:00,[],normal
+159,2025-06-01 10:25:00,[],normal
+159,2025-06-01 11:25:00,[],normal
+159,2025-06-01 11:50:00,[],normal
+159,2025-06-01 12:00:00,[],normal
+159,2025-06-01 12:25:00,[],normal
+160,2025-05-26 10:10:00,[],normal
+160,2025-05-26 10:40:00,['navigation anormale détectée'],normal
+160,2025-05-26 10:50:00,['lecture d’un email de confirmation d’inscription'],normal
+160,2025-05-26 12:45:00,"['bloqué, domaine inconnu']",normal
+160,2025-05-26 13:25:00,['authentication token generated for user zaki.bahaa'],normal
+160,2025-05-26 14:55:00,['lien suspect partagé via messagerie interne'],normal
+160,2025-05-26 15:55:00,"[""suspicion d'activité automatisée""]",normal
+160,2025-05-26 17:05:00,[],normal
+160,2025-05-26 17:40:00,[],normal
+160,2025-05-26 18:20:00,['firewall rule added'],normal
+160,2025-05-26 22:30:00,[],normal
+160,2025-05-27 00:25:00,[],normal
+160,2025-05-27 01:35:00,[],normal
+160,2025-05-27 04:55:00,[],normal
+160,2025-06-01 09:05:00,[],normal
+160,2025-06-01 09:15:00,[],normal
+161,2025-05-26 09:00:00,['lecture d’un email d’alerte sécurité'],normal
+161,2025-05-26 09:10:00,['téléchargement d’une archive mail pour archivage'],normal
+161,2025-05-26 09:50:00,['user zayd.abdelrahim stopped sharing'],normal
+161,2025-05-26 10:50:00,['nom de domaine reconnu comme malveillant'],normal
+161,2025-05-26 13:05:00,['suppression d’un email confidentiel'],normal
+161,2025-05-26 13:15:00,['tentative de connexion brute force'],normal
+161,2025-05-26 13:30:00,['user zayd.abdelrahim account disabled'],normal
+161,2025-05-26 13:40:00,['failed logon attempt from unusual client'],normal
+161,2025-05-26 13:50:00,['lecture d’un email d’alerte sécurité'],normal
+161,2025-05-26 14:35:00,['accès refusé suite à politique de sécurité renforcée'],normal
+161,2025-05-26 16:40:00,['réception d’un email contenant des instructions critiques'],normal
+161,2025-05-26 16:55:00,['requête post vers site non autorisé'],normal
+161,2025-05-27 01:00:00,['failed logon from nearby host'],normal
+161,2025-05-27 05:05:00,[],normal
+161,2025-06-01 10:50:00,[],normal
+161,2025-06-01 11:20:00,[],normal
+161,2025-06-01 11:30:00,[],normal
+161,2025-06-01 12:40:00,[],normal
+162,2025-05-26 10:10:00,[],normal
+162,2025-05-26 11:00:00,[],normal
+162,2025-05-26 11:25:00,['group policy updated successfully'],normal
+162,2025-05-26 11:35:00,['user session disconnected'],normal
+162,2025-05-26 12:00:00,['vpn connection established'],normal
+162,2025-05-26 12:15:00,['signalement d’un email phishing par utilisateur'],phishing
+162,2025-05-26 12:30:00,['téléchargement d’une pièce jointe confidentielle'],normal
+162,2025-05-26 12:35:00,['lecture d’un email de confirmation d’inscription'],normal
+162,2025-05-26 13:50:00,['trafic redirigé vers honeypot'],normal
+162,2025-05-26 14:45:00,"[""recherche d’emails contenant des mots-clés sensibles: fichier 'plan_sauvegarde_donnees.xlsx'""]",normal
+162,2025-05-26 23:15:00,['normal logon - admin workstation'],normal
+162,2025-05-27 01:45:00,['user password reset by administrator'],normal
+162,2025-05-27 02:25:00,['unusual network activity detected'],normal
+162,2025-06-01 10:50:00,[],normal
+162,2025-06-01 11:35:00,[],normal
+162,2025-06-01 12:30:00,[],normal
+162,2025-06-01 12:50:00,[],normal
+162,2025-06-01 13:05:00,[],normal
+163,2025-05-26 09:15:00,['user zubair.abdulqadir enrolled in mfa'],normal
+163,2025-05-26 10:20:00,['signalement d’une tentative de fraude bancaire'],normal
+163,2025-05-26 10:25:00,['bloqué par firewall'],normal
+163,2025-05-26 10:30:00,['signaux de compromission détectés'],normal
+163,2025-05-26 10:35:00,['requête sortante bloquée'],normal
+163,2025-05-26 11:05:00,['connexion validée via double authentification'],normal
+163,2025-05-26 12:50:00,['analyse antivirus déclenchée'],normal
+163,2025-05-26 13:00:00,"['user added to security-enabled local group', 'connexion à la messagerie via un appareil mobile']",normal
+163,2025-05-26 14:00:00,"[""téléchargement d’une archive mail pour archivage: sujet 'modification des règles d’accès réseau'""]",normal
+163,2025-05-26 14:20:00,['accès refusé suite à politique de sécurité renforcée'],normal
+163,2025-05-26 14:35:00,['changement d’adresse email associé au compte'],normal
+163,2025-05-26 15:20:00,[],normal
+163,2025-05-26 16:05:00,['lien accédé plusieurs fois en quelques secondes'],normal
+163,2025-05-26 16:55:00,[],normal
+163,2025-05-27 00:35:00,"['group membership updated', 'attempt to read ad schema']",normal
+163,2025-05-27 00:50:00,[],normal
+163,2025-05-27 01:15:00,[],normal
+163,2025-05-27 02:25:00,['user removed from security group'],normal
+163,2025-06-01 10:05:00,[],normal
+163,2025-06-01 10:20:00,[],normal
+163,2025-06-01 11:00:00,[],normal
+163,2025-06-01 12:45:00,[],normal

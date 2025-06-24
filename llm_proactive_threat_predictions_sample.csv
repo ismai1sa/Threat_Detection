@@ -1,0 +1,221 @@
+user_account,time_window_start,event_count,total_bytes_sent,total_bytes_received,unique_security_actions,unique_event_categories,unique_dest_ips,unique_http_methods,hour_of_day,day_of_week,is_weekend,llm_context,llm_threat_assessment,predicted_threat_stage,llm_explanation
+tamer.karim,2025-06-01 09:00:00,1,0,0,1,0,1,0,9,6,1,"Heure de début: 2025-06-01 09:00:00
+Utilisateur: tamer.karim
+Compte d'événements sur l'heure: 1
+Total octets envoyés: 0
+Total octets reçus: 0
+Actions de sécurité uniques: 1
+Catégories d'événements uniques: 0
+Adresses IP de destination uniques: 1
+Méthodes HTTP uniques: 0
+Heure de la journée: 9, Jour de la semaine: 6 (0=Lundi, 6=Dimanche), Weekend: Oui
+",NEUTRE: L'activité semble normale et ne présente pas d'indicateurs de menace connus.,NEUTRE,L'activité semble normale et ne présente pas d'indicateurs de menace connus.
+noura.benali,2025-05-26 10:00:00,2,996,5453,0,0,0,0,10,0,0,"Heure de début: 2025-05-26 10:00:00
+Utilisateur: noura.benali
+Compte d'événements sur l'heure: 2
+Total octets envoyés: 996
+Total octets reçus: 5453
+Actions de sécurité uniques: 0
+Catégories d'événements uniques: 0
+Adresses IP de destination uniques: 0
+Méthodes HTTP uniques: 0
+Heure de la journée: 10, Jour de la semaine: 0 (0=Lundi, 6=Dimanche), Weekend: Non
+",NEUTRE: L'activité semble normale et ne présente pas d'indicateurs de menace connus.,NEUTRE,L'activité semble normale et ne présente pas d'indicateurs de menace connus.
+lina.abdulaziz,2025-06-01 12:00:00,2,0,0,2,0,1,0,12,6,1,"Heure de début: 2025-06-01 12:00:00
+Utilisateur: lina.abdulaziz
+Compte d'événements sur l'heure: 2
+Total octets envoyés: 0
+Total octets reçus: 0
+Actions de sécurité uniques: 2
+Catégories d'événements uniques: 0
+Adresses IP de destination uniques: 1
+Méthodes HTTP uniques: 0
+Heure de la journée: 12, Jour de la semaine: 6 (0=Lundi, 6=Dimanche), Weekend: Oui
+",NEUTRE: L'activité semble normale et ne présente pas d'indicateurs de menace connus.,NEUTRE,L'activité semble normale et ne présente pas d'indicateurs de menace connus.
+shaden.naqib,2025-05-26 18:00:00,1,0,0,0,0,1,0,18,0,0,"Heure de début: 2025-05-26 18:00:00
+Utilisateur: shaden.naqib
+Compte d'événements sur l'heure: 1
+Total octets envoyés: 0
+Total octets reçus: 0
+Actions de sécurité uniques: 0
+Catégories d'événements uniques: 0
+Adresses IP de destination uniques: 1
+Méthodes HTTP uniques: 0
+Heure de la journée: 18, Jour de la semaine: 0 (0=Lundi, 6=Dimanche), Weekend: Non
+",NEUTRE: L'activité semble normale et ne présente pas d'indicateurs de menace connus.,NEUTRE,L'activité semble normale et ne présente pas d'indicateurs de menace connus.
+rima.bashir,2025-05-26 12:00:00,2,0,0,2,0,1,0,12,0,0,"Heure de début: 2025-05-26 12:00:00
+Utilisateur: rima.bashir
+Compte d'événements sur l'heure: 2
+Total octets envoyés: 0
+Total octets reçus: 0
+Actions de sécurité uniques: 2
+Catégories d'événements uniques: 0
+Adresses IP de destination uniques: 1
+Méthodes HTTP uniques: 0
+Heure de la journée: 12, Jour de la semaine: 0 (0=Lundi, 6=Dimanche), Weekend: Non
+",NEUTRE: L'activité semble normale et ne présente pas d'indicateurs de menace connus.,NEUTRE,L'activité semble normale et ne présente pas d'indicateurs de menace connus.
+farouk.karim,2025-05-26 15:00:00,1,0,0,0,0,1,0,15,0,0,"Heure de début: 2025-05-26 15:00:00
+Utilisateur: farouk.karim
+Compte d'événements sur l'heure: 1
+Total octets envoyés: 0
+Total octets reçus: 0
+Actions de sécurité uniques: 0
+Catégories d'événements uniques: 0
+Adresses IP de destination uniques: 1
+Méthodes HTTP uniques: 0
+Heure de la journée: 15, Jour de la semaine: 0 (0=Lundi, 6=Dimanche), Weekend: Non
+",NEUTRE: L'activité semble normale et ne présente pas d'indicateurs de menace connus.,NEUTRE,L'activité semble normale et ne présente pas d'indicateurs de menace connus.
+dalia.abdulaziz,2025-05-26 16:00:00,2,0,0,1,0,1,0,16,0,0,"Heure de début: 2025-05-26 16:00:00
+Utilisateur: dalia.abdulaziz
+Compte d'événements sur l'heure: 2
+Total octets envoyés: 0
+Total octets reçus: 0
+Actions de sécurité uniques: 1
+Catégories d'événements uniques: 0
+Adresses IP de destination uniques: 1
+Méthodes HTTP uniques: 0
+Heure de la journée: 16, Jour de la semaine: 0 (0=Lundi, 6=Dimanche), Weekend: Non
+",NEUTRE: L'activité semble normale et ne présente pas d'indicateurs de menace connus.,NEUTRE,L'activité semble normale et ne présente pas d'indicateurs de menace connus.
+jamila.kamal,2025-05-26 13:00:00,3,0,0,3,0,1,0,13,0,0,"Heure de début: 2025-05-26 13:00:00
+Utilisateur: jamila.kamal
+Compte d'événements sur l'heure: 3
+Total octets envoyés: 0
+Total octets reçus: 0
+Actions de sécurité uniques: 3
+Catégories d'événements uniques: 0
+Adresses IP de destination uniques: 1
+Méthodes HTTP uniques: 0
+Heure de la journée: 13, Jour de la semaine: 0 (0=Lundi, 6=Dimanche), Weekend: Non
+","INDICE_FAIBLE: Activité légèrement inhabituelle ou quelques indicateurs faibles, nécessitant une surveillance accrue.",INDICE_FAIBLE,"Activité légèrement inhabituelle ou quelques indicateurs faibles, nécessitant une surveillance accrue."
+sabir.jarrah,2025-05-26 14:00:00,1,0,0,0,0,1,0,14,0,0,"Heure de début: 2025-05-26 14:00:00
+Utilisateur: sabir.jarrah
+Compte d'événements sur l'heure: 1
+Total octets envoyés: 0
+Total octets reçus: 0
+Actions de sécurité uniques: 0
+Catégories d'événements uniques: 0
+Adresses IP de destination uniques: 1
+Méthodes HTTP uniques: 0
+Heure de la journée: 14, Jour de la semaine: 0 (0=Lundi, 6=Dimanche), Weekend: Non
+",NEUTRE: L'activité semble normale et ne présente pas d'indicateurs de menace connus.,NEUTRE,L'activité semble normale et ne présente pas d'indicateurs de menace connus.
+wael.abdulrahim,2025-05-27 00:00:00,1,0,0,0,0,1,0,0,1,0,"Heure de début: 2025-05-27 00:00:00
+Utilisateur: wael.abdulrahim
+Compte d'événements sur l'heure: 1
+Total octets envoyés: 0
+Total octets reçus: 0
+Actions de sécurité uniques: 0
+Catégories d'événements uniques: 0
+Adresses IP de destination uniques: 1
+Méthodes HTTP uniques: 0
+Heure de la journée: 0, Jour de la semaine: 1 (0=Lundi, 6=Dimanche), Weekend: Non
+",NEUTRE: L'activité semble normale et ne présente pas d'indicateurs de menace connus.,NEUTRE,L'activité semble normale et ne présente pas d'indicateurs de menace connus.
+shatha.abdallah,2025-05-26 09:00:00,2,0,0,2,0,1,0,9,0,0,"Heure de début: 2025-05-26 09:00:00
+Utilisateur: shatha.abdallah
+Compte d'événements sur l'heure: 2
+Total octets envoyés: 0
+Total octets reçus: 0
+Actions de sécurité uniques: 2
+Catégories d'événements uniques: 0
+Adresses IP de destination uniques: 1
+Méthodes HTTP uniques: 0
+Heure de la journée: 9, Jour de la semaine: 0 (0=Lundi, 6=Dimanche), Weekend: Non
+",NEUTRE: L'activité semble normale et ne présente pas d'indicateurs de menace connus.,NEUTRE,L'activité semble normale et ne présente pas d'indicateurs de menace connus.
+joud.nasser,2025-05-26 12:00:00,2,0,0,0,0,1,1,12,0,0,"Heure de début: 2025-05-26 12:00:00
+Utilisateur: joud.nasser
+Compte d'événements sur l'heure: 2
+Total octets envoyés: 0
+Total octets reçus: 0
+Actions de sécurité uniques: 0
+Catégories d'événements uniques: 0
+Adresses IP de destination uniques: 1
+Méthodes HTTP uniques: 1
+Heure de la journée: 12, Jour de la semaine: 0 (0=Lundi, 6=Dimanche), Weekend: Non
+",NEUTRE: L'activité semble normale et ne présente pas d'indicateurs de menace connus.,NEUTRE,L'activité semble normale et ne présente pas d'indicateurs de menace connus.
+reem.ali,2025-05-26 11:00:00,3,0,0,3,0,1,0,11,0,0,"Heure de début: 2025-05-26 11:00:00
+Utilisateur: reem.ali
+Compte d'événements sur l'heure: 3
+Total octets envoyés: 0
+Total octets reçus: 0
+Actions de sécurité uniques: 3
+Catégories d'événements uniques: 0
+Adresses IP de destination uniques: 1
+Méthodes HTTP uniques: 0
+Heure de la journée: 11, Jour de la semaine: 0 (0=Lundi, 6=Dimanche), Weekend: Non
+","INDICE_FAIBLE: Activité légèrement inhabituelle ou quelques indicateurs faibles, nécessitant une surveillance accrue.",INDICE_FAIBLE,"Activité légèrement inhabituelle ou quelques indicateurs faibles, nécessitant une surveillance accrue."
+nawal.ibrahim,2025-05-26 09:00:00,2,0,0,2,0,1,0,9,0,0,"Heure de début: 2025-05-26 09:00:00
+Utilisateur: nawal.ibrahim
+Compte d'événements sur l'heure: 2
+Total octets envoyés: 0
+Total octets reçus: 0
+Actions de sécurité uniques: 2
+Catégories d'événements uniques: 0
+Adresses IP de destination uniques: 1
+Méthodes HTTP uniques: 0
+Heure de la journée: 9, Jour de la semaine: 0 (0=Lundi, 6=Dimanche), Weekend: Non
+",NEUTRE: L'activité semble normale et ne présente pas d'indicateurs de menace connus.,NEUTRE,L'activité semble normale et ne présente pas d'indicateurs de menace connus.
+jamila.kamal,2025-05-26 16:00:00,1,0,0,1,0,1,0,16,0,0,"Heure de début: 2025-05-26 16:00:00
+Utilisateur: jamila.kamal
+Compte d'événements sur l'heure: 1
+Total octets envoyés: 0
+Total octets reçus: 0
+Actions de sécurité uniques: 1
+Catégories d'événements uniques: 0
+Adresses IP de destination uniques: 1
+Méthodes HTTP uniques: 0
+Heure de la journée: 16, Jour de la semaine: 0 (0=Lundi, 6=Dimanche), Weekend: Non
+",NEUTRE: L'activité semble normale et ne présente pas d'indicateurs de menace connus.,NEUTRE,L'activité semble normale et ne présente pas d'indicateurs de menace connus.
+zohair.salim,2025-05-26 13:00:00,1,0,0,0,0,1,1,13,0,0,"Heure de début: 2025-05-26 13:00:00
+Utilisateur: zohair.salim
+Compte d'événements sur l'heure: 1
+Total octets envoyés: 0
+Total octets reçus: 0
+Actions de sécurité uniques: 0
+Catégories d'événements uniques: 0
+Adresses IP de destination uniques: 1
+Méthodes HTTP uniques: 1
+Heure de la journée: 13, Jour de la semaine: 0 (0=Lundi, 6=Dimanche), Weekend: Non
+",NEUTRE: L'activité semble normale et ne présente pas d'indicateurs de menace connus.,NEUTRE,L'activité semble normale et ne présente pas d'indicateurs de menace connus.
+samira.karim,2025-05-26 20:00:00,2,0,0,0,0,1,0,20,0,0,"Heure de début: 2025-05-26 20:00:00
+Utilisateur: samira.karim
+Compte d'événements sur l'heure: 2
+Total octets envoyés: 0
+Total octets reçus: 0
+Actions de sécurité uniques: 0
+Catégories d'événements uniques: 0
+Adresses IP de destination uniques: 1
+Méthodes HTTP uniques: 0
+Heure de la journée: 20, Jour de la semaine: 0 (0=Lundi, 6=Dimanche), Weekend: Non
+",NEUTRE: L'activité semble normale et ne présente pas d'indicateurs de menace connus.,NEUTRE,L'activité semble normale et ne présente pas d'indicateurs de menace connus.
+zubair.abdulqadir,2025-05-26 09:00:00,1,0,0,1,0,1,0,9,0,0,"Heure de début: 2025-05-26 09:00:00
+Utilisateur: zubair.abdulqadir
+Compte d'événements sur l'heure: 1
+Total octets envoyés: 0
+Total octets reçus: 0
+Actions de sécurité uniques: 1
+Catégories d'événements uniques: 0
+Adresses IP de destination uniques: 1
+Méthodes HTTP uniques: 0
+Heure de la journée: 9, Jour de la semaine: 0 (0=Lundi, 6=Dimanche), Weekend: Non
+",NEUTRE: L'activité semble normale et ne présente pas d'indicateurs de menace connus.,NEUTRE,L'activité semble normale et ne présente pas d'indicateurs de menace connus.
+zainab.karim,2025-05-26 18:00:00,1,0,0,0,0,1,0,18,0,0,"Heure de début: 2025-05-26 18:00:00
+Utilisateur: zainab.karim
+Compte d'événements sur l'heure: 1
+Total octets envoyés: 0
+Total octets reçus: 0
+Actions de sécurité uniques: 0
+Catégories d'événements uniques: 0
+Adresses IP de destination uniques: 1
+Méthodes HTTP uniques: 0
+Heure de la journée: 18, Jour de la semaine: 0 (0=Lundi, 6=Dimanche), Weekend: Non
+",NEUTRE: L'activité semble normale et ne présente pas d'indicateurs de menace connus.,NEUTRE,L'activité semble normale et ne présente pas d'indicateurs de menace connus.
+zubair.abdulqadir,2025-05-26 13:00:00,2,0,0,1,0,1,0,13,0,0,"Heure de début: 2025-05-26 13:00:00
+Utilisateur: zubair.abdulqadir
+Compte d'événements sur l'heure: 2
+Total octets envoyés: 0
+Total octets reçus: 0
+Actions de sécurité uniques: 1
+Catégories d'événements uniques: 0
+Adresses IP de destination uniques: 1
+Méthodes HTTP uniques: 0
+Heure de la journée: 13, Jour de la semaine: 0 (0=Lundi, 6=Dimanche), Weekend: Non
+",NEUTRE: L'activité semble normale et ne présente pas d'indicateurs de menace connus.,NEUTRE,L'activité semble normale et ne présente pas d'indicateurs de menace connus.
